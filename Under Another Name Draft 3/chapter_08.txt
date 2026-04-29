@@ -1,31 +1,291 @@
-The silence lasted for nearly two months. Thomas finalized his deployment preparations for Iraq. Sarah was planning to join him there eventually; the company maintained secure, high-end compounds for senior staff. 
-
-On a Tuesday morning in late May, an email arrived to his personal address. 
-
-*Thomas. The landlord is threatening eviction. Anya's school fees are due on Friday. I have nowhere else to ask. I am sorry. - Olesya.*
-
-It was a simple statement of system failure. 
-
-He opened his international transfer portal. He calculated the sum required to cover rent for three months and the school fees. He clicked 'Transfer'. 
-
-He did not reply to the email. The transfer itself was the reply. It was a functional response to a logistical crisis.
-
-Three days later, he received a text message. 
-
-*The money is here. I paid the landlord. I paid the school. Thank you, Thomas. You saved us.*
-
-*Make sure you get a receipt from the landlord,* he typed back.
-
-*I have it. I am looking for work every day.*
-
-The pattern was set. When a problem arose—a medical bill, a sudden hike in utility prices—she would notify him. Thomas would read the message, calculate the required sum, and initiate the transfer. 
-
-He justified it to himself as an expression of his unconditional love, converted into a manageable logistical system. He could not be there to physically maintain the space around her, so he provided the capital for her to maintain it herself. 
-
-He did not discuss this with Sarah. The funds came from his separate account. 
-
-As the weeks turned into months, the transfers morphed into a baseline subsidy. He was, effectively, paying a subscription to maintain her stability. 
-
-In London, his life was built on parity and mutual competence with Sarah. Sarah was his equal, a partner in a joint venture. But in the shadow of Baku, he was the sole architect of survival. He provided the structure that Olesya desperately craved. 
-
-He loved the parity with Sarah, and he loved the absolute dependency of Olesya. He held both realities in perfect, isolated equilibrium. He did not see the inherent fragility of equality without proximity, or dependency sustained only by capital.
+Chapter 8
+The spreadsheet had become a living thing. It breathed on the screen, a grid of green and red cells that pulsed in time with Thomas’s heartbeat. He sat before it in the grey dawn light, his eyes gritty from lack of sleep. The laptop fan whirred softly, a mechanical wheeze in the silent flat.
+Row forty-two: Cloud Storage – Compromised.
+Row forty-three: Utility Provider – Secure (Maybe).
+Row forty-four: Online Banking – Secure (Theoretically).
+The qualifiers were the problem. Maybe. Theoretically. They were cracks in the foundation, tiny fissures where the doubt seeped in. He had spent the night adding rows, categorizing every digital touchpoint of his life. There were so many. He hadn’t realized how much of himself existed in the cloud until he tried to lock it all away. Photos, documents, backups, subscriptions. Each one a door. Each one a potential entry point for her.
+He typed: Delete Cloud Storage?
+The cursor blinked.
+Yes. No.
+If he deleted it, he lost everything. Ten years of photos. Scanned copies of his passport. The digitized tax returns. The scan of his mother’s will. Gone. Vaporized.
+But if he kept it, she was in there. Walking through his albums. Looking at pictures of him before he met her. Pictures of them together. Smiling. Happy. Lies captured in high resolution.
+He hovered over the delete key.
+His finger trembled.
+He couldn’t do it. Not yet.
+Instead, he changed the password again. Generated a new sixty-character string of random nonsense. Copied it. Pasted it. Saved it in a physical notebook this time. Pen on paper. Ink on fibre. Unhackable. Or so he hoped.
+He wrote the date next to it. 14th November. 06:42.
+He underlined it twice.
+The pen scratched against the paper, a harsh, dry sound. It felt primal. Analog. Safe.
+He closed the notebook. Hid it inside a hollowed-out book on the shelf. The History of the Decline and Fall of the Roman Empire. Fitting. Everything fell eventually. Empires. Relationships. Minds.
+He stood up. His back cracked, a series of small pops that echoed in the room. He walked to the kitchen. The stains on the floor seemed brighter in the morning light. Seven of them. A dark archipelago in the laminate sea. He navigated them carefully, step-step-hop. A dance of avoidance.
+He filled the kettle. Watched the water rise.
+Click.
+The red light glowed.
+He leaned against the counter, waiting. The silence of the flat pressed against his eardrums. It wasn’t empty silence anymore. It was heavy. Charged. Like the air before a thunderstorm. She was out there. In Istanbul. Or maybe not. Maybe she was closer. Maybe she was in the Wi-Fi signals passing through the walls. Maybe she was in the code of the kettle’s timer.
+Paranoia was a lens. Once you put it on, you couldn’t see anything else. Every object held a secret. Every shadow hid a watcher.
+The kettle clicked off.
+He made coffee. Instant. Black.
+Drank it standing up. Scalded his tongue. Didn’t care.
+The heat in his mouth was real. A sharp, physical sensation that grounded him. For a second, he wasn’t thinking about passwords or photos. He was just feeling the burn.
+Then the moment passed.
+He rinsed the mug. Left it on the draining board. Wet. Dripping. Another mark. Another trace.
+He should dry it.
+He didn’t.
+He went back to the laptop.
+Sat down.
+Opened the email client.
+The inbox was empty. No new messages from Unknown. No photos of Marrakesh. No taunts.
+Just silence.
+That was worse. The silence meant she was waiting. Planning. Watching him wait.
+He refreshed the page.
+Nothing.
+Refreshed again.
+Nothing.
+He stopped. Forced his hands to rest on the desk.
+Stop it, he thought. She’s not watching you refresh your email. She’s not sitting there laughing.
+But he couldn’t be sure. That was the point. Uncertainty was the weapon.
+He needed to work.
+He had taken three days off. Called in sick. Said he had a virus. Technically true. A digital virus. A psychological contagion.
+His manager, Janet, had sounded concerned. Take all the time you need, Tom. Health comes first.
+He wondered if she knew. If Olesya had called the office too. Hi, this is Tom’s partner. He’s going through a rough patch. Just checking he’s okay.
+The thought made his stomach turn.
+He opened the work portal. Logged in.
+The new password worked.
+He stared at the dashboard. Tasks. Projects. Deadlines.
+They looked like words from a foreign language. Q3 Report. Client Meeting. Budget Review.
+Meaningless.
+How could he care about a budget when his entire reality was fracturing?
+He clicked on Q3 Report.
+A spreadsheet opened. Numbers. Cells. Formulas.
+He started typing. Random data. Just to fill the space.
+100. 200. 300.
+It felt like playing house. Pretending to be a person who did things.
+His phone buzzed.
+He jumped. The chair scraped back.
+He stared at the device on the table.
+Unknown Number.
+He let it ring.
+Once. Twice. Three times.
+Four.
+Five.
+It stopped.
+He waited.
+No voicemail.
+He exhaled. A long, shaky breath.
+Then it rang again.
+Same number.
+He picked it up. Didn’t speak. Just held it to his ear.
+Silence.
+Then, a click.
+‘Tom.’
+Her voice. Clear. Closer than before. As if she was in the room.
+‘I’m here,’ he said. His voice sounded dead. Flat.
+‘I know. I can see you.’
+‘Where?’
+‘On the screen.’
+Thomas looked around. The laptop. The tablet. The smart TV. All black. All dormant.
+‘Which screen?’
+‘Does it matter? They’re all windows, Tom. You just don’t know which ones are open.’
+‘Stop it.’
+‘I’m not doing anything. You’re the one staring at screens all day. Talking to them. Typing into them. I’m just… visiting.’
+‘What do you want?’
+‘I told you. The experiment.’
+‘It’s not an experiment. It’s torture.’
+‘Is there a difference? Both involve pressure. Both reveal what’s underneath.’
+‘There’s nothing underneath. You’ve scraped it all away.’
+‘I don’t believe that. I think there’s something core. Something hard. And I want to see if it breaks.’
+‘I’m breaking, Olesya. Are you happy?’
+‘Happy isn’t the goal. Truth is.’
+‘What truth?’
+‘That you were never safe. That none of us are. We just pretend. We build little fortresses of passwords and locks and routines, and we tell ourselves we’re secure. But it’s all paper. One wind, and it blows away.’
+Thomas gripped the phone. ‘Why me? Why now?’
+‘Because you were the most comfortable. The most asleep. You needed the wake-up call.’
+‘I needed peace.’
+‘Peace is stagnation. You were rotting, Tom. Slowly. Quietly. I just… accelerated the process.’
+‘You stole from me.’
+‘I liberated you.’
+‘You invaded my privacy.’
+‘I showed you that privacy is an illusion.’
+Thomas closed his eyes. ‘I hate you.’
+‘I know. But you’re talking to me. You’re engaging. Before, you were just… existing. Now you’re alive. Angry. Scared. Present.’
+‘I wish I was dead.’
+‘No, you don’t. You want to survive. You want to win.’
+‘There is no winning.’
+‘Maybe not. But there’s playing. And I’d rather play than sleep.’
+The line went quiet. Thomas heard the sound of traffic. Distant. Muffled.
+‘Where are you?’ he asked.
+‘Close.’
+‘In London?’
+‘Maybe.’
+‘Are you watching me?’
+‘Always.’
+‘Physically?’
+‘Does it matter?’
+‘Yes.’
+‘Why?’
+‘Because if you’re here, I can find you. I can stop you.’
+‘You can’t stop this, Tom. It’s inside you now. The doubt. The fear. It’s part of your operating system. Even if I disappear, it stays.’
+Thomas felt a cold wave wash over him. She was right. Even if she died tomorrow, the paranoia would remain. He would check his passwords forever. He would look over his shoulder in every street. He would suspect every silence.
+She had infected him.
+‘I’m coming to find you,’ he said.
+‘Try,’ she said. ‘But be careful. You might not like what you find.’
+‘What does that mean?’
+‘It means the experiment isn’t over. Phase Two starts now.’
+‘Phase Two?’
+‘Watch your email.’
+The line went dead.
+Thomas lowered the phone.
+Phase Two.
+What did that mean? What else could she do?
+He opened the laptop.
+Refreshed the email.
+One new message.
+Sender: Unknown.
+Subject: Phase Two.
+He opened it.
+No text.
+Just a link.
+A URL to a live video feed.
+He hesitated.
+His finger hovered over the trackpad.
+Don’t click. Don’t look.
+But he had to know.
+He clicked.
+The browser opened.
+A video player loaded.
+Black screen.
+Then, image.
+It was a view of a room.
+A kitchen.
+Laminate flooring.
+Seven dark stains.
+A laptop on a table.
+A man sitting in front of it.
+Pale. Haggard. Eyes wide with terror.
+It was him.
+The camera angle was from the corner of the ceiling. High up. Hidden.
+In his own flat.
+She wasn’t in Istanbul.
+She was here.
+Or she had been.
+The feed was live. He saw himself move. Saw his hand tremble as he reached for the mouse.
+He spun around. Looked at the ceiling.
+Nothing. Just the smoke detector. A small white disc.
+Was it inside that?
+He stood up. Knocked the chair over.
+Stared at the detector.
+‘Olesya!’ he shouted. ‘I know you’re watching!’
+Silence.
+Just the hum of the fridge. The tick of the heating.
+He ran to the window. Looked out.
+The opposite building. Rows of windows.
+Which one?
+Was she there? With a telescope? A camera?
+Or was the feed recorded? Looping?
+He looked back at the screen.
+The image on the screen showed him looking out the window.
+It was live.
+She was in the flat.
+Or she had installed a camera.
+When?
+How?
+He remembered the last time she was here. Packing. Rushing.
+Had she climbed on a chair? Slipped something into the detector?
+He couldn’t remember. Memory was a sieve.
+He grabbed a chair. Dragged it to the corner.
+Climbed up.
+Reached for the detector.
+Twisted it.
+Pulled it down.
+Wires dangled.
+He tore it open.
+Circuit board. Battery. Sensor.
+No camera.
+Just a standard smoke detector.
+He dropped it. It crashed to the floor. Plastic shattering.
+He looked around.
+Where else?
+The TV? The laptop webcam? The smart speaker?
+He unplugged everything. Yanked cords from sockets. Threw devices onto the sofa.
+The flat was a mess of wires and plastic.
+He stood in the centre. Breathing hard.
+Looked at the laptop screen.
+The feed was still running.
+He was still there. Standing in the room.
+But the angle hadn’t changed.
+If he had unplugged the camera, why was the feed still live?
+Unless…
+Unless it wasn’t a camera in the room.
+Unless it was a screen share.
+Unless she was controlling his laptop.
+He looked at the trackpad.
+Moved his hand.
+On the screen, his hand moved.
+Real time.
+She wasn’t watching through a hidden lens.
+She was watching through his own eyes. Through his own device.
+She had remote access.
+Full control.
+He slammed the laptop shut.
+The screen went black.
+But the feed… if she had root access, she could still see. Through the microphone. Through the keyboard strokes.
+He grabbed the laptop. Shoved it into a drawer. Slammed it shut.
+Locked the drawer.
+He stood there. Trembling.
+Nowhere was safe.
+His own tools were turned against him.
+He slid down the wall. Sat on the floor.
+Head in hands.
+Phase Two.
+Surveillance from the inside.
+He was living in a panopticon where the guard was a ghost and the walls were made of code.
+He stayed there for hours.
+The light faded. The room grew dark.
+He didn’t move.
+Didn’t eat.
+Didn’t drink.
+Just sat. Listening.
+Waiting for the next move.
+Sleep came eventually. Not because he wanted it, but because his body shut down.
+He dreamt of eyes. Thousands of them. Embedded in walls. In ceilings. In his own skin. Watching. Blinking. Recording.
+He dreamt of Olesya. Sitting at a desk. Typing. Controlling his limbs like a puppet master.
+He woke up gasping.
+Pitch black.
+Silence.
+He fumbled for his phone.
+It buzzed in his hand.
+Unknown Number.
+He answered.
+‘Hello?’
+Silence.
+Click.
+Silence.
+Recording ended.
+He put the phone down.
+Lay back on the floor. Curled up.
+Tomorrow he would burn the laptop. Smash the phone. Move out.
+But tonight, he just lay there.
+In the dark.
+Listening to the silence.
+Wondering if she was watching him right now. Through the darkness. Through the walls.
+Wondering if he was real. Or just a simulation in her game.
+Just access.
+Under another name.
+The thought drifted through his mind.
+He pushed it away.
+Sleep took him.
+When he woke, the sun was up.
+Bright. Harsh.
+The flat was still empty.
+The phone was silent.
+He got up.
+Showered. Dressed.
+Made coffee.
+Drank it standing up.
+Looked at the eight stains on the floor. The broken smoke detector. The pile of unplugged devices.
+Left them.
+Opened the door.
+Stepped out.
+Locked it behind him.
+Walked down the stairs.
+Into the day.
