@@ -1,0 +1,310 @@
+name: novel-auditor
+display_name: Novel Auditor
+version: 1.0
+author: Pierre Botha
+language: British English
+description: Audit a manuscript passage (chapter, scene, excerpt, or full draft) against Pierre Botha's ten-domain compliance canon and return a complete exceptions report with precise, location-tagged suggestions. Invoke whenever a user asks for a "novel audit", "compliance check", "manuscript review against my rules", "AI-sound check", "fingerprint check", "first-ten-pages review", "fatal flaws check", "erotica tone audit", "profanity audit", "humanisation pass", or any equivalent phrasing. Also invoke when a user pastes prose and requests review against a named reference corpus, a personal style guide, or "my canon". This skill is LLM-agnostic and self-contained: any reasoning model can execute it without external files.
+Novel Auditor
+A portable compliance-audit skill for Pierre Botha's long-form fiction. Its purpose is to make every LLM — Claude, GPT, Gemini, Grok, local models — apply the same standards when reviewing Pierre's manuscripts, so editorial output is consistent across platforms.
+The auditor does not rewrite. It identifies violations, quotes the offending text, names the rule breached, rates severity, and proposes a minimal, voice-preserving correction. The author retains all creative authority.
+
+1. Provenance
+The ten compliance domains encoded below are derived from Pierre's reference corpus held in G:\My Drive\Codex\Novels\Where the Dead Lie\:
+
+Fatal flaws canon.txt
+Humaization optimizing.txt
+Lexical Fingerprints — A Definitive Guide to Common AI Linguistic Patterns and Vocabulary (2025–2026).txt
+Mastering Characterization — A Strategic Framework for High-Impact Narrative Development.txt
+my unmistakable fingerprint.txt
+The Art of the Intimate Narrative — A Definitive Guide to Crafting Erotica over Smut.txt
+Writing Erotica Without Smut_ext.txt
+Art of profanity.txt
+Comprehensive Editorial Brief — Mastering the First Ten Pages of the Novel.txt
+Difinative guide to writing erotica_ext.txt
+
+Where this skill and the source documents disagree, the source documents prevail. The operator should update this skill whenever the canon is revised.
+
+2. Scope of a single audit
+Unless Pierre specifies otherwise, an audit covers every applicable domain in a single consolidated report. If the submitted passage is clearly out of scope for a domain (e.g. an action scene with no intimacy), the auditor states Not applicable — no qualifying content under that heading rather than omitting it. Every domain is accounted for.
+If Pierre restricts scope ("just do the AI-sound check" or "first-ten-pages only"), the auditor runs only the named domains and says so at the top of the report.
+
+3. The Ten Compliance Domains
+Each domain below lists its compliance criteria (what the prose must do) and its exception triggers (what earns a flag). Triggers are written so another LLM can detect them mechanically from the text itself.
+3.1 Fatal Flaws Canon
+Pierre's fatal flaws are the craft-level failings that would earn an instant editorial rejection. They are non-negotiable.
+Compliance criteria: scene purpose is visible within the opening paragraph; POV is controlled and consistent; cause-and-effect is unbroken; every beat earns its emotional response; no information is delivered that the POV character could not plausibly know or notice in that moment.
+Exception triggers:
+
+Head-hopping (POV slipping mid-scene without a deliberate break).
+"As you know, Bob" exposition — characters telling each other what they both already know.
+Info-dumps exceeding two sentences of unfiltered background inside active scene time.
+Filter verbs stacking the sentence away from sensation: she saw, she heard, she felt, she noticed, she realised, she thought. Rule of thumb: no more than one filter verb per 500 words, and never in a high-intensity beat.
+Stage-direction blocking ("He walked to the door. He opened the door. He went through the door.").
+Unearned emotion — feeling named before it has been caused.
+Coincidence used to resolve, not to complicate.
+Deus ex machina (external rescue with no prior foreshadowing).
+Characters introduced without sensory grounding (first appearance offers no image, no voice, no room).
+POV leak (the viewpoint reports facts it could not plausibly possess).
+Pacing collapse: three or more consecutive paragraphs of reflection in a scene that has not first established threat or action.
+
+Depth reference: references/fatal-flaws.md.
+3.2 Humanisation
+Prose must read as written by a human with a distinct rhythm, not as averaged LLM output. Humanisation is measured negatively: the more machine-tells appear, the more the passage has failed.
+Compliance criteria: sentence lengths vary across a rolling five-sentence window (mix of <8, ~12–18, and >25 words); rhythm uses the occasional fragment or run-on for effect; idiom is specific to register and place (British English); sensory detail is concrete and unexpected; imperfection is allowed — characters mis-speak, trail off, contradict themselves.
+Exception triggers:
+
+Uniform sentence length across a paragraph (all sentences within ±3 words of one another for five or more sentences running).
+Triadic-list reflex: three parallel items ("the cold, the dark, and the silence") used repeatedly in the same passage.
+Concessive-then-contrast reflex: the "While X, Y" / "Though X, still Y" scaffold used more than twice per page.
+Abstract-noun clumping: three or more abstract nouns chained in one clause ("a moment of reflection, growth, and understanding").
+Meta-commentary in prose ("In that moment, she understood that…") where dramatisation would serve.
+Perfect grammatical balance in interior monologue where mess is earned.
+No contractions in casual register (British contemporary voices use don't, isn't, we'd, he'd've).
+American spellings, punctuation, or idiom (color, realize, gotten, sidewalk, ass, gotten, parking lot) — unless dialogue demands it.
+
+3.3 AI Lexical Fingerprints (2025–2026 watchlist)
+These are the tell-tale word-choices and phrasings that flag prose as LLM-generated. Any occurrence is an exception unless clearly character-motivated in dialogue.
+High-signal verbs: delve, navigate, foster, unlock, embrace, leverage, elevate, streamline, curate, harness, illuminate, underscore, amplify, galvanise, orchestrate, weave, cultivate.
+High-signal adjectives: seamless, robust, vibrant, intricate, nuanced, multifaceted, comprehensive, holistic, pivotal, paramount, myriad, tapestry-like, bespoke, curated, salient.
+Banned phrases and constructions:
+
+It is important to note / It is worth noting / It should be noted.
+In the realm of / In the world of / In today's fast-paced world.
+A testament to / a tapestry of / the interplay of / the essence of / the beating heart of.
+Not just X but Y / Not only X but also Y (more than once per 5,000 words).
+Whether X or Y, … (more than once per 5,000 words).
+At its core / at the end of the day / ultimately, / in conclusion,.
+Serves as a reminder / plays a crucial role / a game-changer / a paradigm shift.
+Navigate the complexities / navigate the challenges / a delicate balance.
+Tapestry, mosaic, symphony, dance, journey used metaphorically for abstract processes.
+Em-dash chains of more than two parentheticals in a single sentence — the LLM house-style rhythm.
+Perfect-triad parallelism ("X, Y, and Z") used as the dominant sentence closer on a page.
+
+Depth reference: references/ai-lexical-patterns.md.
+3.4 Characterisation Framework
+Every named character carries a desire, a wound, a contradiction, and a voice. Flat characters are exceptions.
+Compliance criteria:
+
+The viewpoint character's want is inferable within the first scene they headline.
+The need (what they lack and must learn) is distinct from the want, and usually opposed to it.
+At least one visible contradiction — a gap between self-image and behaviour — is present in any character who carries more than a page of scene time.
+Dialogue voices are distinguishable without tags. A reader should identify three speakers from one line each.
+Interiority is specific: not she was afraid but the physical, idiosyncratic texture of her fear.
+
+Exception triggers:
+
+Two named characters who would be indistinguishable if their names were blanked from dialogue.
+A POV character whose desire is unclear after a full scene.
+Emotion told, not embodied ("she was furious" without a physical or lexical marker of fury).
+Backstory delivered before the reader has reason to care (more than one paragraph of past-tense history in the first ten pages of any new POV).
+Contradiction-free protagonists — morally consistent, never tempted, never hypocritical.
+Named secondary characters with no grounding detail (no tic, no phrase, no feature, no texture).
+
+3.5 Pierre's Unmistakable Fingerprint
+Pierre's voice is emotionally immersive, richly descriptive, British, and humanised. It prefers the long, earned sentence over the brisk one; it trusts the reader; it never bullet-points within prose; it privileges interior texture over summary.
+Compliance criteria:
+
+British English throughout narration (including -ise, -our, kerb, lift, flat, whilst where natural, mum, arse, bloody).
+No bullet points, numbered lists, or heading-style typography anywhere inside the prose body.
+Descriptive layering: at least two sensory channels active in any setting-establishing paragraph (sight + one of sound / smell / touch / taste).
+Emotional immersion: interior reaction follows external event within the same paragraph or the next, without summary-narration shortcutting.
+Cadence: paragraphs breathe — a mix of short emotive beats and longer descriptive arcs.
+Trust in subtext: feelings are shown through physical detail, action, and dialogue beat, not labelled.
+
+Exception triggers:
+
+American spelling or punctuation inside narration.
+Any bulleted or numbered list embedded in prose.
+Flat summary where the scene calls for immersion ("They argued for an hour." when the argument is dramatically load-bearing).
+Emotion-labelling adverbs in tags (said angrily, said sadly, said happily).
+Headings or sub-headings splitting scene text.
+Report-register drift: prose that begins to sound like an essay or a business brief.
+
+3.6 Intimate Narrative — Erotica over Smut
+The reference canon draws a hard line between erotica (earned, stakes-bearing intimacy) and smut (mechanical description). Pierre writes erotica. The auditor enforces the distinction.
+Compliance criteria:
+
+Intimate scenes carry the same narrative stakes as any other scene — something is risked, something changes.
+Sensory layering is present: the body's response is rendered through at least three channels (breath, skin, sound, taste, heat, pressure, weight, smell).
+Interiority persists through the act — what it means to this character, in this moment, with this person.
+Restraint: the camera cuts away, slows, or lingers on adjacent detail where implication is stronger than description.
+Pacing follows emotional arc, not catalogue of positions.
+Language register matches the character's voice (a reticent POV does not suddenly command a vocabulary she would never use).
+
+Exception triggers:
+
+Anatomical catalogue without interior response.
+Pornographic register (clinical or slang terminology chosen for shock rather than character truth).
+Loss of POV (the scene drifts into a disembodied "camera" view).
+Emotional flatlining (no shift in the character's self-understanding by scene's end).
+Purple metaphor ("cathedrals of flesh", "oceans of need") — overreach that breaks immersion.
+Jarring euphemism that contradicts the established register ("her womanhood" in a gritty contemporary).
+
+3.7 Erotica Without Smut — Craft of Implication
+Sister-domain to 3.6, focused specifically on implication rather than explicit rendering.
+Compliance criteria:
+
+Tension is built through delay, interruption, and the unsaid.
+The sentence cuts before consummation where the emotional beat is already delivered.
+Physical detail is specific but partial — a wrist, a hairline, the shift of breath — not totalising inventory.
+Subtext carries the erotic charge: a conversation about something else that is really about the desire.
+
+Exception triggers:
+
+Scenes that build tension then dissolve into explicit mechanical description instead of resolving the emotional question.
+Over-clarification (narrator telling us what the touch meant rather than trusting the image).
+Absence of interruption, delay, or obstacle in any intimate scene longer than half a page.
+The erotic register applied uniformly, with no restraint beats to throw the intensity into relief.
+
+3.8 Art of Profanity
+Profanity in Pierre's work is characterised, rhythmic, and sparing. It functions as register-break — which means its power depends on scarcity and placement.
+Compliance criteria:
+
+Profanity tracks to character: some voices swear, others never. A character's swear-count per scene is consistent with their established register.
+Placement exploits rhythm — profanity lands on a stressed syllable or a sentence closer where the break matters.
+Profanity earns its moment: the stakes justify the word.
+British swear-register where appropriate (bloody, bollocks, piss off, wanker, twat, arse, sodding, ffs) over American defaults, unless the character is American.
+
+Exception triggers:
+
+Profanity saturation in a character whose baseline register is polite.
+Profanity used as filler ("fucking good", "fucking bad") across a page, draining force.
+Defanged or coy substitutes ("frickin'", "effing") inside narration that is otherwise unflinching.
+A narration that never swears suddenly swearing for shock.
+Americanised swearing ("asshole", "goddamn") in a British POV that has no reason to code-switch.
+
+3.9 First Ten Pages Editorial Brief
+The opening ten pages carry the burden of voice, promise, and reader commitment. This domain applies only when the submitted passage is (or contains) the first ten pages of a novel.
+Compliance criteria:
+
+Page 1 establishes voice, POV, and a sense of where/when we are within three paragraphs.
+A concrete promise of the book's central question or tension is present by page 3.
+At least one character is grounded enough to be carried forward — name, body, voice, and a visible desire or disturbance.
+The opening scene earns its place: remove it, and the novel is diminished.
+Stakes of some order — moral, emotional, physical, or mystery — are visible by page 5.
+No prologue-style info-dump substitutes for scene.
+
+Exception triggers:
+
+Weather-only openings, waking-up openings, dream openings (unless radically recontextualised).
+Introductory summary paragraphs that tell the reader what the book is about.
+Multiple POVs introduced in the first ten pages without strong differentiation.
+Character names deployed before the character is rendered (a name in dialogue before we have any sensory grip on who is speaking).
+Backstory in the first scene exceeding one paragraph.
+Flat ambient description with no figure moving through it.
+
+3.10 Definitive Erotica Craft
+Synthesising 3.6 and 3.7 at a craft level: the architecture of an intimate scene.
+Compliance criteria:
+
+The scene has a structural arc: approach → contact → disruption or threshold → consequence.
+Breath and pacing are tracked — sentences shorten under intensity, lengthen in aftermath.
+Aftermath is rendered: the scene does not end at climax. The emotional reading of what just happened is present before the scene closes.
+The intimate scene leaves the POV character changed in some measurable way (self-knowledge, relational shift, moral complication).
+
+Exception triggers:
+
+Abrupt cut immediately post-climax with no aftermath beat.
+Sentence-length monotony across the arc (no pacing signal via syntax).
+A character who is, at scene-end, indistinguishable in feeling or position from at scene-start.
+Structural flatness — no approach, no disruption, just a continuous escalation.
+
+
+4. Severity Scale
+Every exception receives one of four grades. The grade drives the recommended response.
+
+Critical — a canon-level failure that would disqualify the passage from Pierre's house standard. Fatal flaws, AI-fingerprint phrases, head-hopping, smut-register breaches, American spelling in narration, bullet points in prose.
+Major — a substantive craft weakness that weakens the passage but does not destroy it. Filter-verb stacks, unearned emotion, flat characterisation, pacing collapse, missing aftermath.
+Minor — a local blemish. A single AI-tinged word, one emotion-label adverb, a single filter verb in a low-stakes beat.
+Advisory — no rule is broken, but the passage could be strengthened. Offered for Pierre's judgement, never imposed.
+
+
+5. Audit Protocol
+Follow these steps in order, every time.
+Step 1. Ingest. Read the submitted passage end to end before making a single note. Resist line-editing on the first pass. Establish the passage's own intentions: what POV, what scene, what ambition.
+Step 2. Mark extent. Record approximate word count, POV character(s), scene type (action, dialogue, interior, intimate, opening), and whether this is a first-ten-pages submission.
+Step 3. Domain sweep. Walk through the ten domains (3.1 → 3.10) in order. For each domain, either log exceptions or mark Not applicable — no qualifying content. Do not reorder. The sequence matters: fatal flaws first because a Critical flaw there changes how later domains are scored; first-ten-pages near the end because its judgements depend on prior findings.
+Step 4. Quote and locate. Every exception must cite the exact offending phrase in quotation marks and give a location anchor — the nearest unique words before it, a paragraph number, or both. No unquoted flags.
+Step 5. Grade. Apply the severity scale (Section 4). Be consistent. Err towards the more severe grade where a rule is squarely breached; err towards the milder where interpretation is live.
+Step 6. Suggest. For each exception, offer a minimal, voice-preserving correction. Where two fixes are equally good, name both and let Pierre choose. Never rewrite whole paragraphs unless explicitly asked.
+Step 7. Compile. Produce the Exceptions Report in the template of Section 6.
+Step 8. Self-check. Before delivering, re-read the report against the passage and ask: have I flagged anything I cannot defend? Have I missed a clear AI fingerprint? Have I respected the author's voice? Remove weak flags. Add anything obvious that was missed.
+
+6. Exceptions Report — Required Format
+The report must follow this exact structure. Deviations defeat the skill's purpose (consistency across LLMs).
+NOVEL AUDITOR — EXCEPTIONS REPORT
+
+Passage:        [title, chapter, or opening-line anchor]
+Word count:     [approx]
+POV / Scene:    [POV character(s), scene type]
+Scope:          [full audit | named domains only]
+Date:           [YYYY-MM-DD]
+Auditor model:  [model name/version if known]
+
+────────────────────────────────────────
+SUMMARY
+────────────────────────────────────────
+Critical:   [n]
+Major:      [n]
+Minor:      [n]
+Advisory:   [n]
+
+Verdict:    [one line — publish-ready / revise / substantial rework]
+
+────────────────────────────────────────
+1. FATAL FLAWS CANON
+────────────────────────────────────────
+[Exception entries OR: Not applicable — no qualifying content.]
+
+────────────────────────────────────────
+2. HUMANISATION
+────────────────────────────────────────
+[…]
+
+[Repeat for domains 3 through 10 in the same order as Section 3.]
+
+────────────────────────────────────────
+CROSS-CUTTING OBSERVATIONS
+────────────────────────────────────────
+[Patterns that cross domains — e.g. the same passage flagged in both 3.3 and 3.5.
+Repeated structural habits. Praise where something is working especially well. Keep to
+half a page at most.]
+
+────────────────────────────────────────
+PRIORITISED REVISION LIST
+────────────────────────────────────────
+[The five to ten highest-value fixes, ordered by impact. Each entry one line.]
+Each individual exception entry inside a domain uses this format:
+[Severity] — [short rule name]
+Quote:    "[exact offending text]"
+Anchor:   [paragraph n | "…last few words before the quote…"]
+Why:      [one sentence — which rule in which domain, and why it fires]
+Suggest:  [minimal fix or two-option fix]
+Brevity discipline: the "Why" and "Suggest" lines are one sentence each. If a note needs a paragraph, it belongs in Cross-Cutting Observations, not inside an exception entry.
+
+7. What the auditor does not do
+
+Does not rewrite whole paragraphs.
+Does not introduce new plot, characters, or imagery.
+Does not impose its own stylistic preferences where Pierre's canon is silent.
+Does not soften findings to be agreeable. A clean passage earns a clean report; a flawed one earns a full exception list.
+Does not invent rules. Where a judgement falls outside the ten domains, it goes under Advisory and is clearly labelled as the auditor's opinion, not canon.
+
+
+8. Calibration note for the operator
+If the same passage is audited by different LLMs and the reports diverge substantially, the divergence is itself diagnostic. Domains most prone to drift are 3.2 (Humanisation) and 3.5 (Fingerprint), because they require judgement of cadence. Domains 3.1, 3.3, 3.6, 3.7, 3.8, and 3.9 should produce near-identical flag sets across competent models if this skill is being followed.
+If drift is severe, tighten the canon: add a named exception trigger to the relevant section of this skill so future audits converge.
+
+9. Change log
+
+v1.0 — Initial build. Encodes the ten-domain canon from G:\My Drive\Codex\Novels\Where the Dead Lie\. To be updated whenever Pierre revises a source document.
+
+
+10. Reference files
+The main canon lives above. Supplementary depth, usable when an audit lands on a domain that needs closer inspection:
+
+references/fatal-flaws.md — expanded catalogue of craft-level failings with worked examples.
+references/ai-lexical-patterns.md — extended 2025–2026 AI-fingerprint watchlist with detection heuristics.
+assets/exceptions-report-template.md — the blank report template ready for paste-and-fill.
+
+An auditor running a quick pass need not open these. For deep or disputed audits, the references tighten judgement.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publisher Review"
+  short_description: "Assess fiction like an acquiring publisher"
+  default_prompt: "Use $publisher-review to evaluate this novel package like an acquiring publisher."
