@@ -1,35 +1,220 @@
-The winter over the Caspian was brutal. Inside the office, Olesya’s presence was a necessary hum against Thomas's concentration. 
-
-Proximity breeds intimacy through the observation of microscopic habits. Thomas knew Olesya took exactly three steps to cross from her desk to his door. He knew she drank water only in the early afternoon. 
-
-Late one Thursday evening, Thomas was reviewing a structural integrity report. He heard the scrape of a chair. Olesya was still at her desk, manually entering serial numbers into a spreadsheet. 
-
-Thomas pulled up a chair next to her desk. He took control of the mouse.
-
-"Watch," he said. He used OCR software to extract the data, taking four minutes. 
-
-She stared at the completed spreadsheet, looking defeated. "I am very slow."
-
-"You don't know the tools," Thomas corrected.
-
-She spoke again, barely above a whisper. "Rauf says I am useless. He thinks I do not hear."
-
-"Rauf is concerned with metrics," Thomas said carefully. "As long as the outputs are correct, his opinion is irrelevant."
-
-"But you fix the outputs," she said. She looked at him. "I know you fix my files, Thomas."
-
-The omission of his title hung in the air. 
-
-"The work gets done," he said. 
-
-"Why?" she asked.
-
-"Because it is efficient," Thomas said. 
-
-He went back into his office. The next morning, a small, foil-wrapped chocolate lay beside his coffee. He placed it in his top drawer.
-
-The attraction grew in the negative space. It was an alignment of needs. Olesya desired the structure of a provided life; she wanted to manage a home, to belong entirely to a singular, stable unit. Thomas provided the stability, but he did so while maintaining his parallel life with Sarah. 
-
-He did not view this as a contradiction. In his mind, the structural reality of his marriage to Sarah—the shared assets, the mutual independence—did not negate his deep, protective attachment to Olesya. He believed unconditional love could be distributed equally, provided the systems supporting each life were maintained flawlessly.
-
-The silence between them in the Baku office was the sound of that system calibrating. 
+Chapter 3
+The rain had stopped, but the city remained wet. Pavements glistened under the grey sky, reflecting the dull orange glow of streetlamps that hadn’t yet switched off. Thomas walked towards the bank, his shoes making a soft squelching sound with every step. The water had seeped through the soles hours ago, leaving his socks damp and cold against his skin. He didn’t hurry. There was no point. The meeting was at nine-thirty. He would be early. He was always early. Early for things that mattered, early for things that didn’t. It was a habit Olesya had mocked. ‘You’re early for your own funeral, Tom,’ she’d said once, laughing. He hadn’t laughed. He never knew if she was joking.
+The bank was a large, imposing building on the corner of the high street. Stone façade, heavy wooden doors, brass handles polished to a shine by thousands of hands. It looked solid. Permanent. A place where things were kept safe. Thomas pushed open the door. The air inside was warm, dry, smelling of floor polish and old paper. A stark contrast to the damp chill outside. He shook his coat, sending a fine mist of water droplets onto the mat. A security guard nodded at him from behind a desk. Thomas nodded back. He walked to the reception desk.
+‘Name?’ the woman asked. She didn’t look up from her computer.
+‘Thomas Ward. I have an appointment with Mr Henderson.’
+She typed something. Checked the screen. ‘Third floor. Room 304. Take the lift.’
+‘Thank you.’
+The lift was slow. It creaked as it ascended, the cables groaning softly. Thomas watched the floor numbers light up. One. Two. Three. The doors opened onto a carpeted corridor. Quiet. Hushed. The kind of quiet that cost money to maintain. He found room 304. Knocked.
+‘Come in,’ a voice called.
+Thomas opened the door. Mr Henderson was sitting behind a large desk. He was a man in his fifties, wearing a suit that looked expensive but slightly worn at the elbows. His hair was thinning, combed over carefully. He smiled when he saw Thomas. A professional smile. Not warm, not cold. Just correct.
+‘Mr Ward. Please, sit down.’
+Thomas sat. The chair was leather, cool against his back.
+‘Can I get you a coffee? Tea?’
+‘No, thank you.’
+‘Very well.’ Mr Henderson folded his hands on the desk. ‘So. You reported an unauthorized transaction. Five thousand pounds. Transferred to an account held by…’ He glanced at a file. ‘Olesya Volkov.’
+‘Yes.’
+‘And this was done without your knowledge or consent?’
+‘Yes.’
+‘I see.’ Mr Henderson leaned back. ‘When did this happen?’
+‘Yesterday. Around half past two.’
+‘And you only noticed it today?’
+‘I checked my account this morning.’
+‘Right.’ Mr Henderson nodded slowly. ‘And you believe Ms Volkov made this transfer?’
+‘I know she did.’
+‘How do you know that, Mr Ward?’
+Thomas hesitated. How did he know? He had seen the name. The reference. For you. Only she would write that. Only she would take the money and leave a message like that. But how could he prove it?
+‘The reference,’ he said. ‘It says “For you”. She… she has a way of writing things. It’s her.’
+Mr Henderson raised an eyebrow. ‘A reference note is not proof of identity, Mr Ward. Anyone could have written that.’
+‘But the timing. I was at the airport. She was in Istanbul. The IP address…’
+‘The IP address is masked. It shows a proxy server. Likely in Eastern Europe. It doesn’t pinpoint a location. And frankly, Mr Ward, if Ms Volkov had access to your credentials previously – which, as a partner, she may well have had – then she could have initiated this from anywhere. Using a saved password. Or a device you both used.’
+‘We changed the passwords. After she left.’
+‘Did you? Are you certain? Memory can be unreliable in stressful situations.’
+Thomas felt a flicker of anger. ‘I am certain.’
+‘Of course. Of course.’ Mr Henderson held up a hand. Calming. Dismissive. ‘I’m not accusing you of lying, Mr Ward. I’m just explaining the complexity. From the bank’s perspective, this looks like a domestic dispute over shared finances. Unless you have evidence of coercion, theft, or fraud – meaning, someone hacking into your account without any prior access – there is very little we can do.’
+‘So you’re saying you won’t help me?’
+‘I’m saying we can secure your account. Change the passwords again. Issue new cards. Monitor for further suspicious activity. But recovering the funds… that requires a police report. And even then, if it’s deemed a civil matter between partners, the police may not intervene.’
+Thomas stared at him. ‘She stole five thousand pounds.’
+‘Allegedly.’
+‘Allegedly?’
+‘Until proven otherwise, yes. Allegedly.’ Mr Henderson’s tone was gentle, but firm. ‘Look, Mr Ward. I understand this is distressing. But these things happen. Couples separate. Finances get messy. Sometimes lines get blurred. Did you ever share your password with her?’
+‘Years ago. Yes.’
+‘And did you change all your devices? Your phone? Your laptop? Your tablet?’
+‘I… I think so.’
+‘Think so?’
+‘I changed the main ones.’
+‘Then it’s possible she retained access. Maybe she logged in from a cached session. Maybe she guessed the new one. People who know us well can often guess our passwords. Birthdates. Pet names. Anniversaries.’
+Thomas felt sick. Was it possible? Had he been careless? Or was Henderson just covering his own back? Refusing to admit the bank’s security might have failed?
+‘So what are my options?’ Thomas asked. His voice sounded flat. Defeated.
+‘As I said. We secure the account. You file a police report if you wish. We investigate internally, but I must manage your expectations. Without concrete evidence of criminal fraud, recovery is unlikely.’
+Thomas nodded. Slowly. He understood. They wouldn’t help. They couldn’t help. Or wouldn’t bother. Five thousand pounds was a lot of money to him. To the bank, it was a rounding error. A drop in the ocean. Not worth the hassle.
+‘Okay,’ he said. ‘Secure the account. Change everything.’
+‘Certainly.’ Mr Henderson picked up a pen. Made a note. ‘I’ll arrange that immediately. You’ll receive confirmation by email within the hour.’
+‘Thank you.’
+‘Is there anything else, Mr Ward?’
+Thomas thought about telling him the rest. The calls. The photos. The voice on the line. I saw you. But what would be the point? Henderson would just call it harassment. Stalking. Another civil matter. Another thing the police wouldn’t prioritize.
+‘No,’ Thomas said. ‘That’s it.’
+‘Very well. I’m sorry we couldn’t be more helpful, Mr Ward. These situations are… difficult.’
+‘Yes.’ Thomas stood up. ‘They are.’
+He walked out of the office. Down the corridor. Into the lift. Back to the ground floor. Pushed open the heavy wooden doors.
+The air outside was colder now. The wind had picked up, cutting through his coat. He shoved his hands into his pockets. Started walking. He didn’t know where he was going. Just away. Away from the bank. Away from the polite dismissal. Away from the feeling of being powerless.
+He walked for miles. Through streets he didn’t recognize. Past shops selling clothes he couldn’t afford. Past cafes filled with people laughing, talking, living lives that seemed impossibly normal. He kept his head down. Watched his feet. One foot in front of the other. Squelch. Squelch. Squelch. The sound of wet shoes on wet pavement. A rhythm. A metronome. Counting down the seconds until… until what? Until the phone rang? Until she called again? Until he woke up and realized this was all a dream?
+His phone buzzed in his pocket.
+Thomas stopped. Heart hammering. He pulled it out.
+Unknown Number.
+He stared at the screen. The name blinking. Mocking him.
+He answered. Put the phone to his ear.
+‘Hello?’
+Silence. Then, a click. Then, breathing. Soft. Rhythmic. Female.
+‘Olesya?’
+‘I saw you,’ she said. Her voice was clear. Closer than before. Less static.
+‘Saw me? Where?’
+‘At the bank.’
+Thomas froze. ‘What?’
+‘The app. The banking app. It tracks location. For security. Remember? You set it up.’
+He did remember. He had set it up years ago. To get alerts if his card was used abroad. To know if someone was trying to steal his identity. He had forgotten about it. Forgotten that she knew about it. That she might still have access.
+‘You were watching me?’
+‘In a way. I got the notification. “Login attempt from new device.” Then, “Meeting scheduled with Mr Henderson.” Cute name, by the way. Very traditional.’
+‘Olesya, stop this. Please.’
+‘Stop what? Telling you the truth?’
+‘The truth? You stole from me.’
+‘I borrowed.’
+‘You took five thousand pounds without asking.’
+‘I asked. In my own way.’
+‘How? By leaving a note?’
+‘By taking what I needed. And leaving you a message. “For you”. It was for you, Tom. In a way.’
+‘How is stealing from me for me?’
+‘Because now you know. Now you’re awake. You were sleepwalking, Tom. Living in that flat. Working that job. Pretending everything was fine. Now you’re not pretending anymore.’
+Thomas felt a surge of anger. Hot. Blinding. ‘Don’t twist this. Don’t make this about me waking up. You took my money. You lied. You ran away.’
+‘I didn’t lie. I told you I was leaving. I told you I didn’t want to share. I told you I wanted my own.’
+‘You didn’t say you’d steal from me.’
+‘I didn’t steal. I redistributed. Resources. Energy. Love. It was all stuck, Tom. Stagnant. I just… moved it.’
+‘Moved it to your account?’
+‘To where it could be used. To start over.’
+‘Start over? With my money?’
+‘With what was ours. Or what was yours. Does it matter? Money is just numbers. Digital ghosts. It doesn’t mean anything.’
+‘It means something to me.’
+‘I know. That’s the problem.’
+The line went quiet. Thomas heard the sound of traffic again. Horns. Engines. Distant voices. Istanbul. Still Istanbul.
+‘Where are you?’ he asked. His voice was tired. Resigned.
+‘Does it matter?’
+‘Yes.’
+‘Why?’
+‘Because I want to find you.’
+‘No, you don’t.’
+‘I do.’
+‘You want to find the girl you knew. The one in the flat. The one who laughed at travel magazines. She’s gone, Tom. I told you. She’s not here.’
+‘Then who is this?’
+‘Someone new. Someone learning.’
+‘Learning what?’
+‘How to be free.’
+‘Free? You call stealing freedom?’
+‘I call it breaking chains. You were a chain, Tom. A heavy, golden chain. Comfortable. Safe. Suffocating.’
+Thomas gripped the phone tighter. His knuckles white. ‘I loved you.’
+‘I know. And I loved you. But love wasn’t enough. You taught me that.’
+‘I taught you?’
+‘Yes. With your silence. Your routines. Your fear of anything changing. You showed me that love without risk is just… habit. And I couldn’t live like that anymore.’
+‘So you ran.’
+‘I flew.’
+‘To Istanbul.’
+‘To somewhere. Anywhere.’
+‘And now you’re watching me. Through an app.’
+‘Just checking in. Making sure you’re okay.’
+‘I’m not okay.’
+‘You will be. Eventually.’
+‘When?’
+‘When you stop waiting for me to come back.’
+‘Will you come back?’
+Silence. Long. Heavy.
+‘I don’t know,’ she said finally. ‘Maybe. Maybe not. It depends.’
+‘On what?’
+‘On whether I find what I’m looking for.’
+‘And if you don’t?’
+‘Then I’ll keep looking.’
+‘And me? Where do I fit in all this?’
+‘You’re the starting point, Tom. The place I left. But you’re not the destination.’
+The words hit him like a physical blow. He stumbled slightly. Caught himself on a lamppost. Cold metal against his palm.
+‘Olesya…’ he started.
+‘I have to go.’
+‘Wait. Please. Just tell me… are you safe?’
+‘I’m safe.’
+‘Are you alone?’
+‘That’s not your business.’
+‘Please. Just tell me.’
+‘Goodbye, Tom.’
+The line went dead.
+Thomas lowered the phone. Stared at the screen. Call Ended.
+He stood there on the pavement. Rain starting to fall again. Light. Misty. Coating his face, his hair, his coat.
+People brushed past him. Hurrying. Ignoring him. A woman pushing a pram. A man on a bike. A group of teenagers laughing.
+He felt invisible. Erased.
+He put the phone in his pocket. Started walking again.
+Towards home. Towards the flat. Towards the silence.
+The rain got heavier. Soaking through his coat. Chilling his skin. He didn’t care. Let it rain. Let it wash everything away. The money. The calls. The memories. The hope.
+Let it all go.
+He reached his building. Climbed the stairs. Three flights. Legs heavy. Breathing hard.
+Unlocked the door. Stepped inside.
+The flat was dark. Cold. Smelling of nothing.
+He took off his coat. Dropped it on the floor. Didn’t hang it up. Took off his shoes. Kicked them into the corner. Didn’t line them up.
+Walked to the kitchen. Poured a glass of water. Drank it.
+Looked at the phone on the counter.
+It was dark. Sleeping.
+He picked it up. Turned it over.
+No new messages. No missed calls.
+Just the time. Ticking forward. Indifferent.
+He put the phone down.
+Walked to the living room. Sat on the sofa.
+Looked at the stain on the floor. The wine stain.
+And now, another one. From his wet coat. A dark patch spreading on the carpet.
+Two stains. Records of spills. Of breaks. Of calls.
+Marks that something had happened. Even if nothing had changed.
+He leaned back. Closed his eyes.
+Five thousand pounds.
+For you.
+You’re the starting point. Not the destination.
+The words echoed in his mind. Unbidden. Unwanted.
+He pushed them away.
+Sleep came eventually. Fitful. Dream-filled.
+He dreamt of screens. Thousands of them. Watching him. Eyes in the dark. Blinking. Recording. Judging.
+He dreamt of her. Sitting in front of a computer. Typing. Watching his location dot move on a map. Smiling.
+He woke up gasping.
+The room was pitch black.
+He sat up. Disoriented.
+The phone.
+It was buzzing.
+He fumbled for it. Knocked the glass of water off the table. It rolled across the floor. Spilled more water onto the already wet carpet.
+He didn’t care. Grabbed the phone.
+Unknown Number.
+He answered.
+‘Hello?’
+Silence.
+Then, a click. Then, silence again.
+Then the recording ended.
+No voice. No breathing. Just a call that connected and then said nothing.
+He lowered the phone. Stared at it.
+Was it her? Testing the line? Seeing if he would answer? Or just a wrong number?
+It didn’t matter. The result was the same. Silence.
+He put the phone down.
+Lay back on the sofa. Pulled the blanket over himself.
+Tomorrow he would call the police. Maybe. File a report. Try again with the bank. Scream until someone listened.
+But tonight, he just lay there. In the dark. Listening to the silence.
+Waiting for a phone that wouldn’t ring.
+Wondering if she was watching him right now. Through the app. Through the camera. Through the screen.
+Wondering if she cared. Or if he was just a dot on a map. A starting point. Left behind.
+Just access.
+Under another name.
+The thought drifted through his mind. Unbidden. Unwanted.
+He pushed it away.
+Sleep took him again. Deep. Dreamless.
+When he woke, the sun was up. Bright. Harsh.
+The flat was still empty.
+The phone was still silent.
+He got up. Showered. Dressed.
+Made coffee.
+Drank it standing up.
+Looked at the two stains on the floor. The wine. The rain.
+Left them.
+Opened the door.
+Stepped out.
+Locked it behind him.
+Walked down the stairs.
+Into the day.

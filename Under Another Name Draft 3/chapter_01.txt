@@ -1,69 +1,286 @@
-The wind off the Caspian Sea carried the distinct scent of salt and sulphur, settling over the city of Baku in a thin, invisible film. Thomas stood at the window of his rented apartment in the Port Baku complex, watching the traffic unspool along the Neftchilar Avenue. Down below, the grey water chopped against the concrete promenade. 
-
-He was here for the offshore installations, the deep-water rigs that sat like steel islands on the horizon. His job was to ensure the systems operated without failure. Baku was simply another node in a long career of nodes.
-
-The local operations manager, Rauf, suggested hiring an administrative assistant. "Someone to handle the permits, the translation, the local procurement," Rauf had said. "It smooths things over."
-
-Thomas had agreed. 
-
-The interviews took place in a glass-walled meeting room. The fourth candidate was Olesya.
-
-She sat with her hands folded in her lap, her posture rigid. She wore a dark blue dress, slightly frayed at the cuffs, and sensible, scuffed black heels. Her hair was pulled back tightly. She did not smile to fill the silences.
-
-"You have experience with logistics?" Thomas asked.
-
-"Yes," she said. Her voice was quiet. "I organise things."
-
-Her surname ended in '-ova', marking her out as an ethnic Russian in a city reclaiming its Turkic roots. She sat as if expecting to be dismissed.
-
-"The work requires precision," Thomas said. "Tracking equipment manifests, filing government permits."
-
-"I understand," Olesya said. She looked at him, her pale eyes steady. 
-
-Thomas hired her. 
-
-Olesya started the next morning. By the end of the week, Thomas noticed the first discrepancies in the transport logs. 
-
-He walked out of his office. Olesya was staring at her screen. 
-
-"The casing logs," he said gently. "The tonnage is mismatched."
-
-She stood up, smoothing her skirt. "I copied the numbers from the driver's slips."
-
-"The slips are in kilograms. The spreadsheet requires metric tonnes," Thomas explained. 
-
-"I see," she said. "I will fix it."
-
-She returned to her desk. When she sent the file back, it was still wrong. Thomas did not call her back in. He highlighted the column, applied the correct formula, and saved the file. 
-
-The pattern established itself quietly. Olesya would attempt a task; Thomas would quietly repair the fractures before submitting the final documents. 
-
-He noticed, however, what she did excel at. The physical space around her desk was immaculate. She wiped down the surfaces every morning. She arranged the stationery with exact, deliberate care. She brought a small, potted fern and placed it near the window, watering it precisely at noon. She was not a natural administrator of data; she was an administrator of spaces. She possessed a deep, unarticulated drive to manage a home, diverted awkwardly into a corporate office.
-
-Every morning, she arrived exactly at eight. She would place a cup of black coffee on his desk. 
-
-"Good morning," she would say.
-
-"Morning, Olesya," he would reply.
-
-She was a quiet presence. When the office became loud with the arguments of the local engineers, she shrank slightly into her chair. 
-
-One afternoon, the air conditioning failed. The heat pressed against the glass. 
-
-"You are from England," Olesya said suddenly, wiping her forehead. 
-
-"Yes."
-
-"You travel for the oil."
-
-"I travel for the work."
-
-She nodded, looking at the distant rigs. "It is a transient life."
-
-She turned back to her desk. Her screen displayed a spreadsheet riddled with errors. Thomas watched the tense set of her shoulders. 
-
-"Leave the permit forms on my desk," Thomas said. "I will finalise them tonight."
-
-She looked at him. She placed the file on his desk and nodded.
-
-When she left, Thomas opened her files. He corrected the margins. He updated the formulas. He saved the documents. The system held. He locked the office, appreciating the quiet order she had brought to the physical room, even as he repaired the digital one.
+Chapter 1
+The flat held its breath. It was not a silence of peace, but a suspension, the way a room waits after a door has slammed shut hours ago, the vibration still trapped in the plaster. Thomas stood in the centre of the living area, his hands deep in the pockets of trousers he had worn for three days. The fabric was stiff now, creased at the knees, holding the shape of a man who had sat too long in airport departure lounges and taxi backs.
+He did not turn on the light. The grey dawn leaking through the window was enough. It stripped the room of colour, leaving only tones of charcoal and ash. The sofa, a bulky thing upholstered in a fabric that had once been called olive but was now the colour of dried moss, sat against the far wall. It looked accusatory. An empty space on the cushion where a body should have been.
+Thomas walked to the kitchen counter. His movement was careful, deliberate, as if the floorboards might complain under his weight. He needed water. The throat felt lined with dust, the specific grit of recycled air from the plane, the stale warmth of the terminal. He filled a glass from the tap. The water ran cold, then lukewarm, then cold again, clanking in the pipes before it hit the glass. He drank it standing up, watching the condensation form on the outside of the tumbler, a slow bead tracking down to his thumb.
+On the counter, next to the sink, lay the phone. Face down.
+He had not looked at it since the taxi dropped him off twenty minutes ago. He knew what it would say. Or rather, he knew what it would not say. The screen would be black, dormant, a slab of dark glass reflecting the grey window. No notifications. No message preview. Just the time, ticking forward, indifferent.
+He turned the glass over in his hand. The wet ring it left on the laminate was already spreading, a dark circle expanding into the grain. He should wipe it. He should find a cloth. But the effort of moving to the drawer, of pulling out the tea towel, of rubbing the surface until it was dry, felt insurmountable. Let it stain. Let the water soak into the wood, swell it, warp it. Let something change in this room, even if it was just rot.
+He moved back to the living area. The air smelled of nothing. That was the worst of it. When she was here, even for those few weeks, the flat had smelled of her shampoo, something citrus and sharp, and the faint, sweet smoke of the vapes she used on the balcony. Now, the scent had dissipated, scrubbed away by the central heating and the passage of time. The air was neutral. Sterile. It smelled of a place where no one lived.
+Thomas sat on the edge of the sofa. The springs groaned, a low, metallic protest. He leaned forward, elbows on knees, head hanging. He stared at the coffee table. A magazine lay there, open to an article about travel destinations he would never visit. The Hidden Gems of the Algarve. The pages were glossy, reflecting the dim light. A picture of a blue grotto, water so clear it looked like glass. He remembered showing it to her. She had laughed, a short, sharp sound, and said the water looked cold. She hated the cold. She wanted sun, noise, people. She wanted to be seen.
+He closed his eyes. The image of the airport terminal rose up, unbidden. The vast, cavernous space of Istanbul Airport, all steel and glass and impossible height. The announcements echoing in a language that sounded like water running over stones. He had walked the length of the departures hall, twice. He had stood by the information board, watching the letters flip, black to white, white to black. Istanbul – London. Istanbul – Dubai. Istanbul – Moscow. No name. No face. Just the flow of people, thousands of them, dragging suitcases, checking watches, kissing goodbye.
+He had waited by the gate for flight TK1985. He watched the queue form. Families with sleeping children strapped to their backs. Businessmen typing furiously on laptops. Couples holding hands, fingers interlaced tight. He scanned every face. A woman with hair the same shade of blonde, tied back in a scarf. He stepped forward, heart hammering against his ribs, a sudden spike of adrenaline that tasted like copper. Then she turned. It was not her. The jawline was softer, the eyes a different shape. The woman looked at him, confused by his intensity, and pulled her bag closer. Thomas stepped back. He muttered an apology she didn’t hear.
+He had stayed until the final call. Until the gate agent swept the area with a practiced eye, looking for stragglers. Until the jet bridge emptied. He was the last one there. The agent had looked at him, a flicker of pity in her eyes, and asked if he needed assistance. He had shaken his head. He had walked away, out into the main concourse, feeling the weight of the return ticket in his pocket. A piece of paper confirming a journey with no destination.
+The phone on the kitchen counter buzzed.
+The sound cut through the silence like a knife. Thomas flinched, his shoulders jerking up. He stared towards the kitchen, unable to move. The buzzing stopped. Then started again. A long, sustained vibration against the laminate.
+He stood up. His legs felt heavy, as if filled with lead. He walked to the kitchen, each step slow. He picked up the phone. Turned it over.
+Unknown Number.
+He watched it buzz. Once. Twice. Three times. The screen lit up his face in the gloom, casting harsh shadows under his eyes. He let it go to voicemail. The buzzing ceased. The screen went dark.
+He did not check the message. He knew what it would be. A wrong number. A spam call from a company selling insurance. Or perhaps, finally, her. But if it was her, why unknown? Why hide? She had never hidden before. She was loud. She was bright. She took up space. If she was calling, she would want him to know it was her. She would want him to hear her voice.
+Unless she didn’t want to speak. Unless she just wanted to hear his voice break.
+He put the phone back down. Face up this time. The black screen stared back at him.
+Just access, he thought. The words formed in his mind, unbidden, jagged. Just access under another name.
+He shook his head, trying to dislodge the thought. It was too early for this. Too early for the cynicism to set in. He should be angry. He should be pacing, shouting at the walls, throwing something. But the anger wasn’t there. It had burned itself out somewhere over the Balkans, leaving only this hollowed-out exhaustion. This numbness.
+He walked to the window. Outside, the city was waking up. A bus rumbled past on the main road, its headlights cutting through the mist. A figure in a high-visibility jacket swept the pavement, the broom making a rhythmic swish-swish sound against the tarmac. Life going on. People moving from point A to point B. Jobs to do. Meals to cook. Beds to make.
+Thomas pressed his forehead against the cold glass. The chill seeped into his skin, a sharp, grounding sensation. He watched the street sweeper. The man worked methodically, clearing the debris from the gutter. Leaves, cigarette ends, scraps of paper. He didn’t look up. He didn’t look at the windows, at the people sleeping or waking behind the glass. He just worked.
+Thomas wondered what it would be like to be that man. To have a task so simple, so defined. Sweep the street. Move the dirt. Go home. No complex emotions. No waiting for phones to ring. No analysing silences. Just the work.
+He turned away from the window. The flat felt smaller now, the walls closing in. He needed to move. He needed to do something. Cleaning. Yes. He could clean.
+He went to the cupboard under the sink and pulled out the vacuum cleaner. It was an old model, bulky and loud. He plugged it in, the cord frayed near the plug. He switched it on.
+The roar was immediate, deafening. It filled the room, drowning out the traffic, the thoughts, the silence. Thomas pushed the machine across the carpet. Back and forth. Back and forth. He focused on the line the nozzle left in the pile of the carpet. A clean strip appearing out of the grey fuzz. He followed the skirting boards. He went under the table. He dragged the heavy sofa aside, revealing a landscape of dust bunnies and lost coins.
+He vacuumed for twenty minutes. His arms ached. Sweat prickled on his forehead. When he finally switched it off, the silence rushed back in, louder than before. The ringing in his ears was high-pitched, persistent.
+He stood in the middle of the room, breathing hard. The flat was cleaner. The carpet had lines running through it, neat and orderly. But it didn’t feel different. It still smelled of nothing. It still felt empty. The cleanliness highlighted the absence. There was no mess to suggest someone had been there recently. No clothes draped over a chair. No mug left on the side. Just order. Sterile, perfect order.
+He unplugged the vacuum and coiled the cord. His hands shook slightly. He put the machine back in the cupboard and closed the door.
+The phone buzzed again.
+Thomas froze. He looked at the kitchen counter. The screen was lit. Unknown Number again.
+He walked over slowly. This time, he picked it up. He stared at the name. His thumb hovered over the green icon. He could answer. He could say hello. He could hear a voice. Any voice.
+He pressed decline.
+The screen went dark.
+He walked to the bedroom. The bed was made, the duvet pulled tight, corners tucked in military precision. He sat on the edge of the mattress. The room was darker here, the curtains drawn thick. He could barely see the wardrobe, a tall shadow in the corner.
+He remembered the last morning. She had been packing. Not properly, just shoving things into a bag. Clothes, chargers, a bottle of perfume rolled in a sock. She had moved around the room with a frantic energy, tossing items onto the bed, picking them up, discarding them.
+‘You’re not taking that?’ he had asked, pointing to a jacket she had left on the floor.
+She hadn’t looked at him. ‘Don’t need it.’
+‘It’s cold in Istanbul.’
+‘I’ll buy something there.’
+‘We can share mine.’
+She had stopped then. Turned to face him. Her eyes were bright, but not with tears. With something harder. Something resolved.
+‘That’s the point, Tom. I don’t want to share. I want my own.’
+He had nodded. He didn’t argue. He knew better. When she got that look, the argument was already over. He had just been waiting for her to say the words.
+‘I’m going,’ she had said. ‘I need to go.’
+‘For how long?’
+‘I don’t know.’
+‘When will you be back?’
+‘I don’t know that either.’
+She had zipped the bag. The sound of the zipper was loud in the quiet room. A long, tearing sound. She had slung the bag over her shoulder. She had looked at him, really looked at him, for the first time in days.
+‘Don’t wait up,’ she had said.
+And she had left. The door had clicked shut. Not slammed. Clicked. A polite, final sound.
+Thomas lay back on the bed. He stared at the ceiling. A crack ran across the plaster, starting from the light fixture and branching out like a river delta. He had meant to fix it. Bought the filler, the sandpaper, the paint. They were still in the cupboard under the stairs, untouched. He had told himself he’d do it at the weekend. Then the next weekend. Then she left, and fixing the crack seemed pointless. What was the point of a smooth ceiling in an empty room?
+He closed his eyes. Sleep felt impossible, yet his body demanded it. The exhaustion was a physical weight, pressing him into the mattress. He drifted, not quite asleep, not quite awake. Images floated behind his eyelids. The airport. The gate agent. The woman who wasn’t her. The phone buzzing.
+He woke with a start. The light in the room had changed. The grey dawn had deepened into a murky morning. He checked his watch. Ten o’clock. He had lost two hours.
+He sat up. His mouth tasted foul. He needed to shower. Wash the travel off his skin. The smell of the plane, the sweat, the stagnation.
+The bathroom was small, tiled in white that had yellowed with age. He turned on the shower. The pipes groaned, then sputtered. Cold water hit the tiles first, then a rush of steam. He stepped in.
+The water was scalding. He didn’t adjust it. He stood under the spray, letting it beat against his neck, his shoulders. He closed his eyes. The water ran down his face, mixing with… what? Tears? No. Just water. He wasn’t crying. He hadn’t cried since he was a child. He didn’t know how anymore. The mechanism felt rusted shut.
+He washed his hair. The shampoo smelled of mint, generic and sharp. He scrubbed his scalp, hard, until it stung. He washed his body, using the flannel to rub the skin red. He wanted to scrub off the memory of the last forty-eight hours. The waiting. The hoping. The disappointment.
+He turned off the water. The silence returned, instant and absolute. He stepped out onto the bathmat. Dripping wet. He grabbed a towel and dried himself roughly. No gentle patting. Just friction. Heat.
+He dressed in fresh clothes. Jeans. A jumper. Socks. He looked at himself in the mirror. The man staring back looked tired. Pale. Shadows under the eyes. Hair damp and messy. He looked like a stranger.
+‘Pull yourself together,’ he said to the reflection.
+The voice sounded flat. Unconvincing.
+He went back to the kitchen. The phone was still on the counter. He hadn’t moved it. He picked it up. Checked the messages.
+One voicemail. From the unknown number.
+He pressed play. Put the phone to his ear.
+Silence.
+Then, a click. Then, silence again. Then the recording ended.
+No voice. No breathing. Just a call that connected and then said nothing.
+He lowered the phone. Stared at it.
+Was it her? Testing the line? Seeing if he would answer? Or just a wrong number, a pocket dial from someone on a train?
+It didn’t matter. The result was the same. Silence.
+He put the phone in his pocket. He needed to leave the flat. He couldn’t stay here another minute. The walls were pressing in, the silence suffocating. He needed noise. People. Movement.
+He grabbed his coat. Keys. Wallet. He locked the door behind him. The click of the lock was satisfyingly final.
+The stairwell smelled of boiled cabbage and damp concrete. He walked down the three flights, his footsteps echoing. The front door opened onto the street.
+The air was cold, biting. He pulled his coat tighter. The sky was a uniform sheet of grey cloud. No sun. No blue. Just grey.
+He walked. He didn’t have a destination. He just walked. Down the high street, past the shops. The bakery, smelling of yeast and sugar. The newsagent, cluttered with magazines and newspapers. The off-license, neon sign buzzing in the window.
+People brushed past him. A woman pushing a pram. Two teenagers laughing, heads bent over a phone. An old man walking a dog, the leash taut. They all had somewhere to go. They all had a purpose.
+Thomas kept walking. He passed the park. The grass was brown, dormant. The trees were bare, skeletal branches reaching up like claws. A few dogs ran off-leash, chasing balls, barking. Their owners stood in clusters, talking, wrapped in scarves.
+He sat on a bench. The wood was cold, damp. He didn’t care. He watched the dogs. One of them, a terrier mix, ran up to him. Sniffed his hand. Thomas reached out, stroked the rough fur behind the ears. The dog wagged its tail, thumping it against Thomas’s leg.
+‘Good boy,’ Thomas said.
+The owner called the dog. It ran off, yapping. Thomas watched it go.
+He checked his phone. Still nothing. No new messages. No missed calls. Just the unknown number from earlier.
+He opened the browser. Typed in Istanbul weather.
+12 degrees. Cloudy. Chance of rain.
+Same as here.
+He typed in flight status TK1985.
+Departed on time.
+Of course it had. The world didn’t stop because he was sitting on a bench in a park in London. Planes took off. People arrived. Lives continued.
+He closed the browser.
+A group of children ran past, kicking a football. It rolled towards his feet. He stopped it with his shoe. One of the boys ran back, breathless.
+‘Sorry, mister,’ the boy said.
+Thomas kicked the ball back. ‘S’alright.’
+The boy grinned, ran back to his friends. The game resumed. Shouts, laughter, the thud of the ball.
+Thomas watched them. He remembered being that age. The simplicity of it. The ball, the goal, the game. No complications. No hidden meanings. Just play.
+His phone buzzed in his pocket.
+He froze. Heart skipping a beat. He pulled it out.
+Message from: Unknown Number.
+He opened it.
+No text. Just an image.
+He tapped on it. It loaded slowly, the spinning wheel mocking his anticipation.
+The image appeared.
+It was a photo of a view. A skyline. Minarets piercing the grey sky. The Bosphorus, dark water choppy with whitecaps. A ferry crossing in the distance.
+Taken from a high vantage point. A hotel room? A balcony?
+No caption. No context. Just the image.
+Thomas stared at it. His thumb zoomed in. The pixels blurred, then sharpened. A balcony railing. Glass. A reflection in the glass. A woman’s arm. A bracelet. Silver. Twisted design.
+He knew that bracelet. He had bought it for her. In a market in Marrakesh, two years ago. She had haggled for ten minutes, laughing with the vendor, flashing that smile that made everything seem possible.
+She was there. In Istanbul.
+He looked at the timestamp. Sent ten minutes ago.
+She was there. And she had sent him this. Why? To taunt him? To let him know she was safe? To show him what he was missing?
+He typed a reply. Where are you?
+He deleted it.
+Typed: Come home.
+Deleted it.
+Typed: Is that you?
+Deleted it.
+He put the phone away. He didn’t send anything. What was the point? She had sent the image. That was the message. I am here. You are there.
+He stood up. The cold had seeped into his bones. He needed to move. Keep walking.
+He walked out of the park. Back towards the high street. The crowds had thickened. Lunchtime rush. People hurrying, faces set, eyes forward.
+He passed a travel agency. Posters in the window. Sunny beaches. Blue skies. Smiling families. Escape the Winter. Book Now.
+He stopped. Looked at the posters.
+He could go back. Book another flight. Go to Istanbul. Find her.
+But how? The city was huge. Millions of people. She could be anywhere. And if he found her, what then? What would he say? Please come back? I miss you?
+She had made her choice. She had walked out of the flat. Zipped the bag. Clicked the door.
+He turned away from the window. Walked on.
+The phone buzzed again. Another message.
+He didn’t want to look. He didn’t want to hope. But he had to. He pulled it out.
+Unknown Number.
+He opened the message.
+Another image.
+This time, it was a selfie. Blurry. Taken in a mirror.
+She was wearing sunglasses. Indoor sunglasses. Her hair was loose, messy. She was smiling. Not the big, bright smile he knew. A smaller one. Tighter.
+Behind her, the reflection showed a room. A bed. Clothes scattered on the floor. A suitcase open.
+She looked happy. Or she looked like she was pretending to be happy.
+Thomas stared at the photo. Zoomed in on her face. The sunglasses hid her eyes. He couldn’t read them.
+He felt a surge of something. Anger? Jealousy? Grief? It was a mix of all of them, churning in his gut.
+He wanted to throw the phone. Smash it against the pavement. Watch the screen shatter.
+Instead, he put it in his pocket.
+He walked faster. Head down. Shoulders hunched against the wind.
+He reached his building. Climbed the stairs. Two flights. Three.
+He unlocked the door. Stepped inside.
+The flat was exactly as he had left it. Clean. Empty. Silent.
+He took off his coat. Hung it up. Took off his shoes. Lined them up neatly by the door.
+He walked to the kitchen. Poured a glass of water. Drank it.
+He looked at the phone on the counter.
+It was dark again. Sleeping.
+He picked it up. Opened the chat with the unknown number.
+He typed: I saw the photos.
+He paused. Cursor blinking.
+He added: Are you coming back?
+He stared at the words. They looked pathetic. Desperate.
+He deleted the second sentence.
+Left just: I saw the photos.
+He hovered his thumb over send.
+Then he deleted that too.
+He put the phone down.
+He walked to the living room. Sat on the sofa. The same spot as before.
+He looked at the magazine on the table. The Hidden Gems of the Algarve.
+He picked it up. Flipped the pages. Pictures of cliffs. Caves. Ocean.
+He stopped at a page. An advertisement for a villa rental. Perfect for couples.
+He closed the magazine. Tossed it onto the floor.
+It landed face down.
+He leaned back. Closed his eyes.
+The silence of the flat settled over him again. Heavy. Suffocating.
+He thought about the photo. The bracelet. The sunglasses.
+She was out there. Living. Breathing. Existing without him.
+And he was here. In the grey flat. Waiting for a phone to ring.
+He opened his eyes. Looked at the window. The sky was darker now. Evening approaching.
+Soon it would be night. And he would have to sleep. And tomorrow he would wake up, and the flat would still be empty. And the phone would still be silent.
+Unless it wasn’t.
+He looked at the phone.
+It remained dark.
+He stood up. Walked to the kitchen. Opened the cupboard. Took out a bottle of wine. Red. Half full.
+He uncorked it. Poured a glass.
+He didn’t drink it. Just held the stem. Swirled the liquid. Watched the legs run down the side of the glass.
+He walked back to the sofa. Sat down.
+He raised the glass to the empty room.
+‘Cheers,’ he said.
+His voice echoed slightly. Then died.
+He took a sip. The wine was tart. Acidic. It burned going down.
+He took another sip. Then another.
+The room began to blur slightly at the edges. The shadows lengthened.
+He thought about Istanbul. The noise. The smell of spices. The call to prayer echoing over the rooftops.
+He had been there once. With her. Two years ago. Before the cracks appeared. Before the silence started.
+They had walked along the Bosphorus. Hand in hand. She had pointed at the ferries. Said she wanted to take one. Go to the Asian side. Eat fish by the water.
+They had done it. They had taken the ferry. The wind had whipped their hair. She had laughed, holding onto her hat. They had eaten fried mackerel in bread, standing on the quay. It had tasted of salt and lemon and freedom.
+He remembered her face then. Glowing. Alive.
+When did it change? When did the light go out?
+Was it gradual? Or sudden?
+He couldn’t pinpoint it. One day she was there, laughing. The next, she was distant. Looking at her phone more than at him. Talking about ‘options’. About ‘feeling stuck’.
+And then, the bag. The zipper. The click.
+He finished the wine. Poured another glass.
+The bottle was empty soon.
+He felt heavy. Lethargic. The alcohol numbing the edges of the pain.
+He lay down on the sofa. Pulled a blanket over himself. It smelled of detergent. Nothing else.
+He closed his eyes.
+Sleep came eventually. Fitful. Dream-filled.
+He dreamt of airports. Endless corridors. Gates that moved when he approached. Faces that blurred into nothingness.
+He dreamt of the phone. Buzzing. Buzzing. Buzzing.
+He woke up gasping.
+The room was pitch black.
+He sat up. Disoriented.
+The phone.
+It was buzzing.
+He fumbled for it. Knocked the glass off the table. It shattered on the floor.
+He didn’t care. He grabbed the phone.
+Unknown Number.
+He answered.
+‘Hello?’
+Silence.
+Then, a voice. Female. Distant. Crackling.
+‘Tom?’
+It was her.
+His heart stopped. Then raced.
+‘Olesya?’
+‘I’m at the airport.’
+‘Which one?’
+‘Istanbul.’
+‘I know. Are you coming back?’
+Silence. Long. Staticky.
+‘No.’
+‘Why did you call?’
+‘I wanted to hear your voice.’
+‘That’s it?’
+‘That’s it.’
+‘Olesya, please. Just tell me why.’
+‘I can’t.’
+‘Try.’
+‘There’s nothing to say. I just… I’m not the person you think I am.’
+‘Who are you then?’
+‘I don’t know yet. But I’m not her.’
+‘Her? Who?’
+‘The girl in the photos. The girl in the flat. She’s gone.’
+‘Olesya…’
+‘Don’t come looking for me, Tom. Please.’
+‘Where are you going?’
+‘Away.’
+‘That’s not an answer.’
+‘It’s the only one I have.’
+The line crackled. The connection fading.
+‘Olesya? Olesya!’
+‘Goodbye, Tom.’
+The line went dead.
+Thomas held the phone to his ear. Listening to the dial tone. A steady, monotonous beep.
+He lowered the phone.
+Looked at the screen.
+Call Ended.
+He sat there. In the dark. Surrounded by broken glass.
+The silence returned. Heavier than before. Absolute.
+He looked at the window. The city lights twinkled in the distance. Indifferent.
+He thought about the bracelet. The sunglasses. The photo.
+She was gone. Really gone this time.
+He stood up. Stepped over the broken glass. Went to the kitchen.
+Opened the drawer. Took out the dustpan and brush.
+He swept up the glass. The shards clinked against the metal.
+He emptied it into the bin.
+He wiped the floor. Mopped up the spilled wine.
+The stain remained. A dark patch on the laminate.
+He left it.
+He went back to the sofa. Lay down.
+Closed his eyes.
+Tomorrow he would go to work. He would make coffee. He would answer emails. He would pretend everything was normal.
+But tonight, he just lay there. In the dark. Listening to the silence.
+Waiting for a phone that wouldn’t ring.
+Wondering if she was on a plane right now. Flying further away.
+Wondering if she ever thought about him. Or if he was already erased.
+Just access.
+Under another name.
+The thought drifted through his mind. Unbidden. Unwanted.
+He pushed it away.
+Sleep took him again. Deep. Dreamless.
+When he woke, the sun was up. Bright. Harsh.
+The flat was still empty.
+The phone was still silent.
+He got up. Showered. Dressed.
+Made coffee.
+Drank it standing up.
+Looked at the stain on the floor.
+Left it.
+Opened the door.
+Stepped out.
+Locked it behind him.
+Walked down the stairs.
+Into the day.
