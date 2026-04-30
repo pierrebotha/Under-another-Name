@@ -1,12 +1,847 @@
-Chapter 3 (Corrected & Expanded)
-The rain had stopped, but the city remained wet. Pavements glistened under the grey sky, reflecting the dull orange glow of streetlamps that hadn't yet switched off. Thomas walked towards the bank, his shoes making a soft squelching sound with every step. The water had seeped through the soles hours ago, leaving his socks damp and cold against his skin. He didn't hurry. There was no point. The meeting was at nine-thirty. He would be early. He was always early. Early for things that mattered, early for things that didn't. It was a habit Olesya had mocked. 'You're early for your own funeral, Tom,' she'd said once, laughing. He hadn't laughed. He never knew if she was joking. The bank was a large, imposing building on the corner of the high street. Stone façade, heavy wooden doors, brass handles polished to a shine by thousands of hands. It looked solid. Permanent. A place where things were kept safe. Thomas pushed open the door. The air inside was warm, dry, smelling of floor polish and old paper. A stark contrast to the damp chill outside. He shook his coat, sending a fine mist of water droplets onto the mat. A security guard nodded at him from behind a desk. Thomas nodded back. He walked to the reception desk.
-'Name?' the woman asked. She didn't look up from her computer.
-'Thomas Ward. I have an appointment with Mr Henderson.'
-She typed something. Checked the screen. 'Third floor. Room 304. Take the lift.'
-'Thank you.'
-The lift was slow. It creaked as it ascended, the cables groaning softly. Thomas watched the floor numbers light up. One. Two. Three. The doors opened onto a carpeted corridor. Quiet. Hushed. The kind of quiet that cost money to maintain. He found room 304. Knocked. 'Come in,' a voice called. Thomas opened the door. Mr Henderson was sitting behind a large desk. He was a man in his fifties, wearing a suit that looked expensive but slightly worn at the elbows. His hair was thinning, combed over carefully. He smiled when he saw Thomas. A professional smile. Not warm, not cold. Just correct. 'Mr Ward. Please, sit down.' Thomas sat. The chair was leather, cool against his back. 'Can I get you a coffee? Tea?' 'No, thank you.' 'Very well.' Mr Henderson folded his hands on the desk. 'So. You reported an unauthorized transaction. Five thousand pounds. Transferred to an account held by...' He glanced at a file. 'Olesya Volkov.' 'Yes.' 'And this was done without your knowledge or consent?' 'Yes.' 'I see.' Mr Henderson leaned back. 'When did this happen?' 'Yesterday. Around half past two.' 'And you only noticed it today?' 'I checked my account this morning.' 'Right.' Mr Henderson nodded slowly. 'And you believe Ms Volkov made this transfer?' 'I know she did.' 'How do you know that, Mr Ward?'
-Thomas hesitated. How did he know? He had seen the name. The reference. For you. Only she would write that. Only she would take the money and leave a message like that. But how could he prove it? 'The reference,' he said. 'It says "For you". She... she has a way of writing things. It's her.' Mr Henderson raised an eyebrow. 'A reference note is not proof of identity, Mr Ward. Anyone could have written that.' 'But the timing. I was at the airport. She was in Istanbul. The IP address...' 'The IP address is masked. It shows a proxy server. Likely in Eastern Europe. It doesn't pinpoint a location. And frankly, Mr Ward, if Ms Volkov had access to your credentials previously – which, as a partner, she may well have had – then she could have initiated this from anywhere. Using a saved password. Or a device you both used.' 'We changed the passwords. After she left.' 'Did you? Are you certain? Memory can be unreliable in stressful situations.' Thomas felt a flicker of anger. 'I am certain.' 'Of course. Of course.' Mr Henderson held up a hand. Calming. Dismissive. 'I'm not accusing you of lying, Mr Ward. I'm just explaining the complexity. From the bank's perspective, this looks like a domestic dispute over shared finances. Unless you have evidence of coercion, theft, or fraud – meaning, someone hacking into your account without any prior access – there is very little we can do.' 'So you're saying you won't help me?' 'I'm saying we can secure your account. Change the passwords again. Issue new cards. Monitor for further suspicious activity. But recovering the funds... that requires a police report. And even then, if it's deemed a civil matter between partners, the police may not intervene.'
-Thomas stared at him. 'She stole five thousand pounds.' 'Allegedly.' 'Allegedly?' 'Until proven otherwise, yes. Allegedly.' Mr Henderson's tone was gentle, but firm. 'Look, Mr Ward. I understand this is distressing. But these things happen. Couples separate. Finances get messy. Sometimes lines get blurred. Did you ever share your password with her?' 'Years ago. Yes.' 'And did you change all your devices? Your phone? Your laptop? Your tablet?' 'I... I think so.' 'Think so?' 'I changed the main ones.' 'Then it's possible she retained access. Maybe she logged in from a cached session. Maybe she guessed the new one. People who know us well can often guess our passwords. Birthdates. Pet names. Anniversaries.' Thomas felt sick. Was it possible? Had he been careless? Or was Henderson just covering his own back? Refusing to admit the bank's security might have failed? 'So what are my options?' Thomas asked. His voice sounded flat. Defeated. 'As I said. We secure the account. You file a police report if you wish. We investigate internally, but I must manage your expectations. Without concrete evidence of criminal fraud, recovery is unlikely.' Thomas nodded. Slowly. He understood. They wouldn't help. They couldn't help. Or wouldn't bother. Five thousand pounds was a lot of money to him. To the bank, it was a rounding error. A drop in the ocean. Not worth the hassle. 'Okay,' he said. 'Secure the account. Change everything.' 'Certainly.' Mr Henderson picked up a pen. Made a note. 'I'll arrange that immediately. You'll receive confirmation by email within the hour.' 'Thank you.' 'Is there anything else, Mr Ward?' Thomas thought about telling him the rest. The calls. The photos. The voice on the line. I saw you. But what would be the point? Henderson would just call it harassment. Stalking. Another civil matter. Another thing the police wouldn't prioritise. 'No,' Thomas said. 'That's it.' 'Very well. I'm sorry we couldn't be more helpful, Mr Ward. These situations are... difficult.' 'Yes.' Thomas stood up. 'They are.'
-He walked out of the office. Down the corridor. Into the lift. Back to the ground floor. Pushed open the heavy wooden doors. The air outside was colder now. The wind had picked up, cutting through his coat. He shoved his hands into his pockets. Started walking. He didn't know where he was going. Just away. Away from the bank. Away from the polite dismissal. Away from the feeling of being powerless. He walked for miles. Through streets he didn't recognize. Past shops selling clothes he couldn't afford. Past cafes filled with people laughing, talking, living lives that seemed impossibly normal. He kept his head down. Watched his feet. One foot in front of the other. Squelch. Squelch. Squelch. The sound of wet shoes on wet pavement. A rhythm. A metronome. Counting down the seconds until... until what? Until the phone rang? Until she called again? Until he woke up and realized this was all a dream? His phone buzzed in his pocket. Thomas stopped. Heart hammering. He pulled it out. Unknown Number. He stared at the screen. The name blinking. Mocking him. He answered. Put the phone to his ear. 'Hello?' Silence. Then, a click. Then, breathing. Soft. Rhythmic. Female. 'Olesya?' 'I saw you,' she said. Her voice was clear. Closer than before. Less static. 'Saw me? Where?' 'At the bank.' Thomas froze. 'What?' 'The app. The banking app. It tracks location. For security. Remember? You set it up.' He did remember. He had set it up years ago. To get alerts if his card was used abroad. To know if someone was trying to steal his identity. He had forgotten about it. Forgotten that she knew about it. That she might still have access. 'You were watching me?' 'In a way. I got the notification. "Login attempt from new device." Then, "Meeting scheduled with Mr Henderson." Cute name, by the way. Very traditional.' 'Olesya, stop this. Please.' 'Stop what? Telling you the truth?' 'The truth? You stole from me.' 'I borrowed.' 'You took five thousand pounds without asking.' 'I asked. In my own way.' 'How? By leaving a note?' 'By taking what I needed. And leaving you a message. "For you". It was for you, Tom. In a way.' 'How is stealing from me for me?' 'Because now you know. Now you're awake. You were sleepwalking, Tom. Living in that flat. Working that job. Pretending everything was fine. Now you're not pretending anymore.'
-Thomas felt a surge of anger. Hot. Blinding. 'Don't twist this. Don't make this about me waking up. You took my money. You lied. You ran away.' 'I didn't lie. I told you I was leaving. I told you I didn't want to share. I told you I wanted my own.' 'You didn't say you'd steal from me.' 'I didn't steal. I redistributed. Resources. Energy. Love. It was all stuck, Tom. Stagnant. I just... moved it.' 'Moved it to your account?' 'To where it could be used. To start over.' 'Start over? With my money?' 'With what was ours. Or what was yours. Does it matter? Money is just numbers. Digital ghosts. It doesn't mean anything.' 'It means something to me.' 'I know. That's the problem.' The line went quiet. Thomas heard the sound of traffic again. Horns. Engines. Distant voices. Istanbul. Still Istanbul. 'Where are you?' he asked. His voice was tired. Resigned. 'Does it matter?' 'Yes.' 'Why?' 'Because I want to find you.' 'No, you don't.' 'I do.' 'You want to find the girl you knew. The one in the flat. The one who laughed at travel magazines. She's gone, Tom. I told you. She's not here.' 'Then who is this?' 'Someone new. Someone learning.' 'Learning what?' 'How to be free.' 'Free? You call stealing freedom?' 'I call it breaking chains. You were a chain, Tom. A heavy, golden chain. Comfortable. Safe. Suffocating.' Thomas gripped the phone tighter. His knuckles white. 'I loved you.' 'I know. And I loved you. But love wasn't enough. You taught me that.' 'I taught you?' 'Yes. With your silence. Your routines. Your fear of anything changing. You showed me that love without risk is just... habit. And I couldn't live like that anymore.' 'So you ran.' 'I flew.' 'To Istanbul.' 'To somewhere. Anywhere.' 'And now you're watching me. Through an app.' 'Just checking in. Making sure you're okay.' 'I'm not okay.' 'You will be. Eventually.' 'When?' 'When you stop waiting for me to come back.' 'Will you come back?' Silence. Long. Heavy. 'I don't know,' she said finally. 'Maybe. Maybe not. It depends.' 'On what?' 'On whether I find what I'm looking for.' 'And if you don't?' 'Then I'll keep looking.' 'And me? Where do I fit in all this?' 'You're the starting point, Tom. The place I left. But you're not the destination.' The words hit him like a physical blow. He stumbled slightly. Caught himself on a lamppost. Cold metal against his palm. 'Olesya...' he started. 'I have to go.' 'Wait. Please. Just tell me... are you safe?' 'I'm safe.' 'Are you alone?' 'That's not your business.' 'Please. Just tell me.' 'Goodbye, Tom.' The line went dead.
-Thomas lowered the phone. Stared at the screen. Call Ended. He stood there on the pavement. Rain starting to fall again. Light. Misty. Coating his face, his hair, his coat. People brushed past him. Hurrying. Ignoring him. A woman pushing a pram. A man on a bike. A group of teenagers laughing. He felt invisible. Erased. He put the phone in his pocket. Started walking again. Towards home. Towards the flat. Towards the silence. The rain got heavier. Soaking through his coat. Chilling his skin. He didn't care. Let it rain. Let it wash everything away. The money. The calls. The memories. The hope. Let it all go. He reached his building. Climbed the stairs. Three flights. Legs heavy. Breathing hard. Unlocked the door. Stepped inside. The flat was dark. Cold. Smelling of nothing. He took off his coat. Dropped it on the floor. Didn't hang it up. Took off his shoes. Kicked them into the corner. Didn't line them up. Walked to the kitchen. Poured a glass of water. Drank it. Looked at the phone on the counter. It was dark. Sleeping. He picked it up. Turned it over. No new messages. No missed calls. Just the time. Ticking forward. Indifferent. He put the phone down. Walked to the living room. Sat on the sofa. Looked at the stain on the floor. The wine stain. And now, another one. From his wet coat. A dark patch spreading on the carpet. Two stains. Records of spills. Of breaks. Of calls. Marks that something had happened. Even if nothing had changed. He leaned back. Closed his eyes. Five thousand pounds. For you. You're the starting point. Not the destination. The words echoed in his mind. Unbidden. Unwanted. He pushed them away. Sleep came eventually. Fitful. Dream-filled. He dreamt of screens. Thousands of them. Watching him. Eyes in the dark. Blinking. Recording. Judging. He dreamt of her. Sitting in front of a computer. Typing. Watching his location dot move on a map. Smiling. He woke up gasping. The room was pitch black. He sat up. Disoriented. The phone. It was buzzing. He fumbled for it. Knocked the glass of water off the table. It rolled across the floor. Spilled more water onto the already wet carpet. He didn't care. Grabbed the phone. Unknown Number. He answered. 'Hello?' Silence. Then, a click. Then, silence again. Then the recording ended. No voice. No breathing. Just a call that connected and then said nothing. He lowered the phone. Stared at it. Was it her? Testing the line? Seeing if he would answer? Or just a wrong number? It didn't matter. The result was the same. Silence. He put the phone down. Lay back on the sofa. Pulled the blanket over himself. Tomorrow he would call the police. Maybe. File a report. Try again with the bank. Scream until someone listened. But tonight, he just lay there. In the dark. Listening to the silence. Waiting for a phone that wouldn't ring. Wondering if she was watching him right now. Through the app. Through the camera. Through the screen. Wondering if she cared. Or if he was just a dot on a map. A starting point. Left behind. Just access. Under another name. The thought drifted through his mind. Unbidden. Unwanted. He pushed it away. Sleep took him again. Deep. Dreamless. When he woke, the sun was up. Bright. Harsh. The flat was still empty. The phone was still silent. He got up. Showered. Dressed. Made coffee. Drank it standing up. Looked at the two stains on the floor. The wine. The rain. Left them. Opened the door. Stepped out. Locked it behind him. Walked down the stairs. Into the day.
+Chapter 03
+
+Winter came down over the Caspian without drama.
+
+It did not arrive as snow, not at first, only as a hardening of the air and a change in the sound of the harbour. Metal carried further. Chains struck against moorings in the dark. At dawn, the wind pressed itself against the office glass until the panes gave a low, almost animal complaint. The water beyond the promenade turned the colour of old lead.
+
+Thomas noticed the change in the documents before he noticed it in his body.
+
+Drivers were late. Yard signatures arrived smudged by rain. The port authority began attaching weather advisories to routine emails, each one written as if the sea could be persuaded by formatting. Offshore transfers were delayed by hours, then by half-days. Men who had shouted through summer now came into the office with their collars high and their hands red from the cold.
+
+Olesya began arriving with her hair pinned under a wool hat.
+
+The hat was grey and too small. It flattened the front of her hair and left a seam across her forehead when she took it off. She removed it at her desk each morning, smoothed the wool once with both hands, and placed it in the top drawer beside the receipt book. Then she cleaned the surface of the desk, turned the fern slightly towards the paling window, and brought coffee to Thomas at eight.
+
+The paper cup from the cafe had become regular.
+
+Not every day. Regularity too exact would have made the gesture visible. Monday, then Wednesday. Sometimes Friday. On other mornings she brought coffee from the machine near reception, black and thin, placed precisely on the coaster. The difference did not need naming. The cafe coffee came with a cardboard sleeve and a darker smell. The machine coffee came too hot and tasted faintly of metal.
+
+Thomas did not ask which one she had brought.
+
+He knew by the sound of the cup touching the coaster.
+
+The first time he noticed this, he was reviewing a lifting schedule for the offshore crane. He heard the softer set-down, the faint drag of cardboard against cork, and said, without looking up, 'Cafe.'
+
+Olesya stopped in the doorway.
+
+'Yes.'
+
+He looked up then.
+
+She was watching the cup as if it had betrayed her.
+
+'Thank you,' he said.
+
+'The machine is bad today.'
+
+'Only today?'
+
+'Today especially.'
+
+She left before he could answer.
+
+After that, he found himself listening for small things.
+
+Three steps from her desk to his door if she carried only paper. Four if she carried coffee, because she slowed before crossing the threshold. The drawer on her desk stuck on the left side and made a small wooden click when pushed fully shut. She typed quickly when copying words, slowly when entering numbers. She drank water at one thirty and again at four, never before lunch. If Rauf raised his voice in Azerbaijani, she reached for the nearest file and straightened it without looking down.
+
+None of it mattered.
+
+All of it entered the system.
+
+At the end of the first week of cold weather, Thomas stayed late to reconcile the casing manifests against the offshore receipt logs. The office emptied in the usual stages: procurement first, because procurement believed any problem after five was a problem for tomorrow; engineering next, with arguments carried half-finished into the lift; Rauf last among the managers, stopping in Thomas's doorway with his coat over one arm.
+
+'You are doing the monthly reconciliation?'
+
+'Yes.'
+
+'That is an ugly thing.'
+
+'It is only ugly if the logs are wrong.'
+
+Rauf laughed once. 'Then it is ugly.'
+
+He looked across the open-plan room. Olesya remained at her desk, her coat still on the back of the chair, the grey hat folded beside her keyboard.
+
+'She is still here?'
+
+'Serial numbers.'
+
+'You gave her serial numbers?'
+
+'She asked for something she could finish.'
+
+Rauf looked at Thomas for a moment, then at Olesya again. 'Be careful giving people finishable things. They begin to expect endings.'
+
+'It is data entry.'
+
+'Of course.'
+
+Rauf left.
+
+The building settled around the remaining light. The cleaners had not yet reached the sixth floor. Somewhere in the ceiling, the air system clicked and resumed. Thomas worked through the manifest line by line, pencil against ruler, the old habit steadying the eye. Outside, the harbour lights blurred in the rain.
+
+At seven twenty, he heard Olesya's chair scrape.
+
+Not the final scrape of someone leaving. A frustrated sound, too sharp in the emptied office.
+
+He waited.
+
+The chair moved again.
+
+Thomas saved his file and stood.
+
+Olesya was sitting with both hands in her lap, staring at the screen. A spreadsheet filled the monitor. Row after row of serial numbers, weights, supplier references, container codes. On the desk beside her lay a stack of delivery slips. The top one had been crossed through twice.
+
+'What happened?'
+
+'It jumps.'
+
+'What jumps?'
+
+'The numbers. I enter one, and the next row changes.'
+
+Thomas leaned over the keyboard. The sheet had an auto-fill rule active in the wrong column. Each new entry was being treated as part of a sequence and altered as she moved down the file. Half the sheet had been corrupted by a function she had not known was there.
+
+'Stop typing.'
+
+'I have stopped.'
+
+Her hands remained on her knees.
+
+He pulled up a chair and sat beside her. The wheels caught against the seam in the carpet. He took the mouse, opened the version history, and restored the last clean save from twenty minutes earlier.
+
+The spreadsheet jumped back.
+
+Olesya let out air through her nose, very quietly.
+
+'It is not gone?'
+
+'No.'
+
+'I thought I broke it.'
+
+'You triggered a rule.'
+
+'Same thing.'
+
+'No.'
+
+He showed her the small square at the corner of the selected cell.
+
+'This fills the series. Useful if you want one, two, three. Bad if the number is a unique identifier.'
+
+'Why is it there?'
+
+'Because someone thought it was helpful.'
+
+'Someone who does not use numbers.'
+
+'Someone who uses different numbers.'
+
+She looked at him. 'That is generous.'
+
+'No. It is accurate.'
+
+He opened an OCR tool, scanned the first slip, and extracted the serial number into the sheet. The process took less than a minute. He did the second one, then the third. Olesya watched without moving.
+
+'You can do all of them like that?'
+
+'Most of them.'
+
+'I typed for two hours.'
+
+'You did not know the tool existed.'
+
+'Still.'
+
+He handed her the mouse. 'You do this one.'
+
+She did not take it at once.
+
+'It will not break?'
+
+'It may. Then we restore it again.'
+
+She looked at the screen, then at the mouse. Her fingers closed around it carefully, as if the object required negotiation. She selected the next scanned slip, clicked the OCR icon, and waited while the text appeared. The first result misread an eight as a three.
+
+'It is wrong.'
+
+'So correct the eight.'
+
+She clicked into the cell and corrected it.
+
+'Now the next.'
+
+They worked like that through twenty slips. Thomas did not touch the mouse unless she asked. The office darkened around them, the overhead lights too bright above the two desks, the rest of the room falling away into glass and reflection.
+
+At the twenty-first slip, she made the correction without looking at him.
+
+At the twenty-fifth, she saw the misread digit before the software finished highlighting it.
+
+'There,' she said.
+
+'Yes.'
+
+The word was small. It warmed the space more than it should have.
+
+At eight fifteen, the cleaner appeared at the end of the row and paused when she saw them still working.
+
+'Sorry,' Olesya said.
+
+The cleaner lifted one shoulder and moved to the far side of the office.
+
+Thomas checked the completed sheet. Two errors remained, both in the weight column where the slips had used commas instead of decimal points. He fixed one and showed Olesya the other.
+
+'You see it?'
+
+She leaned closer. The sleeve of her cardigan brushed the edge of his jacket.
+
+'Comma.'
+
+'Yes.'
+
+'It should be a point.'
+
+'For this sheet.'
+
+'Not for normal people.'
+
+'For this sheet,' he said again.
+
+She corrected it.
+
+When the file saved, she sat back and looked at the screen as if waiting for it to betray her.
+
+It did not.
+
+'I am very slow,' she said.
+
+'You are using tools you were never taught.'
+
+'Rauf says the result is what matters.'
+
+'Rauf is correct.'
+
+She turned towards him.
+
+'Then I am useless until someone fixes the result.'
+
+The cleaner's vacuum began behind them, a low mechanical drag across the carpet. Thomas watched the cursor blink at the end of the final row.
+
+'You saw the forged certificate last week.'
+
+'That is different.'
+
+'Yes.'
+
+'This office does not pay me to see mud.'
+
+'It should.'
+
+She looked down at her hands. The nails were short, unpainted, one cuticle torn at the edge of her thumb. She pressed it with the opposite nail until the skin whitened.
+
+'You fix my files,' she said.
+
+Thomas closed the spreadsheet. 'I correct shared outputs.'
+
+'No.'
+
+The word came softly. It did not invite argument.
+
+He looked at her.
+
+'You fix my files.'
+
+Outside, the wind pushed rain against the glass in a hard, slanting rush. For a moment the harbour disappeared behind it.
+
+'The work gets done,' he said.
+
+'Why?'
+
+He could have answered with any of the useful words. Efficiency. Accuracy. Risk. Delay. Cost. Each one available, each one true inside its own small room.
+
+'Because it is easier to correct a file than explain why it failed.'
+
+Olesya watched him for longer than he expected.
+
+'That is not the real answer.'
+
+'It is one of them.'
+
+The vacuum stopped. The sudden quiet left the office too exposed.
+
+Olesya gathered the delivery slips and tapped them into a neat stack. She placed them in a clear sleeve, wrote the file reference on a label, and pressed the label flat with her thumb.
+
+'I will do the next batch tomorrow.'
+
+'Use OCR from the start.'
+
+'Yes.'
+
+'Check the commas.'
+
+'Yes.'
+
+She stood. Her chair rolled back and touched his knee before stopping. Neither of them moved for a second. Then Thomas shifted the chair aside.
+
+'Good night,' she said.
+
+'Good night.'
+
+She put on her coat and grey hat. At the lift, she turned back once towards the row of desks, the lit office, the fern at her station, the folder now completed.
+
+Then she left.
+
+Thomas returned to his own office.
+
+The casing reconciliation waited on his screen. He completed it after nine, sent it to Rauf, and shut down the computer. Before leaving, he passed Olesya's desk. The paper clips were aligned. The fern soil was dark. Beside the keyboard lay a small chocolate wrapped in gold foil.
+
+He looked towards the lift.
+
+The doors were closed.
+
+He placed the chocolate in his top drawer beside the first one.
+
+The next morning, the coffee was from the machine.
+
+Olesya said nothing about the chocolate. Thomas said nothing about the spreadsheet. The morning took them back into its ordinary order.
+
+That became the shape of the next weeks.
+
+He taught her one tool at a time. OCR. Data validation. Freeze panes. Filters that could be cleared before they damaged a report. She learned the motion of each task slowly, with the same care she gave to sealing folders. She wrote instructions in a notebook as small commands:
+
+Check source.
+
+Lock header.
+
+Clear filter before save.
+
+Comma is not always comma.
+
+At first, Thomas found the last note imprecise. Then he left it.
+
+She never became good with the spreadsheets. The formulas remained suspect. A copied row could still carry the wrong hidden reference. A cell formatted as text could sit in a column of numbers and pass beneath her eye because it looked orderly. She began to know where danger might be. She stopped trusting clean surfaces.
+
+That mattered.
+
+Near the end of January, the old archive cabinet jammed.
+
+It was a tall grey unit near procurement, dented along one side, with drawers that opened only if lifted from beneath and pulled at the same time. Most of the office avoided it. Files went in when no one knew where else to put them, and came out only under protest. The bottom drawer held vendor certificates from previous campaigns, some in folders, some loose, some still in courier envelopes with the corners torn.
+
+Rauf needed a calibration certificate from two years earlier.
+
+'If we cannot produce it,' he said from Thomas's doorway, 'the inspector will hold the lifting gear.'
+
+'Why was it not scanned?'
+
+'Because the scanner was broken.'
+
+'For two years?'
+
+'Spiritually, yes.'
+
+Olesya came in behind him, holding a ring of keys.
+
+'I know the cabinet.'
+
+Rauf looked at the keys. 'Why do you have those?'
+
+'The temp gave them to me.'
+
+'The temp left before you started.'
+
+'She gave them to Leyla. Leyla gave them to the driver. The driver gave them to me because they were in his glove box and he wanted the glove box for gloves.'
+
+Rauf stared at her.
+
+'Baku,' Thomas said.
+
+'Do not start,' Rauf said.
+
+The archive cabinet stood under the harsh strip lights at the back of the office. Olesya crouched before the lower drawer and tried three keys before the lock turned. The drawer shifted half an inch and stuck.
+
+'Lift here,' she said.
+
+Thomas took the handle from below.
+
+'Not like that. You will bend it.'
+
+He moved his hand.
+
+'Here.'
+
+The metal was cold beneath his fingers. She placed her hand beside his, smaller, dry from paper and winter air. Together they lifted and pulled. The drawer came free with a shudder that travelled up Thomas's arm.
+
+Inside, the files had slumped into one another. Dust lay along the hanging folders in grey ridges. Someone had stored a cracked mug in the back corner. The mug contained three binder clips and a dead moth.
+
+Olesya looked at it for a moment.
+
+'Procurement system,' she said.
+
+Thomas laughed before he could stop himself.
+
+She glanced at him, quick and almost suspicious, as if laughter had not been the expected output.
+
+Rauf, standing behind them with his phone in one hand, said, 'We need certificate TKL-44, not comedy.'
+
+Olesya began removing folders. She did not read every label. She read the wear. The cracked spine of one folder. The newer tape on another. The faint oil mark on an envelope that had probably come from the yard. Thomas watched her sort by touch and smell as much as by text. The air around the cabinet filled with dust and old paper.
+
+'This drawer was moved,' she said.
+
+'How do you know?'
+
+'The folders lean the wrong way.'
+
+Rauf looked at Thomas. 'I am choosing not to understand that.'
+
+'Probably wise.'
+
+She found the certificate after twelve minutes, folded inside the wrong vendor's folder and clipped to a faded inspection photograph. The document had a stamp in violet ink, the signature half outside the box.
+
+'There,' she said.
+
+Rauf took it from her and held it up to the light. 'Alive.'
+
+'Barely,' Thomas said.
+
+'Barely is enough for inspectors if the stamp is old and ugly.' Rauf left with the paper, already dialling someone.
+
+Olesya remained crouched by the open drawer.
+
+'This should be fixed.'
+
+'The cabinet?'
+
+'The files.'
+
+'It would take days.'
+
+'Then days.'
+
+Thomas looked at the drawer. It was a minor problem, old and local and unglamorous, the sort of thing no weekly report would capture until the day it stopped a shipment. Olesya was still touching the folder tabs with the back of one finger, reading the disorder.
+
+'Make a list,' he said.
+
+'A list will not fix it.'
+
+'No. It will show the size of the damage.'
+
+She looked at him. 'That is how you begin?'
+
+'Usually.'
+
+She stood, brushing dust from her skirt. A grey mark remained near her knee.
+
+'I clean first.'
+
+'And then?'
+
+'Then the damage is less rude.'
+
+He should have returned to his office. Instead, he helped her carry the first armful of folders to the empty meeting room.
+
+They used Meeting Room Three because it had the large table and the least broken chair. Olesya wiped the table before placing the folders down. Then she set labels along the glass wall: vendor, year, equipment, missing, scan. Her labels were too small for the room, each word written in careful black letters.
+
+Thomas brought his laptop.
+
+'We can build an index.'
+
+'First we find what exists.'
+
+'The index will tell us that.'
+
+'No,' she said, opening the first folder. 'The paper will.'
+
+They worked in a rhythm that did not need agreement. Olesya opened folders, checked stamps, removed duplicates, and placed documents into piles. Thomas entered each item into a spreadsheet and assigned a scan status. When he tried to move too quickly, she tapped the table beside a document he had not recorded.
+
+'You missed one.'
+
+'It is a duplicate.'
+
+'The stamp is different.'
+
+He looked again. It was.
+
+'Good catch.'
+
+She passed him the next folder, already opened to the page he needed.
+
+At four, the room smelled of dust, cold coffee, and the lemon wipes Olesya had used on the table. Rain moved down the glass in thin lines. Outside the meeting room, the office carried on without them. Phones rang. Rauf crossed the floor twice, each time looking in without interrupting.
+
+By five thirty, they had indexed one drawer.
+
+The spreadsheet was clean.
+
+The room was not.
+
+Folders lay in ordered stacks across the table. Olesya had dust on both cuffs. A strand of hair had slipped from its pin and rested against her cheek. She did not notice. Thomas noticed, then looked back at the screen.
+
+'We should stop,' he said.
+
+'This stack is almost finished.'
+
+'Almost finished is not finished.'
+
+'That is why I said almost.'
+
+He smiled at the file name on the screen rather than at her.
+
+They finished the stack at six ten.
+
+When Olesya lifted the last folder, a torn envelope slid out and dropped under the table. She bent for it at the same time he did. Their hands met on the carpet. Not fully. Knuckles, the back of his finger against the side of hers. Both withdrew.
+
+'Sorry,' she said.
+
+'No.'
+
+The envelope remained between them.
+
+Thomas picked it up and placed it on the table.
+
+Inside was a certificate for a valve assembly no one had asked for. Olesya smoothed it flat, checked the stamp, and added it to the scan pile.
+
+'Hidden things are always expensive later,' she said.
+
+Thomas looked at the certificate, then at the ordered stacks, then at her hands pressing the paper flat.
+
+'Yes.'
+
+He saved the index. The file name appeared in the shared drive: Archive_Certificates_Index_v1.
+
+Olesya read it over his shoulder.
+
+'V one?'
+
+'Version one.'
+
+'So there will be more.'
+
+'There is always more.'
+
+She gathered the used wipes and put them in the bin. Then she lifted the labels from the glass wall one by one, careful not to tear them, and stuck them to the front of a folder for the next day.
+
+At the door, she stopped.
+
+'The chocolate.'
+
+Thomas looked up from shutting down the laptop.
+
+'What chocolate?'
+
+'The ones in your drawer.'
+
+For a moment, the room seemed to lose its small sounds.
+
+Olesya looked at the table, not at him. 'You do not eat them.'
+
+'No.'
+
+'You do not throw them away.'
+
+'No.'
+
+'Why?'
+
+The question came lightly and stayed there.
+
+Thomas closed the laptop fully. The click was louder than he intended.
+
+'They keep.'
+
+She nodded once, accepting the answer without accepting it.
+
+'Good night.'
+
+'Good night.'
+
+She left the meeting room with the folder labels in one hand.
+
+Thomas stayed behind to turn off the lights. In the dark glass, his reflection stood among the ordered files. Behind him, on the table, the torn envelope lay open and empty.
+
+In return, the office began to arrange itself around her.
+
+The courier with the cigarette no longer leaned over her desk. Drivers brought slips to her before Rauf asked for them. The procurement clerk who disliked everyone started leaving unsigned forms in her tray with a pencil mark where the missing stamp should go. Even the yard engineers, when they came in wet and impatient from Sumgait, lowered their voices by the second sentence.
+
+Thomas watched this change with a private satisfaction he did not examine.
+
+At noon, Olesya watered the fern.
+
+At one thirty, she drank water.
+
+At four, she opened the top drawer, checked the receipt book, and closed it again. On the days when money was there, the movement did not change. On the days when money was not there, the movement did not change. The drawer clicked exactly the same way.
+
+This was how the arrangement protected itself.
+
+No visible gratitude.
+
+No visible giving.
+
+Only the office, smoother than before.
+
+One Friday, Sarah called during Thomas's lunch break. He took the call in his office with the blinds half open. Outside, Olesya was speaking to a driver at her desk, holding a delivery slip in one hand and pointing to a missing stamp with the other.
+
+'You are distracted,' Sarah said.
+
+Thomas turned slightly away from the glass. 'No.'
+
+'That was too quick.'
+
+'Then yes.'
+
+'Baku?'
+
+'Baku.'
+
+Sarah smiled from whatever transit lounge held her that day. Behind her, people moved with wheeled bags, coats over their arms, passports ready in their hands. She wore a dark jacket, hair pinned back, no wasted softness in her face.
+
+'I signed Geneva,' she said.
+
+'Good.'
+
+'Three months, possibly six. They want me in and out, not full-time on site.'
+
+'That suits you.'
+
+'It does.'
+
+She looked down to check something, then back at him. 'You sound as if you are still at your desk.'
+
+'I am.'
+
+'Do you ever leave that building?'
+
+'Occasionally.'
+
+'Try doing it deliberately.'
+
+He glanced through the glass. Olesya had taken the driver's slip and was making him wait while she copied a number into her notebook. The driver shifted from foot to foot.
+
+'I will.'
+
+'You will not.'
+
+'Probably not.'
+
+Sarah laughed. It came cleanly through the laptop speakers, untouched by the airport noise around her.
+
+'I miss your honesty.'
+
+'Only that?'
+
+'Mostly that.'
+
+The driver outside Olesya's desk raised both hands. Olesya did not look impressed.
+
+Sarah followed Thomas's glance. 'Am I boring you?'
+
+'No.'
+
+'Who are you watching?'
+
+'A driver losing an argument.'
+
+'Ah. The true theatre of oil and gas.'
+
+'It is more exact than theatre.'
+
+'You would say that.'
+
+She was called away then, her name spoken by someone outside the frame. She turned, answered, then looked back at him.
+
+'I have to go. Eat something that is not from a vending machine.'
+
+'Yes.'
+
+'That means no.'
+
+'It means yes with qualifications.'
+
+'Goodbye, Thomas.'
+
+'Goodbye.'
+
+The screen went dark.
+
+Thomas remained turned away from the glass for a moment. Then he looked back.
+
+Olesya was watching him.
+
+Not openly. Her eyes moved from the laptop to his face and then back to the driver. It was nothing. Less than nothing. A glance caught between tasks.
+
+He closed the laptop.
+
+At three that afternoon, she brought in a folder of inspection photographs from the yard. The images were poor, taken on a phone with a scratched lens. Weld seams, pipe ends, stamped plates, the dull shine of wet steel. Thomas spread them across his desk while Olesya stood opposite him.
+
+'These need matching to the report.'
+
+'The filenames are wrong,' she said.
+
+'Of course they are.'
+
+'The yard sent them by message. Then email. Then message again.'
+
+'Which set is current?'
+
+'None.'
+
+He looked up.
+
+'They photographed the same pipe twice and forgot another section.'
+
+Thomas went through the images. She was right. The missing section was listed in the report but absent from the photographs. Two images showed the same flanged joint from different angles, renamed as separate components.
+
+'How did you see that?'
+
+She pointed to the concrete beneath the pipe. 'Same crack.'
+
+Thomas looked. A dark line ran through the wet concrete in both images, almost hidden beneath the shadow of the pipe stand.
+
+'Yes.'
+
+'They think if the pipe is different, the ground does not matter.'
+
+'And does it?'
+
+'The ground always tells.'
+
+The sentence stayed in the room after she said it.
+
+Thomas separated the photographs into two piles. Verified. Missing. Duplicate. Olesya took labels from her folder and wrote each word in block letters. Her handwriting was small but exact. When she leaned forward to place the first label, the cuff of her coat brushed the edge of the desk. The darker repair thread had held.
+
+'You fixed the cuff,' he said.
+
+'Yes.'
+
+'Better this time.'
+
+'I used stronger thread.'
+
+She did not look at him.
+
+'Good.'
+
+They worked through the photographs until the light outside shifted from grey to black. Rauf came in once, saw the spread of images, and left without comment.
+
+At five forty, Olesya's phone buzzed on Thomas's desk.
+
+She looked at the screen and turned it over.
+
+Thomas continued writing the missing-photo list. After a minute, the phone buzzed again. Then again.
+
+'Do you need to answer?'
+
+'No.'
+
+The fourth buzz came almost immediately.
+
+Olesya picked up the phone and stepped into the corridor. Through the glass wall, Thomas saw her stand near the printer alcove with one hand against her forehead. She spoke little. Mostly listened. When she came back, the colour had left her face.
+
+'I have to go,' she said.
+
+'Is something wrong?'
+
+'No.'
+
+She began gathering the photographs. Her hands moved too quickly, disturbing the piles they had made.
+
+'Leave them.'
+
+'They are not finished.'
+
+'I will finish them.'
+
+'No.'
+
+'Olesya.'
+
+She stopped.
+
+'Leave them.'
+
+The phone buzzed again in her hand.
+
+She looked at it, then at the photographs, then at Thomas.
+
+'My daughter is waiting outside school.'
+
+It was the first time she had said daughter.
+
+Thomas put down the pen.
+
+'Go.'
+
+'The bus is late.'
+
+'Take a taxi.'
+
+She looked at him.
+
+There was no money visible between them this time. No notes beneath a paperweight. No drawer. No buffer that could pretend to be something else.
+
+'I will take the bus.'
+
+'Then she waits longer.'
+
+Outside the office, the printer began feeding paper into its tray, page after page, though no one had sent anything to it. A delayed job from earlier in the day, arriving after its usefulness had passed.
+
+Olesya looked towards the sound.
+
+'Go,' Thomas said.
+
+She left without her folder.
+
+He watched her pass the glass, coat unbuttoned, grey hat still on her desk. At the lift she pressed the button twice, then stood with the phone tight in her hand.
+
+When the doors opened, she stepped inside and disappeared.
+
+Thomas finished the photograph list alone.
+
+He found the duplicate. He logged the missing section. He sent the report to Rauf and copied the yard manager. Then he returned to Olesya's desk, placed the grey hat inside her top drawer, and paused with his fingers on the handle.
+
+The drawer was empty except for the receipt book, spare staples, paper clips, and the small notebook where she wrote instructions for tools she did not trust.
+
+He took out his wallet.
+
+The notes lay too brightly against the dark bottom of the drawer.
+
+He covered them with the receipt book.
+
+On Monday, they were gone.
+
+So was the hat.
+
+The inspection photographs had been refiled in clear sleeves, each label rewritten in Olesya's hand. Duplicate. Missing. Verified.
+
+Beside his coffee sat another chocolate in gold foil.
+
+Thomas opened the drawer in his own desk.
+
+The first two were still there.
+
+He placed the third beside them and closed the drawer before the office filled.
+
+At eight, Olesya came to his door.
+
+'The yard will send the missing section today,' she said.
+
+'Good.'
+
+'I told them the ground tells.'
+
+'Did that help?'
+
+'No.'
+
+The edge of a smile appeared and was gone.
+
+She looked at the closed drawer of his desk, though she could not have known what was inside it.
+
+'Good morning, Thomas.'
+
+'Good morning.'
+
+She went back to her desk. The fern caught the weak winter light. The coffee steamed between his hand and the keyboard.
+
+Thomas opened the permit register.
+
+The first formula was wrong.

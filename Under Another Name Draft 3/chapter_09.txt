@@ -1,150 +1,159 @@
-Chapter 9
-The city had changed. Or perhaps Thomas had. The lens through which he viewed the world had cracked, distorting the familiar streets of London into a labyrinth of potential threats. He walked with his head down, collar turned up against a wind that carried the scent of exhaust and damp wool. Every passerby was a suspect. Every parked van a surveillance unit. Every window an eye.
-He had left the flat in a state of suspended animation. The laptop remained in the locked drawer, a black box of treason. The phone was in his pocket, switched off, a dead weight of plastic and glass. He felt naked without it, yet terrified to turn it on. If Olesya had root access, powering it up was an invitation. A handshake with the enemy.
-He needed to move. To burn energy. To outrun the feeling of being watched. But you cannot outrun a signal. You cannot hide from a ghost in the machine.
-He walked for miles. Through Soho, where the neon signs buzzed like angry insects. Through Covent Garden, where street performers mimed silence to crowds that laughed. He didn’t laugh. He couldn’t remember the last time he had. Laughter felt like a language he had forgotten, a dialect of a country he no longer visited.
-He ended up near the Thames. The river was grey, choppy, sliding under the bridges with a indifferent heaviness. He leaned against the railing, gripping the cold metal until his knuckles turned white. The water below looked thick, oily. Something dead floated past, a plastic bag or a bird, tumbling in the current.
-‘You look like you’re about to jump.’
-The voice came from his left. A woman. Middle-aged. Walking a dog. A terrier, same as the one in the park.
-Thomas blinked. Pulled back from the railing. ‘No,’ he said. ‘Just looking.’
-‘It’s a good view,’ she said. ‘Even on a day like this.’
-‘Is it?’
-She frowned. Tugged the dog’s lead. ‘Come on, Buster.’
-They walked away. The dog looked back at him, head tilted. Judging.
-Thomas pushed off the railing. Continued walking.
-He needed a plan. A real one. Not the spreadsheet nonsense. Not the password changes. Those were games. She was playing chess; he was moving pawns at random.
+Chapter 9 (Expanded)
+The city had changed. Or perhaps Thomas had. The lens through which he viewed the world had cracked, distorting the familiar streets of London into a labyrinth of potential threats, a maze where every turn held a mirror reflecting a version of himself he didn't recognize. He walked with his head down, collar turned up against a wind that carried the scent of exhaust, damp wool, and the metallic tang of coming rain. Every passerby was a suspect. A courier for her? A private investigator? Or just an innocent commuter who happened to glance in his direction for a fraction of a second too long? Every parked van was a surveillance unit, its dark windows hiding lenses that tracked his gait, his heartbeat, the tremor in his hands. Every window in the towering blocks of flats was an eye, unblinking, recording his passage through the grey artery of the street.
+He had left the flat in a state of suspended animation, a fugue state where time stretched and snapped like a broken elastic band. The laptop remained in the locked drawer, a black box of treason, humming softly with secrets he couldn't access. The phone was in his pocket, switched off, a dead weight of plastic and glass that felt like a stone in his gut. He felt naked without it, severed from the digital umbilical cord that had fed him information for twenty years, yet terrified to turn it on. If Olesya had root access, as she claimed, powering it up was an invitation. A handshake with the enemy. A signal flare saying I am here, I am scared, I am yours.
+He needed to move. To burn energy. To outrun the feeling of being watched, of being dissected by invisible eyes. But you cannot outrun a signal. You cannot hide from a ghost in the machine. The machine was everywhere. It was in the traffic lights that changed as he approached, in the CCTV cameras that swivelled on their mounts, in the contactless readers on the bus stops that waited for a card he no longer carried.
+He walked for miles. Through Soho, where the neon signs buzzed like angry insects, casting a sickly pink and green glow on the wet pavement. The streets were crowded, but he felt isolated, encased in a bubble of silence while the world roared around him. Couples laughed outside restaurants, the sound sharp and brittle. Tourists took selfies, oblivious to the cameras watching them from above. Thomas didn't look at them. He kept his eyes on the ground, watching the cracks in the pavement, the discarded cigarette ends, the oily puddles reflecting the fractured sky. Don't look up. Don't make eye contact. Eye contact was an invitation. An acknowledgment of presence. And presence was dangerous.
+Through Covent Garden, where street performers mimed silence to crowds that laughed and threw coins. A man trapped in an invisible box. Thomas stopped for a moment, watching the mime. The performer pressed his hands against an unseen barrier, pantomiming panic, desperation. The crowd laughed. They thought it was a act. Thomas knew better. There was no box. The barrier was real. And he was the one inside it. He walked away quickly, before the mime looked at him, before the illusion shattered completely.
+He ended up near the Thames. The river was grey, choppy, sliding under the bridges with an indifferent heaviness. The water looked thick, oily, swallowing the light. He leaned against the railing, gripping the cold metal until his knuckles turned white, the pain grounding him, anchoring him to the physical world. Something dead floated past, a plastic bag or a bird, tumbling in the current, caught in an eddy. It spun round and round, unable to escape. Thomas watched it. He felt a kinship with the debris. Drifting. Trapped. Waiting to sink.
+'You look like you're about to jump.'
+The voice came from his left. Sharp. Human. Breaking the spell. A woman. Middle-aged. Wearing a wax jacket. Walking a dog. A terrier, same as the one in the park weeks ago. Or maybe all terriers looked the same now. Blurred into a single archetype of happiness.
+Thomas blinked. Pulled back from the railing. The sudden movement made him dizzy. 'No,' he said. His voice sounded rusty, unused. 'Just looking.'
+'It's a good view,' she said. Optimistic. Determined to find beauty in the gloom. 'Even on a day like this.'
+'Is it?' Thomas asked. He genuinely didn't know. The view was just data. Grey water. Grey sky. Grey buildings.
+She frowned. Tugged the dog's lead. The dog strained towards Thomas, sniffing the air. 'Come on, Buster.'
+They walked away. The dog looked back at him, head tilted. Judging. Knowing.
+Thomas pushed off the railing. Continued walking. The encounter had shaken him. A real conversation. With a real person. It felt alien. Dangerous. She had seen him. Really seen him. Not as a dot on a map, but as a man on the edge. Would she remember? Would she tell someone? Saw a man by the river. Looked troubled. The chain of information was endless.
+He needed a plan. A real one. Not the spreadsheet nonsense. Not the password changes. Those were games. Child's play. She was playing chess; he was moving pawns at random, knocking them off the board, hoping the game would end.
 Phase Two. Surveillance from the inside.
-If she controlled his devices, then the devices were compromised. Irretrievably. He couldn’t fix them. He couldn’t clean them. He had to destroy them. And he had to start over. Analog. Offline. Invisible.
-But how do you live in 2024 without a digital footprint? You don’t. You cease to exist. You become a ghost before you’re dead.
-Maybe that was the point. Maybe she wanted him to disappear. To delete himself.
-He stopped at a newsagent. Bought a disposable phone. Cash. No registration. The assistant, a teenager with piercings and bored eyes, didn’t ask for ID. Just took the ten pounds and handed over the plastic-wrapped package.
-‘Cheers,’ Thomas muttered.
-He walked to a bin two streets away. Unwrapped the phone. Slotted in the SIM. Turned it on.
-It beeped. Connected to the network.
-A blank screen. No apps. No history. No Olesya.
-He felt a surge of relief. Pure, chemical relief. This was clean. This was safe.
-Then he dialed his old number.
+If she controlled his devices, then the devices were compromised. Irretrievably. Poisoned. He couldn't fix them. He couldn't clean them. A virus wasn't something you scrubbed off; it was code, embedded in the logic of the machine. He had to destroy them. And he had to start over. Analog. Offline. Invisible.
+But how do you live in 2024 without a digital footprint? You don't. You cease to exist. You become a ghost before you're dead. A non-person. No bank account. No transport. No communication. Just flesh and bone wandering the streets.
+Maybe that was the point. Maybe she wanted him to disappear. To delete himself. To prove her theory that he was nothing without the digital scaffolding.
+He stopped at a newsagent. The bell above the door jingled, a cheerful sound that clashed with the gloom inside. The shop smelled of old paper, sweets, and dust. He walked to the back, to the rack of phones. Prepaid. Disposable. Burners.
+He picked one. Plastic-wrapped. Cheap. Black.
+He took it to the counter.
+'Ten pounds,' the assistant said. A teenager with piercings in his eyebrow and bored, dead eyes. He didn't look at Thomas. Just scanned the barcode.
+'Cash?'
+'Yes.'
+Thomas handed over a crumpled note.
+'Cheers,' he muttered.
+The assistant dropped the phone into a bag. Thomas didn't take the bag. Just took the phone.
+He walked out. Turned the corner. Found a bin two streets away. Overflowing with coffee cups and newspapers.
+He unwrapped the phone. Slotted in the SIM. Turned it on.
+It beeped. A harsh, electronic sound. Connected to the network.
+A blank screen. No apps. No history. No Olesya. No photos of Marrakesh. No spreadsheets.
+He felt a surge of relief. Pure, chemical relief. This was clean. This was safe. A virgin device. Uncontaminated.
+Then he dialed his old number. The one she knew. The one she owned.
 It rang once. Twice.
-Voicemail kicked in. His own voice. ‘You’ve reached Thomas. Leave a message.’
+Voicemail kicked in. His own voice. Recorded weeks ago. 'You've reached Thomas. Leave a message.'
+The voice sounded confident. Happy. A stranger.
 He hung up.
-Did she hear the call? Did the old phone ring in the drawer? Did she see the missed call notification from a burner?
-Probably. If she had access to the account level, not just the device.
-He tossed the burner into the bin. Covered it with a coffee cup and a newspaper.
+Did she hear the call? Did the old phone ring in the drawer, muffled by wood and silence? Did she see the missed call notification from a burner? Probably. If she had access to the account level, not just the device. If she was inside the network itself.
+He tossed the burner into the bin. Covered it with a coffee cup and a newspaper. Buried it.
 Walked away.
-Paranoia was a hunger. It ate everything. Logic. Reason. Hope.
-He returned to the flat as dusk fell. The building loomed ahead, a silhouette against the bruised sky. His window was dark. Or was it? Did he see a flicker of light? A shadow moving behind the curtain?
-He stopped at the door. Watched the windows for ten minutes. Nothing. Just the reflection of the streetlamp.
+Paranoia was a hunger. It ate everything. Logic. Reason. Hope. It left only instinct. Run. Hide. Survive.
+He returned to the flat as dusk fell. The building loomed ahead, a silhouette against the bruised sky. The windows were dark squares. His window was dark. Or was it? Did he see a flicker of light? A shadow moving behind the curtain? A reflection of a person watching?
+He stopped at the door. Watched the windows for ten minutes. Fifteen.
+Nothing. Just the reflection of the streetlamp. The sway of a branch. The trick of the light.
 He went inside.
-The flat was exactly as he had left it. The chair still overturned. The smoke detector shattered on the floor. The pile of unplugged devices on the sofa. The stains on the laminate. Eight of them. A dark constellation.
+The flat was exactly as he had left it. The chair still overturned from his panic earlier. The smoke detector shattered on the floor, a white crater of plastic and wire. The pile of unplugged devices on the sofa, a graveyard of technology. The stains on the laminate. Eight of them. A dark constellation mapping his decline.
 He righted the chair. Sat down.
-Didn’t turn on the light.
-Sat in the gloom.
+Didn't turn on the light.
+Sat in the gloom. The shadows lengthened, stretching across the floor, touching his shoes.
 What now?
-He couldn’t work. Couldn’t communicate. Couldn’t bank. He was cut off. A modern man stranded in a pre-digital age.
-He stood up. Went to the kitchen. Opened the cupboard. Took out a bottle of wine. The same one from weeks ago. Half empty.
-He uncorked it. Poured a glass.
+He couldn't work. Couldn't communicate. Couldn't bank. He was cut off. A modern man stranded in a pre-digital age, helpless and mute. He had no money. No food. Just the wine in the cupboard.
+He stood up. Went to the kitchen. Opened the cupboard. Took out a bottle of wine. The same one from weeks ago. Half empty. The level had dropped, evaporated perhaps, or maybe he had drunk more than he remembered.
+He uncorked it. The pop was loud in the silence.
+Poured a glass.
 Drank it standing up.
-The wine tasted sour. Oxidized. Gone off.
-He drank it anyway.
-Needed the blur. The numbness.
-He walked to the living room. Sat on the sofa.
+The wine tasted sour. Oxidized. Gone off. Vinegar and regret.
+He drank it anyway. Needed the blur. The numbness. The chemical embrace that dulled the edges of the fear.
+He walked to the living room. Sat on the sofa. The springs groaned.
 Closed his eyes.
 Thought about her.
 Where was she? Really?
 London? Istanbul? Nowhere?
-Was she sitting in a café, watching his location dot freeze because the phone was off? Was she smiling? Frustrated? Bored?
-Or was she here? In the building? In the stairwell? Listening at his door?
+Was she sitting in a café, watching his location dot freeze because the phone was off? Was she smiling? Frustrated? Bored? Did she care?
+Or was she here? In the building? In the stairwell? Listening at his door? Breathing the same stale air?
 He opened his eyes. Looked at the door.
 Locked. Chain on.
-But locks were for physical intruders. She was already inside. In the walls. In the wires. In his head.
+But locks were for physical intruders. She was already inside. In the walls. In the wires. In his head. She was the house.
 His phone buzzed.
-He jumped. Spilled wine on his trouser leg. A new stain. Ninth one.
+He jumped. Spilled wine on his trouser leg. A dark splash. A new stain. Ninth one.
 He stared at the device.
-It was the burner. He had put it in his pocket. Forgotten.
+It was the burner. He had put it in his pocket. Forgotten. He had fished it out of the bin? No. He had bought another one? Or maybe he hadn't thrown it away. Memory was a sieve. Holes everywhere.
 Unknown Number.
 Of course.
 He let it ring.
 It stopped.
 Started again.
-Persistent. Relentless.
+Persistent. Relentless. A heartbeat.
 He picked it up. Answered.
-‘Hello?’
+'Hello?'
 Silence.
 Then, a click.
-‘Tom.’
-Her voice. Again. Clear. Close.
-‘How?’ he whispered. ‘This is a new number. Disposable. I bought it an hour ago.’
-‘Numbers are just numbers, Tom. They route calls. I don’t need the number. I need you to answer.’
-‘You’re everywhere.’
-‘I’m nowhere. I’m just a voice in your ear. You’re the one carrying me around.’
-‘What do you want?’
-‘To finish the experiment.’
-‘There is no experiment. You’re just hurting me.’
-‘Pain is data, Tom. It tells us where the limits are. Where the breaking point is.’
-‘I’m broken. Happy?’
-‘Not yet. You’re still fighting. Still trying to hide. Still buying burners. That’s resistance. That’s life.’
-‘I’m going to stop. I’m going to disappear.’
-‘You can’t. You’re connected. By biology. By habit. By fear. You check your pockets for a phone that isn’t there. You look at windows. You flinch at noises. You’re more connected to me now than you ever were when you were texting me goodnight.’
-Thomas gripped the phone. ‘Why? Just tell me why.’
-‘Because I needed to know if you were real. If any of us are. Or if we’re just characters in a story we tell ourselves. And you… you’re very real, Tom. You’re screaming inside. I can hear it.’
-‘I hate you.’
-‘I know. Keep hating. It’s better than nothing.’
-‘Where are you?’
-‘Close.’
-‘Are you coming?’
-‘Maybe.’
-‘When?’
-‘Soon.’
+'Tom.'
+Her voice. Again. Clear. Close. As if she was whispering in his ear. As if she was under the sofa.
+'How?' he whispered. His voice trembled. 'This is a new number. Disposable. I bought it an hour ago. I buried it.'
+'Numbers are just numbers, Tom. They route calls. I don't need the number. I need you to answer. I need you to pick up. That's the contract.'
+'You're everywhere.'
+'I'm nowhere. I'm just a voice in your ear. You're the one carrying me around. You're the vessel.'
+'What do you want?'
+'To finish the experiment.'
+'There is no experiment. You're just hurting me. You're enjoying this.'
+'Pain is data, Tom. It tells us where the limits are. Where the breaking point is. How much pressure a human mind can take before it snaps. We are learning so much.'
+'I'm broken. Happy?'
+'Not yet. You're still fighting. Still trying to hide. Still buying burners. Still looking over your shoulder. That's resistance. That's life. If you gave up, if you just lay down and died, then I'd stop. But you won't. You want to win.'
+'I'm going to stop. I'm going to disappear. I'll leave. I'll go somewhere remote. No signal. No internet. Just woods and silence.'
+'You can't. You're connected. By biology. By habit. By fear. You check your pockets for a phone that isn't there. You look at windows. You flinch at noises. You're more connected to me now than you ever were when you were texting me goodnight. That connection is forged in fear. It's stronger than love.'
+Thomas gripped the phone. His knuckles white. 'Why? Just tell me why. What did I do?'
+'Because I needed to know if you were real. If any of us are. Or if we're just characters in a story we tell ourselves to sleep at night. And you… you're very real, Tom. You're screaming inside. I can hear it. It's beautiful.'
+'I hate you.'
+'I know. Keep hating. Hate is energy. It's better than nothing. Better than indifference.'
+'Where are you?'
+'Close.'
+'Are you coming?'
+'Maybe.'
+'When?'
+'Soon.'
 The line went dead.
 Thomas lowered the phone.
 Soon.
-The word hung in the air. A promise. A threat.
+The word hung in the air. A promise. A threat. A verdict.
 He looked around the flat.
-Shadows lengthened in the corners. The silence deepened.
+Shadows lengthened in the corners. The silence deepened, pressing against his eardrums.
 She was coming.
-Or she wasn’t.
-It didn’t matter. The anticipation was the torture. The waiting was the punishment.
+Or she wasn't.
+It didn't matter. The anticipation was the torture. The waiting was the punishment. The uncertainty was the cage.
 He finished the wine. Poured another glass.
 Drank it.
 Lay down on the sofa.
 Closed his eyes.
 Waited.
 Sleep came eventually. Fitful. Dream-filled.
-He dreamt of doors. Thousands of them. Lining a endless corridor. He tried each handle. Locked. Locked. Locked.
-At the end of the corridor, one door was open. Light spilling out.
-He walked towards it.
+He dreamt of doors. Thousands of them. Lining an endless corridor. White doors. Black doors. Wooden doors. Steel doors. He tried each handle. Locked. Locked. Locked.
+At the end of the corridor, one door was open. Light spilling out. Golden. Warm.
+He walked towards it. His feet heavy.
 Inside, a room. Empty. Except for a chair. And a phone. Ringing.
 He woke up gasping.
 Pitch black.
 Silence.
 He fumbled for the burner.
 No calls. No messages.
-Just the time. Ticking forward.
+Just the time. Ticking forward. Indifferent.
 He put the phone down.
 Lay back.
-Tomorrow he would leave. Pack a bag. Go somewhere remote. No signal. No internet. Just woods and silence.
+Tomorrow he would leave. Pack a bag. Go somewhere remote. No signal. No internet. Just woods and silence. He would do it. He had to.
 But tonight, he just lay there.
 In the dark.
 Listening to the silence.
-Wondering if she was outside the door. Hand on the handle. Waiting for him to sleep.
+Wondering if she was outside the door. Hand on the handle. Waiting for him to sleep. Waiting for the lock to click.
 Wondering if he was safe. Or if safety was just a myth he had invented to get through the night.
 Just access.
 Under another name.
-The thought drifted through his mind.
-He pushed it away.
-Sleep took him.
-When he woke, the sun was up.
-Bright. Harsh.
+The thought drifted through his mind. Unbidden. Unwanted. A refrain from a song he couldn't forget.
+He pushed it away. Tried to think of nothing. Failed.
+Sleep took him again. Deep. Dreamless. A mercy.
+When he woke, the sun was up. Bright. Harsh. Cutting through the curtains, illuminating the dust motes dancing in the air.
 The flat was still empty.
 The phone was silent.
-He got up.
-Showered. Dressed.
+He got up. Showered. Dressed.
 Made coffee.
-Drank it standing up.
-Looked at the nine stains on the floor. The broken detector. The pile of electronics.
+Drank it standing up. The taste bitter.
+Looked at the nine stains on the floor. A galaxy of failure. The broken detector. The pile of electronics.
 Left them.
 Opened the door.
 Stepped out.
-Locked it behind him.
+Locked it behind him. The click final.
 Walked down the stairs.
-Into the day.
+Into the day. Into the noise. Into the world that didn't care.
+Into the life that was no longer his own.
