@@ -1,0 +1,42 @@
+Russian localisation progress
+
+Source manuscript:
+G:\My Drive\Codex\Under-another-Name\Under Another Name Draft 3\manuscript.txt
+
+Output folder:
+G:\My Drive\Codex\Under-another-Name\Under Another Name Draft 3\Russian Edition
+
+Method:
+Literary localisation into colloquial, accessible Russian. Preserve chapter structure, plot order, restraint, sensory grounding, and unresolved chapter movement. Avoid literal English syntax. Use natural Russian idiom where it fits the scene.
+
+Completed:
+chapter_01_ru.txt
+chapter_02_ru.txt
+chapter_03_ru.txt
+chapter_04_ru.txt
+chapter_05_ru.txt
+chapter_06_ru.txt
+chapter_07_ru.txt
+chapter_08_ru.txt
+chapter_09_ru.txt
+chapter_10_ru.txt
+chapter_11_ru.txt
+chapter_12_ru.txt
+chapter_13_ru.txt
+chapter_14_ru.txt
+chapter_15_ru.txt
+chapter_16_ru.txt
+chapter_17_ru.txt
+chapter_18_ru.txt
+chapter_19_ru.txt
+chapter_20_ru.txt
+chapter_21_ru.txt
+chapter_22_ru.txt
+chapter_23_ru.txt
+chapter_24_ru.txt
+
+Pending:
+chapter_25_ru.txt
+
+Compiled Russian manuscript:
+Not yet built. Build only after all 25 Russian chapters are complete, or create a clearly labelled partial manuscript if requested.

@@ -1,43 +1,917 @@
-The European platform worked for two months before it flagged the transactions. 
+Chapter 18
 
-Thomas was at a corporate dinner with Sarah. An automated email informed him his account was suspended and requested identity verification from the recipient.
+For two months the European platform behaved.
 
-He closed the email. He could not ask Olesya for her passport. 
+It sent small green confirmations to his email before breakfast. It held Olesya's card details in a beneficiary profile labelled Utilities. It remembered the Norwegian billing address, accepted the Delhi location, charged the credit card, converted at an ugly rate, and placed money into Baku with a speed that let him look away again.
 
-He found a complex route involving cryptocurrency and a local cash-out broker in Baku. It was messy and violated his preference for abstraction. 
+The first week after the outage, he checked every transfer line by line.
 
-*I need you to meet someone,* he messaged Olesya. *He will give you the funds in cash.*
+Reference number.
 
-*I will not meet a strange man with cash, Thomas. It is not safe.*
+Payout partner.
 
-*It is the only way. The digital routes are blocked.*
+Fee.
 
-*Then I will find another way here.*
+Exchange rate.
 
-*What other way?* he asked. 
+Beneficiary.
 
-She did not reply. She was refusing the resource because the delivery mechanism was unacceptable. 
+By the fourth week he checked only the green tick.
 
-He tried again three days later. 
+The platform trained him in reduced attention. That was its first kindness. It narrowed the act until it could be done between a call with the drilling superintendent and Sarah asking from the bedroom whether he had seen her linen shirt. It made no moral demand. It did not ask who Olesya was after he had finished pretending not to answer. It stored the pretence and offered to repeat it.
 
-*I found a different broker. He will deposit the cash directly into your bank account.*
+Faster next time.
 
-*Okay.*
+By then Delhi had arranged itself around him. The company car collected him at 07:10 when he went to the office and later when he had to visit the supplier yard near Faridabad. The driver knew the better route when the ring road had water standing in the low lanes. Security at the gate had learned his face. The cleaner came on Tuesdays and Fridays, always wearing plastic sandals that slapped softly along the passage, always moving his papers into neater piles than he had left them.
 
-He executed the transaction. Nearly forty percent of the capital was lost in transit fees. 
+Sarah learned the city through errands and other women.
 
-*The deposit is complete. Confirm receipt.*
+She came back with names he could not place, with jars of spices from INA Market, with a tailor's card, with a warning about a dentist, with invitations written in the light voice of people who had learned how to be temporary without looking lost. She found a yoga studio above a pharmacy. She complained about the traffic with the easy entitlement of someone who knew a driver would sit in it for her.
 
-*Received.*
+Olesya sent less.
 
-There was no update on Anya. The messages became a grim routine. He initiated the transfer. She confirmed receipt. 
+Electricity paid.
 
-*Received.*
+School fees due 12th.
 
-*Received.*
+Rent paid.
 
-The relationship was stripped of its human element. It was a logistical exercise in bypassing regulations. He was no longer funding a life; he was funding a mechanism. 
+Need winter clothes for Anya.
 
-He sat in his company car in Delhi traffic. He looked at the word *Received*. 
+Thomas answered in figures.
 
-He believed he was sustaining love through this mechanism, but the reality was that equality without proximity had become fragmentation. The system was eating itself.
+Send invoice.
+
+How much?
+
+Transfer Friday.
+
+Paid.
+
+The old sentences did not return. No photograph of Anya with a schoolbook. No complaint about the lift. No small domestic reports that had once entered his day without asking permission. The messages had become clean. They did not leave marks on the table.
+
+He told himself clean was better.
+
+Clean meant he could put it into the spreadsheet.
+
+He created a new tab called Route B and hid it behind the older monthly sheets. The columns were narrower than they needed to be. Date. Amount sent. Fee. Amount received. Platform reference. Card charge. Confirmation. He shaded nothing, added no colours, and used numbers rounded to the nearest unit so the sheet would not look too attended if Sarah ever saw it over his shoulder.
+
+The first month balanced.
+
+The second did not.
+
+An extra fee appeared on the receiving side. Olesya sent a screenshot of the deposit with the bank name cropped out. He asked for the full image.
+
+Why?
+
+Need to reconcile.
+
+What reconcile?
+
+Check amount.
+
+Amount is there.
+
+The exchange loss?
+
+You sent. I received.
+
+He left the row marked with a small asterisk and told himself he would correct it later.
+
+Later became a place where small wrong things were stored.
+
+Sarah noticed the credit card balance on a Sunday morning.
+
+She was sitting at the end of the dining table with her laptop open, paying for flights to Singapore for a weekend she had described as necessary before asking whether he wanted to come. He had said he could not. Work. She had accepted the answer without pressing it into shape.
+
+'Your card is high again,' she said.
+
+He did not look up.
+
+'Delhi setup costs.'
+
+'Those went through the company.'
+
+'Some were personal.'
+
+She tapped something on her keyboard. Her nails were unpainted. One had split near the edge and caught briefly on a key.
+
+'It is not my card,' she said.
+
+'I know.'
+
+'That was not an objection.'
+
+He entered a formula in the wrong cell and undid it.
+
+'I am managing it.'
+
+Sarah closed her laptop halfway, enough to make a darker rectangle of her face in the screen.
+
+'You always are.'
+
+He waited for more. She gave him nothing further. The laptop opened again. Her flight confirmation arrived with a soft chime and printed itself into their shared calendar, visible, named, accounted for.
+
+His transfers remained elsewhere.
+
+That afternoon Olesya sent:
+
+Anya needs exam registration.
+
+How much?
+
+She gave the number.
+
+Invoice?
+
+No invoice yet.
+
+Then send when available.
+
+Deadline tomorrow.
+
+He stared at the line. The old version of him would have sent the money and asked for the paper later. The current version had learned that every missing document became a weak place in the bridge. Yet Anya existed on the other side of the weak place, older now, less visible, her life reduced to fees, deadlines, and the need for proof after payment.
+
+He sent.
+
+Olesya replied six hours later.
+
+Received.
+
+He typed:
+
+What exam?
+
+The answer came the next morning.
+
+English.
+
+No photograph followed. No joke about his voice. No complaint from Anya that he pronounced things wrongly. Only the subject, then silence.
+
+He moved the entry into the spreadsheet and labelled it Education. The label looked cleaner than the exchange that had produced it.
+
+On the evening the platform failed, Sarah had taken him to a corporate dinner at a hotel in Chanakyapuri.
+
+The building sat behind layers of security, all metal gates and mirrored glass, a cooled island in the heavy dust beyond the road. At the entrance, a guard leaned towards the car and looked under it with a mirror fixed to a pole. Another opened the boot. The driver kept both hands visible on the wheel.
+
+Inside, the lobby smelled of lilies, polish, and chilled air. Marble held the sound of shoes. Women in silk moved through the light with small handbags tucked under their arms, and men from the company stood in loose circles with their lanyards removed but not their office posture. A pianist played something harmless near the bar. The notes reached the table already made thin.
+
+Sarah wore a dark green dress he had not seen before. She had bought it in Delhi and had the waist altered. It sat well on her. Men looked at her, then corrected themselves when they saw him beside her.
+
+'Don't take calls at the table tonight,' she said whilst they waited for the host to notice them.
+
+'I won't.'
+
+'Messages either.'
+
+He put the phone face down.
+
+'It is one dinner.'
+
+'I know.'
+
+She gave him the briefest look. Not accusation. A measurement.
+
+At the table the conversation moved through oil prices, visas, the difficulty of moving equipment through port authorities, the weather in Stavanger, schooling, air purifiers, a minister no one trusted, and which airline had become unusable. Sarah sat between the regional finance director and a woman from procurement who had once lived in Muscat. Thomas cut his food into even pieces and listened for the few words that mattered to him.
+
+Audit.
+
+Compliance.
+
+Threshold.
+
+Review.
+
+The finance director spoke about a contractor in Chennai who had tried to route payments through three shell vendors and had been caught when a junior clerk matched two phone numbers. Everyone at the table laughed with the looseness of people who had not been the clerk.
+
+Thomas lifted his glass and drank water.
+
+His phone vibrated against the tablecloth.
+
+Once.
+
+Then again.
+
+Sarah's hand was beside her plate. Her wedding ring caught the candlelight when she reached for her glass. She did not look down.
+
+He waited.
+
+The phone vibrated a third time.
+
+'Excuse me,' he said.
+
+Sarah did not turn her head.
+
+In the corridor near the toilets, the hotel cooled the air so hard that the back of his neck tightened. He stood beside a brass planter holding a palm with polished leaves and turned the phone over.
+
+The first message was from the European platform.
+
+Account suspended pending beneficiary verification.
+
+The second:
+
+Action required: recipient identity documents.
+
+The third:
+
+Your scheduled payment has not been processed.
+
+He opened the email.
+
+Dear Customer,
+
+As part of our ongoing review obligations, we require additional information from your recipient before further payouts can be completed. Please upload a clear photograph of the recipient's passport or national identity document, proof of residential address, and a live verification image through the secure link below.
+
+Failure to complete this request within seven calendar days may result in permanent closure of your account.
+
+The hotel corridor had no windows. Mirrors repeated the light back at him. Behind the toilet door, water ran into a basin, stopped, ran again.
+
+He read the line a second time.
+
+Recipient's passport.
+
+Proof of residential address.
+
+Live verification image.
+
+Olesya had once refused to send a photograph of her building entrance after a debt collector used it to prove she was still living there. She had covered her bank card number with her thumb in the old picture. She had removed her face from the app. She lived in a country where documents could be used by people who had no right to them and still win.
+
+He could not ask her for a live verification image.
+
+He opened the platform dashboard. The monthly payment sat in red.
+
+On hold.
+
+Beside it, a button waited.
+
+Request recipient documents.
+
+He locked the phone and pressed it against his thigh.
+
+At the table, a waiter had cleared his starter and replaced it with fish under a pale sauce. Sarah looked at him once when he sat down. He gave the small head movement that meant later. She picked up her fork.
+
+The finance director was still talking.
+
+'The thing about informal routes,' the man said, 'is that sooner or later they behave like informal routes.'
+
+Thomas looked down at the fish. A caper sat in the sauce like a small green eye.
+
+He stayed until dessert.
+
+In the car home, Sarah sat beside him rather than in front. The driver kept the partition open. Delhi moved past in sodium light and honking layers, scooters coming close enough to show the pale dust on a passenger's trousers, roadside fires burning in metal drums, a boy asleep under a tarpaulin beside stacked crates of oranges.
+
+Sarah looked out of the window.
+
+'Was that Baku?'
+
+'Payment platform.'
+
+'Same thing now, isn't it?'
+
+He did not answer.
+
+The driver changed lanes, braked, then found a space between two buses. A horn stayed under his hand for a long time. Thomas watched the driver's eyes in the mirror, fixed and flat, giving away nothing.
+
+'Is it blocked again?' Sarah asked.
+
+'Suspended.'
+
+'Can you clear it?'
+
+'They want her documents.'
+
+Sarah turned then.
+
+'Will she send them?'
+
+'No.'
+
+'Have you asked?'
+
+'No.'
+
+Sarah's face passed in and out of streetlight.
+
+'Then you know.'
+
+He looked at his phone.
+
+'I know enough.'
+
+They drove the rest of the way without speaking. At the compound gate, the guard came out with his clipboard. The driver lowered the window. A mosquito entered the car and moved in the glow from the dashboard, its legs fine as threads.
+
+In the flat, Sarah took off her earrings at the hall table and placed them in a small ceramic dish. One earring missed the dish and struck the wood. She picked it up, set it with the other, then went into the bedroom.
+
+Thomas stayed in the living area.
+
+He opened the platform again. The same red hold. The same request.
+
+He wrote to support.
+
+Recipient cannot provide live verification. Alternative documentation available?
+
+The answer arrived after sixteen minutes.
+
+No.
+
+He typed:
+
+Can payments be released against sender identity only?
+
+No.
+
+The agent added:
+
+This process protects your recipient.
+
+Thomas looked at that sentence for a long time.
+
+Then he opened the secure app.
+
+The last message from Olesya was three days old.
+
+Received.
+
+He typed:
+
+Payment platform blocked. They require your passport and address proof. I am looking for another route.
+
+The message delivered.
+
+Olesya was awake.
+
+No passport.
+
+I know.
+
+No face scan.
+
+I know.
+
+Why they need this?
+
+Compliance.
+
+What means?
+
+Rules.
+
+Her next answer came as separate lines.
+
+Always rules.
+
+Always my papers.
+
+Always asking.
+
+He watched the three lines stack on the screen. They were not dramatic. That made them harder to move past.
+
+I will not send.
+
+I know.
+
+Then what?
+
+I will find another way.
+
+She did not answer.
+
+He sat at the dining table until after midnight and searched.
+
+Crypto to cash Azerbaijan.
+
+Baku cash pickup digital asset.
+
+USDT Baku broker.
+
+Azerbaijan cash out verified.
+
+The words left a film on the room.
+
+The results came through forums, Telegram groups, payment pages without addresses, brokerage sites with English written in an over-clean register, YouTube comments, warnings, screenshots of payment proofs, men with profile photographs taken in cars. He opened a spreadsheet and began sorting names, fees, minimums, currencies, payout methods, and risk.
+
+The European platform had worn a proper shirt. This route came bare-armed, smoking in a doorway.
+
+At 01:40 he found a broker with a website, a company registration number in Georgia, and three years of forum references. The contact number led to a Telegram profile named Murad Cash. The profile picture showed the Maiden Tower at sunset.
+
+Thomas wrote:
+
+Need cash or bank payout in Baku. Regular amount. Recipient female. No document upload.
+
+Murad replied after four minutes.
+
+Amount?
+
+Thomas gave the figure.
+
+Crypto?
+
+I can buy.
+
+USDT only. Fee 18 cash, 12 bank.
+
+Too high.
+
+Then bank.
+
+Recipient bank?
+
+Yes.
+
+May ask source.
+
+Cash safer.
+
+Thomas rubbed at the ridge between his eyebrows until the skin warmed beneath his fingers.
+
+How cash delivered?
+
+She meet my man. Public place.
+
+Where?
+
+Metro. Mall. Her choice.
+
+No.
+
+Then bank.
+
+Thomas closed the chat, opened it again, and read the fee line.
+
+Twelve percent.
+
+The European platform had already been theft with manners. This had no manners left.
+
+He opened a crypto exchange account he had used once in Norway when a colleague had insisted everyone should understand digital assets before dismissing them. The account still existed. It wanted identity confirmation, then a card, then another code. He gave it everything. The Delhi flat filled with the small sounds of verification: phone vibration, email chime, webcam click, the low fan in the laptop, Sarah turning in the other room.
+
+By two thirty he owned a balance in USDT.
+
+It looked like money.
+
+It did not feel like money.
+
+It sat in a wallet address, a string of letters and numbers copied to the clipboard. One wrong character would send it elsewhere. One fraud would take it whole. No bank officer would mark the case urgent. No support line would apologise.
+
+He wrote to Olesya.
+
+I have a route. Cash pickup in Baku possible. Public place.
+
+Her reply arrived in the morning.
+
+I will not meet a man for cash.
+
+It is a known broker.
+
+Known to who?
+
+I checked references.
+
+References from internet?
+
+He stared at the question.
+
+The cleaner came at ten and found him still at the table.
+
+She had a key issued by the relocation agent. She entered after ringing twice. A narrow woman in a blue tunic, hair pinned tightly, carrying a plastic caddy with cloths and sprays arranged by colour. Thomas shut the laptop when she came in.
+
+'Madam out?' she asked.
+
+'Yes.'
+
+'Sir want cleaning now?'
+
+'Yes. Bedroom later.'
+
+She nodded and began with the kitchen. The smell of lemon cleaner entered the room. She moved his empty water bottles into the recycling bag, wiped the counter where Sarah had left tea stains, lifted the toaster to clean beneath it. Her bangles made a soft glass sound each time she reached forward.
+
+Thomas took the laptop to the balcony.
+
+Outside, the compound trees held dusty leaves without movement. The guard at the gate stood with his shirt darkened under the arms. A delivery rider argued with security over a paper bag marked with a restaurant logo. Two children from the opposite block waited for a school car, their bags too large for their backs.
+
+Olesya wrote again.
+
+If someone sees me?
+
+Use mall.
+
+You think mall makes it clean?
+
+He typed, deleted, typed again.
+
+Bank deposit then.
+
+Will they ask?
+
+Possibly.
+
+Then same.
+
+It may pass.
+
+May.
+
+He did not answer that.
+
+Inside, the cleaner had reached the dining table. She lifted Sarah's ceramic dish, wiped the wood beneath it, replaced it half an inch from where it had been. She saw the notepad with exchange calculations and turned it face down before wiping under it.
+
+Thomas watched through the glass.
+
+The household continued. The hidden thing had to move around it, under it, between its timed services and polished surfaces.
+
+At noon, Sarah called from the car.
+
+'I forgot my blue folder on the hall table. Can you photograph the invitation inside?'
+
+'Now?'
+
+'Please. The driver's taken the wrong turn and Meera wants the address.'
+
+He went to the hall table. The blue folder lay beneath a scarf, beside the ceramic dish and a receipt from the tailor. He opened it. Invitations, menus, a note from the high commission, a printed map to a residence in Golf Links. He photographed the invitation and sent it.
+
+Sarah replied with a thumbs-up.
+
+He stood with the folder still open, looking at the thick card, the embossed address, the certainty of arrival. People in Sarah's Delhi printed directions to homes where guards expected them. Olesya was being asked to meet a stranger in a mall for cash.
+
+He put the folder back.
+
+At 12:34 he wrote to Murad.
+
+Bank payout. Test amount first.
+
+Murad sent a wallet address.
+
+TRC20 only.
+
+Thomas checked the network three times.
+
+He sent a small amount.
+
+The exchange warned him that blockchain transfers were irreversible.
+
+He confirmed.
+
+The transaction showed pending.
+
+Then sent.
+
+Then confirmed.
+
+Murad wrote:
+
+Got it.
+
+Send recipient card.
+
+Thomas sent Olesya's card number, name, and bank.
+
+Murad answered:
+
+One hour.
+
+Thomas watched the clock.
+
+At forty-three minutes, Olesya wrote:
+
+Deposit came.
+
+How much?
+
+She gave the amount.
+
+It was lower than expected.
+
+Thomas checked the exchange rate, the fee, the hidden spread. Between his credit card, the crypto exchange, the network cost, Murad's commission, and the receiving bank's conversion, nearly a quarter had vanished.
+
+He wrote to Murad:
+
+Amount short.
+
+Murad sent a calculation photographed from a notebook. Numbers in blue pen. Commission circled. Exchange at local rate. Bank fee. Handling.
+
+Thomas could not tell whether it was dishonest or merely the price of the tunnel he had chosen.
+
+He sent the remaining amount in three pieces.
+
+The second transfer took two hours.
+
+The third stalled at the exchange for manual review.
+
+The fourth reached Murad, then disappeared into a payout queue.
+
+Olesya sent:
+
+Only first came.
+
+More processing.
+
+Need today.
+
+I know.
+
+Do you?
+
+He placed the phone face down and kept his hand over it.
+
+At three, a call from the office came in. A pressure anomaly on a pump package due for shipment. The supplier had substituted a valve model. The Delhi procurement team wanted approval to release it anyway. Thomas opened the technical sheet, read the tolerances, compared the operating envelope, and told them no.
+
+'It will delay shipment,' the project manager said.
+
+'Then delay it.'
+
+'Client is pushing.'
+
+'The valve is wrong.'
+
+'Can we accept with deviation?'
+
+'No.'
+
+He heard his own voice with the old clarity in it. This system still answered. The wrong part could be refused. A line could be held. A thing either met specification or did not.
+
+On the table, his phone lit.
+
+No second.
+
+He muted the office call and wrote:
+
+Checking.
+
+Then unmuted.
+
+'Send the rejection note to me first,' he said.
+
+By evening the second deposit had arrived. The third remained under exchange review. The fourth showed completed on Murad's side and absent on Olesya's.
+
+Murad wrote:
+
+Bank delay.
+
+Thomas wrote:
+
+Proof?
+
+Murad sent a screenshot with Olesya's name and a transaction number.
+
+Olesya wrote:
+
+Nothing.
+
+Sarah came home carrying flowers wrapped in newspaper.
+
+'The driver overcharged for parking,' she said, placing her bag on the hall table. 'Or the market did. I have no idea.'
+
+She stopped when she saw his face.
+
+'Again?'
+
+'The platform failed.'
+
+'And now?'
+
+'Broker.'
+
+Sarah set the flowers down slowly.
+
+'What kind of broker?'
+
+'Cash-out.'
+
+'Thomas.'
+
+'It is a bank deposit route.'
+
+'That is not what I asked.'
+
+He closed the laptop halfway.
+
+Sarah looked at the screen before it shut. She saw enough: a wallet address, a transaction hash, Murad's messages, Olesya's card details.
+
+'Is this legal?'
+
+'It is not illegal to send money.'
+
+'That was not what I asked either.'
+
+The flowers lay between them. The newspaper had dampened where the stems were wrapped. Purple petals leaned out of the paper, already bruising at the edges from the heat.
+
+'What would you have me do?' he said.
+
+Sarah did not answer at once.
+
+She took the flowers to the sink, unwrapped them, and trimmed the stems with kitchen scissors. Water ran into a glass vase the relocation agent had placed in the cupboard. She arranged the flowers badly. She had never cared for that kind of domestic neatness. The stems crossed too high, leaving gaps.
+
+'I would have you know what you are doing,' she said.
+
+'I do know.'
+
+'No. You know the next payment.'
+
+She carried the vase to the table. A drop of water fell on the wood and spread into a dark oval.
+
+'There is more than one kind of debt here.'
+
+He turned the laptop back towards himself.
+
+'I have to finish this.'
+
+'Yes,' she said.
+
+She went to the bedroom and closed the door.
+
+The third transfer cleared at 21:12.
+
+The fourth arrived at 22:05, reduced by another fee Olesya could not identify.
+
+She wrote:
+
+Received.
+
+Thomas waited for another line.
+
+None came.
+
+He typed:
+
+Is Anya home?
+
+No reply.
+
+He typed:
+
+Is the electricity stable?
+
+No reply.
+
+He typed:
+
+I sent enough for the rent as well.
+
+This time she answered.
+
+Received.
+
+The word looked identical to the first. Same spacing. Same capital letter. Same full stop absent from the end. It could have been generated by the app itself.
+
+He scrolled up through their messages.
+
+Years earlier, there had been other things.
+
+The lift stuck again.
+
+Anya says your English sounds like BBC man.
+
+I made soup but too much dill.
+
+You forgot your scarf.
+
+These sat above photographs that no longer loaded, grey squares with broken icons in their centres. The app had kept the words and lost the faces.
+
+He scrolled back down.
+
+Received.
+
+Received.
+
+By the next month, the process had a sequence.
+
+He bought USDT through the exchange, never more than the threshold that had triggered review last time. He sent it to Murad in pieces, copying the wallet address into a blank text file first so he could check the first six and last six characters. Murad confirmed with a thumbs-up or a single word. Thomas sent Olesya the expected payout, less known fees. Olesya waited.
+
+Sometimes bank.
+
+Sometimes cash to card.
+
+Sometimes Murad used another man whose name appeared only as R.
+
+Sometimes the payout split into four amounts that arrived out of order.
+
+Sometimes Olesya wrote nothing until the final piece arrived.
+
+Then:
+
+Received.
+
+The word became useful. That was the worst of it. It closed the loop. It gave him a point to enter in the spreadsheet. It let him archive the screenshots, reconcile the card balance, remove the red mark from the month's support line. It did not ask him to imagine the hand receiving the notification in Baku, the room around it, the person who had stopped saying what the money was for.
+
+He learned to prefer it.
+
+Once, Murad sent proof as a photograph, not a screenshot.
+
+The image showed a receipt on a counter. Olesya's name was printed near the top, the amount below it, a stamp partly over the date. At the edge of the frame, too small to belong to the document, Thomas saw a woman's hand holding the paper flat. The nail on the index finger was torn short. There was a red mark across the knuckle, not deep, not fresh, only the kind of mark that came from a bag handle cutting into skin or a door pulled too hard.
+
+He enlarged the photograph until the pixels broke apart.
+
+The mark remained useless.
+
+He wrote:
+
+Is that your hand?
+
+Olesya answered:
+
+Received.
+
+He wrote:
+
+I asked about your hand.
+
+No answer.
+
+Murad wrote:
+
+Proof sent. Next time include bank name in note.
+
+Thomas saved the receipt in the folder and named it Month_18_Payout_Proof. The file sat beside others in order. Each one made the sequence look reasonable.
+
+The next morning Sarah asked to use his printer login.
+
+'Mine is still linked to Norway,' she said from the bedroom doorway. 'It keeps trying to send everything to the house.'
+
+'Use guest.'
+
+'Guest won't print the embassy form.'
+
+He stood too quickly and crossed to the dining table.
+
+'I'll do it.'
+
+Sarah held out her laptop.
+
+'It is just a form.'
+
+'The printer software is awkward.'
+
+She let him take the laptop. Her face gave nothing away, but she remained beside him whilst he typed the printer address and waited for the queue to load. On his own laptop, the payout folder sat open behind the browser. He closed it with his left hand, then clicked the printer dialogue on hers.
+
+The embassy form printed in the study alcove. Five pages. Official crest. Boxes for passport number, address, purpose of travel, expected duration.
+
+Sarah collected the pages and tapped them against the table to align the corners.
+
+'Everything wants the same things,' she said.
+
+'What?'
+
+'Names. Addresses. Purpose.'
+
+She put the pages into a folder and left the room.
+
+Thomas reopened the payout folder.
+
+Month_18_Payout_Proof.
+
+He renamed it Receipt.
+
+On a humid Thursday, stuck in traffic near Dhaula Kuan, he received one such confirmation whilst the company car sat between a cement mixer and a bus with a cracked rear window.
+
+The air outside had gone the colour of old metal. Rain threatened but did not fall. Motorbikes pushed through gaps no wider than a shoulder. A man selling phone chargers moved between cars with his stock hanging from both arms, white cables swinging like loose tendons. The driver kept the air-conditioning high and a devotional song low on the radio.
+
+Thomas had a call open on his laptop, hotspot tethered to his phone. Men in Norway discussed a schedule slip. Someone in Delhi had forgotten to mute and was eating near the microphone. A slide showed procurement milestones in green, amber, red.
+
+His phone vibrated.
+
+Received.
+
+He looked at the word.
+
+Around him the city inched forward by inches earned through horn and heat. A child tapped once on the window with a packet of tissues held up to the glass. The driver lifted his hand without turning. The child moved to the next car.
+
+On the call, someone said his name.
+
+'Thomas?'
+
+He unmuted.
+
+'Yes.'
+
+'Can you confirm acceptance of the revised delivery sequence?'
+
+He looked at the slide. Green. Amber. Red.
+
+'Send it to me in writing.'
+
+'We need verbal approval now.'
+
+His phone dimmed. He touched the screen to keep it awake.
+
+Received.
+
+'Thomas?'
+
+'No verbal approval,' he said. 'Send it in writing.'
+
+He muted again.
+
+The bus ahead released a cloud of black exhaust that rolled back over the bonnet and disappeared into the car's intake. The driver changed the air setting with two fingers.
+
+Thomas opened the secure app and typed:
+
+Anything else?
+
+The message delivered.
+
+No answer.
+
+He waited.
+
+Traffic moved one car length, then stopped.
+
+The word stayed where she had left it.

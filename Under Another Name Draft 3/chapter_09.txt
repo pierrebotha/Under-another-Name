@@ -1,159 +1,1033 @@
-Chapter 9 (Expanded)
-The city had changed. Or perhaps Thomas had. The lens through which he viewed the world had cracked, distorting the familiar streets of London into a labyrinth of potential threats, a maze where every turn held a mirror reflecting a version of himself he didn't recognize. He walked with his head down, collar turned up against a wind that carried the scent of exhaust, damp wool, and the metallic tang of coming rain. Every passerby was a suspect. A courier for her? A private investigator? Or just an innocent commuter who happened to glance in his direction for a fraction of a second too long? Every parked van was a surveillance unit, its dark windows hiding lenses that tracked his gait, his heartbeat, the tremor in his hands. Every window in the towering blocks of flats was an eye, unblinking, recording his passage through the grey artery of the street.
-He had left the flat in a state of suspended animation, a fugue state where time stretched and snapped like a broken elastic band. The laptop remained in the locked drawer, a black box of treason, humming softly with secrets he couldn't access. The phone was in his pocket, switched off, a dead weight of plastic and glass that felt like a stone in his gut. He felt naked without it, severed from the digital umbilical cord that had fed him information for twenty years, yet terrified to turn it on. If Olesya had root access, as she claimed, powering it up was an invitation. A handshake with the enemy. A signal flare saying I am here, I am scared, I am yours.
-He needed to move. To burn energy. To outrun the feeling of being watched, of being dissected by invisible eyes. But you cannot outrun a signal. You cannot hide from a ghost in the machine. The machine was everywhere. It was in the traffic lights that changed as he approached, in the CCTV cameras that swivelled on their mounts, in the contactless readers on the bus stops that waited for a card he no longer carried.
-He walked for miles. Through Soho, where the neon signs buzzed like angry insects, casting a sickly pink and green glow on the wet pavement. The streets were crowded, but he felt isolated, encased in a bubble of silence while the world roared around him. Couples laughed outside restaurants, the sound sharp and brittle. Tourists took selfies, oblivious to the cameras watching them from above. Thomas didn't look at them. He kept his eyes on the ground, watching the cracks in the pavement, the discarded cigarette ends, the oily puddles reflecting the fractured sky. Don't look up. Don't make eye contact. Eye contact was an invitation. An acknowledgment of presence. And presence was dangerous.
-Through Covent Garden, where street performers mimed silence to crowds that laughed and threw coins. A man trapped in an invisible box. Thomas stopped for a moment, watching the mime. The performer pressed his hands against an unseen barrier, pantomiming panic, desperation. The crowd laughed. They thought it was a act. Thomas knew better. There was no box. The barrier was real. And he was the one inside it. He walked away quickly, before the mime looked at him, before the illusion shattered completely.
-He ended up near the Thames. The river was grey, choppy, sliding under the bridges with an indifferent heaviness. The water looked thick, oily, swallowing the light. He leaned against the railing, gripping the cold metal until his knuckles turned white, the pain grounding him, anchoring him to the physical world. Something dead floated past, a plastic bag or a bird, tumbling in the current, caught in an eddy. It spun round and round, unable to escape. Thomas watched it. He felt a kinship with the debris. Drifting. Trapped. Waiting to sink.
-'You look like you're about to jump.'
-The voice came from his left. Sharp. Human. Breaking the spell. A woman. Middle-aged. Wearing a wax jacket. Walking a dog. A terrier, same as the one in the park weeks ago. Or maybe all terriers looked the same now. Blurred into a single archetype of happiness.
-Thomas blinked. Pulled back from the railing. The sudden movement made him dizzy. 'No,' he said. His voice sounded rusty, unused. 'Just looking.'
-'It's a good view,' she said. Optimistic. Determined to find beauty in the gloom. 'Even on a day like this.'
-'Is it?' Thomas asked. He genuinely didn't know. The view was just data. Grey water. Grey sky. Grey buildings.
-She frowned. Tugged the dog's lead. The dog strained towards Thomas, sniffing the air. 'Come on, Buster.'
-They walked away. The dog looked back at him, head tilted. Judging. Knowing.
-Thomas pushed off the railing. Continued walking. The encounter had shaken him. A real conversation. With a real person. It felt alien. Dangerous. She had seen him. Really seen him. Not as a dot on a map, but as a man on the edge. Would she remember? Would she tell someone? Saw a man by the river. Looked troubled. The chain of information was endless.
-He needed a plan. A real one. Not the spreadsheet nonsense. Not the password changes. Those were games. Child's play. She was playing chess; he was moving pawns at random, knocking them off the board, hoping the game would end.
-Phase Two. Surveillance from the inside.
-If she controlled his devices, then the devices were compromised. Irretrievably. Poisoned. He couldn't fix them. He couldn't clean them. A virus wasn't something you scrubbed off; it was code, embedded in the logic of the machine. He had to destroy them. And he had to start over. Analog. Offline. Invisible.
-But how do you live in 2024 without a digital footprint? You don't. You cease to exist. You become a ghost before you're dead. A non-person. No bank account. No transport. No communication. Just flesh and bone wandering the streets.
-Maybe that was the point. Maybe she wanted him to disappear. To delete himself. To prove her theory that he was nothing without the digital scaffolding.
-He stopped at a newsagent. The bell above the door jingled, a cheerful sound that clashed with the gloom inside. The shop smelled of old paper, sweets, and dust. He walked to the back, to the rack of phones. Prepaid. Disposable. Burners.
-He picked one. Plastic-wrapped. Cheap. Black.
-He took it to the counter.
-'Ten pounds,' the assistant said. A teenager with piercings in his eyebrow and bored, dead eyes. He didn't look at Thomas. Just scanned the barcode.
-'Cash?'
+Chapter 09
+
+Iraq did not begin with heat.
+
+It began with dust.
+
+Dust on the charter steps before Thomas had both feet on the ground. Dust lifting behind the baggage truck. Dust caught in the teeth of the perimeter fence, in the seams of the transport seats, in the damp at the corner of his eye. The airport buildings sat low and beige under a white sky. Men in uniforms moved between barriers with rifles slung across their chests. A convoy coordinator read names from a clipboard and ticked them off with a red pen.
+
+Basra did not receive people. It processed them.
+
+Thomas stood with the other arrivals beside a row of hard cases and watched his name become a tick. The air tasted of diesel and metal. Somewhere beyond the wire, a generator laboured with a thick, irregular cough.
+
+'Ward,' the coordinator said.
+
+'Here.'
+
+'Majnoon compound. Vehicle three.'
+
+Thomas lifted his bag.
+
+'Helmet on before gate.'
+
 'Yes.'
-Thomas handed over a crumpled note.
-'Cheers,' he muttered.
-The assistant dropped the phone into a bag. Thomas didn't take the bag. Just took the phone.
-He walked out. Turned the corner. Found a bin two streets away. Overflowing with coffee cups and newspapers.
-He unwrapped the phone. Slotted in the SIM. Turned it on.
-It beeped. A harsh, electronic sound. Connected to the network.
-A blank screen. No apps. No history. No Olesya. No photos of Marrakesh. No spreadsheets.
-He felt a surge of relief. Pure, chemical relief. This was clean. This was safe. A virgin device. Uncontaminated.
-Then he dialed his old number. The one she knew. The one she owned.
-It rang once. Twice.
-Voicemail kicked in. His own voice. Recorded weeks ago. 'You've reached Thomas. Leave a message.'
-The voice sounded confident. Happy. A stranger.
-He hung up.
-Did she hear the call? Did the old phone ring in the drawer, muffled by wood and silence? Did she see the missed call notification from a burner? Probably. If she had access to the account level, not just the device. If she was inside the network itself.
-He tossed the burner into the bin. Covered it with a coffee cup and a newspaper. Buried it.
-Walked away.
-Paranoia was a hunger. It ate everything. Logic. Reason. Hope. It left only instinct. Run. Hide. Survive.
-He returned to the flat as dusk fell. The building loomed ahead, a silhouette against the bruised sky. The windows were dark squares. His window was dark. Or was it? Did he see a flicker of light? A shadow moving behind the curtain? A reflection of a person watching?
-He stopped at the door. Watched the windows for ten minutes. Fifteen.
-Nothing. Just the reflection of the streetlamp. The sway of a branch. The trick of the light.
-He went inside.
-The flat was exactly as he had left it. The chair still overturned from his panic earlier. The smoke detector shattered on the floor, a white crater of plastic and wire. The pile of unplugged devices on the sofa, a graveyard of technology. The stains on the laminate. Eight of them. A dark constellation mapping his decline.
-He righted the chair. Sat down.
-Didn't turn on the light.
-Sat in the gloom. The shadows lengthened, stretching across the floor, touching his shoes.
-What now?
-He couldn't work. Couldn't communicate. Couldn't bank. He was cut off. A modern man stranded in a pre-digital age, helpless and mute. He had no money. No food. Just the wine in the cupboard.
-He stood up. Went to the kitchen. Opened the cupboard. Took out a bottle of wine. The same one from weeks ago. Half empty. The level had dropped, evaporated perhaps, or maybe he had drunk more than he remembered.
-He uncorked it. The pop was loud in the silence.
-Poured a glass.
-Drank it standing up.
-The wine tasted sour. Oxidized. Gone off. Vinegar and regret.
-He drank it anyway. Needed the blur. The numbness. The chemical embrace that dulled the edges of the fear.
-He walked to the living room. Sat on the sofa. The springs groaned.
-Closed his eyes.
-Thought about her.
-Where was she? Really?
-London? Istanbul? Nowhere?
-Was she sitting in a café, watching his location dot freeze because the phone was off? Was she smiling? Frustrated? Bored? Did she care?
-Or was she here? In the building? In the stairwell? Listening at his door? Breathing the same stale air?
-He opened his eyes. Looked at the door.
-Locked. Chain on.
-But locks were for physical intruders. She was already inside. In the walls. In the wires. In his head. She was the house.
-His phone buzzed.
-He jumped. Spilled wine on his trouser leg. A dark splash. A new stain. Ninth one.
-He stared at the device.
-It was the burner. He had put it in his pocket. Forgotten. He had fished it out of the bin? No. He had bought another one? Or maybe he hadn't thrown it away. Memory was a sieve. Holes everywhere.
-Unknown Number.
-Of course.
-He let it ring.
-It stopped.
-Started again.
-Persistent. Relentless. A heartbeat.
-He picked it up. Answered.
-'Hello?'
-Silence.
-Then, a click.
-'Tom.'
-Her voice. Again. Clear. Close. As if she was whispering in his ear. As if she was under the sofa.
-'How?' he whispered. His voice trembled. 'This is a new number. Disposable. I bought it an hour ago. I buried it.'
-'Numbers are just numbers, Tom. They route calls. I don't need the number. I need you to answer. I need you to pick up. That's the contract.'
-'You're everywhere.'
-'I'm nowhere. I'm just a voice in your ear. You're the one carrying me around. You're the vessel.'
-'What do you want?'
-'To finish the experiment.'
-'There is no experiment. You're just hurting me. You're enjoying this.'
-'Pain is data, Tom. It tells us where the limits are. Where the breaking point is. How much pressure a human mind can take before it snaps. We are learning so much.'
-'I'm broken. Happy?'
-'Not yet. You're still fighting. Still trying to hide. Still buying burners. Still looking over your shoulder. That's resistance. That's life. If you gave up, if you just lay down and died, then I'd stop. But you won't. You want to win.'
-'I'm going to stop. I'm going to disappear. I'll leave. I'll go somewhere remote. No signal. No internet. Just woods and silence.'
-'You can't. You're connected. By biology. By habit. By fear. You check your pockets for a phone that isn't there. You look at windows. You flinch at noises. You're more connected to me now than you ever were when you were texting me goodnight. That connection is forged in fear. It's stronger than love.'
-Thomas gripped the phone. His knuckles white. 'Why? Just tell me why. What did I do?'
-'Because I needed to know if you were real. If any of us are. Or if we're just characters in a story we tell ourselves to sleep at night. And you… you're very real, Tom. You're screaming inside. I can hear it. It's beautiful.'
-'I hate you.'
-'I know. Keep hating. Hate is energy. It's better than nothing. Better than indifference.'
+
+The helmet had been issued in Dubai, along with body armour, emergency card, radio instructions, and a laminated sheet explaining what to do if the convoy stopped unexpectedly. Do not exit the vehicle unless instructed. Keep head below window line. Follow security personnel. Do not improvise.
+
+The final instruction had been printed in bold.
+
+Inside the armoured vehicle, the windows were thick enough to tint the road. Basra passed in interrupted fragments: concrete walls, shopfronts, satellite dishes, a boy pushing a cart of gas cylinders, water pooled in tyre ruts, posters peeling from a blast wall. The driver did not speak. The security man in the front passenger seat watched the road with his rifle resting between his knees.
+
+Thomas held his phone in his hand though there was no signal.
+
+At the compound gate, two barriers lifted and one closed behind them before the next opened. Movement happened in boxes. Gate. Check. Barrier. Mirror under vehicle. Badge. Search. Barrier. Release.
+
+The compound had lawns.
+
+That was the first obscenity of it. Green strips under sprinklers. White modular buildings. Gravel paths. A dining hall with tinted windows. A gym. A clinic. A noticeboard advertising quiz night, yoga, convoy timings, and a warning about scorpions in boots.
+
+His room was narrow and clean. Bed, desk, wardrobe, metal chair, small refrigerator, air conditioner already rattling at the wall. A laminated evacuation map was pinned beside the door. The window did not open.
+
+He unpacked in the order the room allowed.
+
+Boots under the bed. Field shirts on hangers. Laptop on desk. Passport in the metal lockbox. Blue folder in the top drawer.
+
+He put it there, then took it out again.
+
+There was no reason to keep Olesya's folder in Iraq.
+
+That was why it stayed.
+
+The first week ran on induction.
+
+Security briefing. Site orientation. Permit system. Radio protocol. Emergency muster. Hydration requirement. Heat injury prevention. Access badge. Vehicle schedule. Rig familiarisation. The language of the place was restriction softened into procedure.
+
+He learned the daily pattern. Breakfast before six. Convoy at six thirty. Operations office by seven. Field checks before the heat rose. Lunch in the dining hall under cold air and fluorescent lights. Calls with London in the late afternoon. Reports after dinner. Sleep in short pieces beneath the air conditioner.
+
+At night, the compound hummed.
+
+Generators. Water pumps. Air-conditioning units. Distant engines beyond the wall. Men laughing outside the smoking shelter. Doors opening and closing along the corridor with the same tired click.
+
+Sarah called on the fourth night from London.
+
+'You look boiled,' she said.
+
+'I am indoors.'
+
+'Then Iraq has found a way in.'
+
+He had propped the laptop on two technical manuals to improve the camera angle. Behind Sarah, their Fulham kitchen was bright and narrow, the kettle steaming behind her shoulder. She had her hair tied up and a notebook open beside the laptop.
+
+'How is the compound?'
+
+'Secure.'
+
+'That is not a description.'
+
+'It has lawns.'
+
+'Lawns?'
+
+'Yes.'
+
+'That is sinister.'
+
+'Very.'
+
+She wrote something in her notebook. 'Company housing sent me the arrival options. If I come after Lisbon, I can route through Dubai and land on the Tuesday convoy. They want my passport scan again.'
+
+'They already have it.'
+
+'Everyone always has it and no one can find it.'
+
+She held the passport up to the camera, then put it beside her notebook.
+
+'I will send the scan tonight.'
+
+'Are you sure you want to come?'
+
+'Want is a strong word. I want a great many things. Some of them involve a bath and a door that locks. But if you are there six months, I can work from there for a while.'
+
+'It is restricted.'
+
+'So is everywhere. Some places are just honest about it.'
+
+Thomas looked at the window that did not open.
+
+'Send the dates when confirmed,' he said.
+
+'I will. And you send proof that you are eating something green.'
+
+'There are lawns.'
+
+'Do not eat the lawns.'
+
+Her smile broke up slightly as the connection stuttered.
+
+After the call, he opened the spreadsheet.
+
+Restriction.
+
+Debt.
+
+Unknowns.
+
+Transfers.
+
+The last row still held February. Rent two months. School balance. Same-day. Receipts received.
+
+Olesya had not asked again. She sent small practical updates, each one pared down before it reached him.
+
+Anya back at school full week.
+
+Clinic says inhaler morning and night.
+
+New work possible. Cash weekly.
+
+The job was at a stationery wholesaler near the bus depot. She packed boxes, checked delivery slips, and reconciled handwritten stock lists at a counter with no chair. It paid every Friday in cash. No contract. No insurance. No sick pay. No questions.
+
+Thomas read the message twice.
+
+He typed:
+
+Do they give receipts?
+
+Olesya replied:
+
+For boxes?
+
+He deleted his next question.
+
+For two months, the system held at the edges.
+
+He sent small amounts when a defined need appeared. Inhaler refill. School workbook. Winter electricity balance. Shoes after Anya's pair split at the sole. Each transfer had a note in the spreadsheet, each receipt arrived flattened on Olesya's table with the same care as before.
+
+It should have been smaller than the first wire.
+
+It did not.
+
+Repetition made the line stronger.
+
+In May, the compound clinic issued him a laminated card for heat stress.
+
+He was meant to carry it in his shirt pocket during field visits. The front listed symptoms in block capitals. Dizziness. Confusion. Weakness. Collapse. The back gave actions. Move to shade. Remove excess clothing. Cool skin. Seek medical assessment.
+
+He kept it beside his access badge and forgot it twice.
+
+The clinic nurse stopped him at the dining hall door on the third morning.
+
+'Card,' she said.
+
+Thomas touched his empty pocket.
+
+'Desk.'
+
+'Your body is not on your desk.'
+
+'Noted.'
+
+'Noted does not lower core temperature.'
+
+She handed him a spare card with the briskness of someone who had seen clever men become burdens.
+
+That night, Olesya sent a photograph of Anya's inhaler box.
+
+The dosage label had been torn at one corner. Beside it lay a pharmacy receipt and a strip of tablets Thomas could not read.
+
+Doctor changed medicine.
+
+He enlarged the label until the letters blurred.
+
+Why?
+
+Chest tight after school.
+
+Clinic?
+
+Yes.
+
+He waited for the next line.
+
+Cost more.
+
+There it was. Not a request. A fact placed where a request would have been if she trusted need to arrive cleanly.
+
+Send receipt, he typed.
+
+Already did.
+
+He looked again. The amount was on the pharmacy slip, bottom right, half hidden by the inhaler box. He entered it in the spreadsheet under medical. Then he sent the sum, plus enough for the next refill. The platform fee appeared, neat and shameless.
+
+Olesya wrote:
+
+Too much.
+
+He answered:
+
+Next refill.
+
+For a long time there was no reply.
+
+Then:
+
+She has sports day next week. She cannot run.
+
+Thomas looked at the heat-stress card beside his keyboard. Dizziness. Confusion. Weakness. Collapse. A body reduced to symptoms and action steps.
+
+Ask doctor for note.
+
+School wants official.
+
+Then get official.
+
+They charge for official.
+
+He sent more.
+
+The reply arrived after midnight.
+
+Receipt tomorrow.
+
+No thanks. No protest. A procedure accepted under pressure.
+
+In the morning, Sarah emailed from London with her Iraq travel packet.
+
+Subject: If I am going to live behind walls, I want decent coffee.
+
+Attached were passport scan, vaccination record, work schedule, client call windows, and a list of things she intended to bring if the company housing allowed them: French press, running shoes, small speaker, two linen shirts, one black dress for whatever counted as formal inside a compound, and a framed photograph from the hall. Even modular prisons deserve evidence of prior civilisation, she wrote.
+
+Thomas opened the files before breakfast.
+
+Everything had a name. Sarah_Ward_Passport.pdf. Sarah_Ward_Vaccinations.pdf. Client_Calls_April_May.xlsx. Her documents behaved when summoned. They came clean, labelled, legible, complete.
+
+Olesya's receipts arrived as photographs taken under kitchen light.
+
+Rent paper beside a cup.
+
+Clinic slip beside Anya's workbook.
+
+Pharmacy bill held under Olesya's thumb.
+
+Doctor note with a corner folded where it had been carried in a bag.
+
+Thomas saved them in a folder called Baku medical, then changed it to Baku support, then changed it again to O admin.
+
+The third name stayed.
+
+On the first Friday of May, Olesya's new job paid her late.
+
+She did not say this directly.
+
+She sent a photograph of the bus card balance. Then:
+
+Can walk Monday if not too hot.
+
+He was in the field office when he read it. Outside, a mechanic was washing dust from a valve skid with a hose that turned the ground to paste. The thermometer near the door read forty-one.
+
+Do not walk.
+
+No reply.
+
+He sent a small sum marked transport.
+
+She replied:
+
+This is foolish.
+
+He wrote:
+
+Heat is foolish.
+
+Three dots appeared.
+
+Then:
+
+I will tell Anya you said this.
+
+He left the message unanswered. It had a warmth he did not know where to put.
+
+The bus receipt came the next day. Two trips. One for Olesya. One for Anya. The balance remaining was visible on the slip.
+
+He entered it.
+
+Transport.
+
+By then the spreadsheet had changed character.
+
+It was no longer a record of exceptions. It had begun to resemble a service log. Date. Category. Amount. Fee. Receipt. Notes. Rent. School. Medicine. Transport. Clinic. Refill. Official letter. Each line closed when paper arrived.
+
+At work, he trusted closed lines.
+
+A valve opened or it did not. A pressure test passed or failed. A cargo cleared or remained held. Men could argue, but the system recorded state.
+
+Olesya's life began to present itself to him in the same grammar.
+
+Need.
+
+Transfer.
+
+Receipt.
+
+State changed.
+
+The danger was not hidden. It was there in every clean row.
+
+He liked rows that closed.
+
+One evening, after a long call about corrosion allowance, Rauf messaged him from Baku.
+
+I hear you are enjoying Iraq.
+
+Thomas replied:
+
+Enjoying is not the word.
+
+Rauf:
+
+Good. Then you understand it.
+
+Thomas watched the message for a while, then typed:
+
+How is the office?
+
+Rauf answered after several minutes.
+
+Less tidy. Your replacement prints emails.
+
+Then:
+
+Olesya left?
+
+Thomas sat back.
+
+Left what?
+
+The dots appeared, vanished, appeared again.
+
+Office. She is not with us now.
+
+He read it twice.
+
+When?
+
+End of March. Temporary contract ended. You did not know?
+
+Thomas looked at the spreadsheet. Inhaler. School note. Transport. The entries after March had no salary beside them, no office structure beneath them, no Rauf within reach.
+
+No, he wrote.
+
+Rauf replied:
+
+Ah.
+
+Then nothing.
+
+The compound air conditioner rattled above him. Down the corridor, someone laughed at a film playing too loudly.
+
+Thomas opened Olesya's thread.
+
+Are you working today?
+
+The answer came the next morning.
+
+Yes.
+
+Where?
+
+Packing boxes.
+
+Contract?
+
+Cash.
+
+He typed:
+
+Why did you not tell me about the office?
+
+The reply did not come until evening.
+
+It ended.
+
+He waited.
+
+Then:
+
+I found other work.
+
+There was no apology in it. No invitation to ask what had happened in the gap. She had removed the missing month from the conversation as neatly as she removed an old receipt from a file.
+
+Thomas opened the spreadsheet and added a new column.
+
+Employment.
+
+For every line after March he entered:
+
+Cash.
+
+The word looked insufficient.
+
+By April, Thomas could read the shape of Olesya's messages before opening them. Thomas meant the matter had already passed the point where she could contain it. A receipt first meant closure by her own hand. Anya without a receipt meant something waiting.
+
+On a Sunday evening, she wrote:
+
+Anya's breathing not good.
+
+Thomas was in the operations office with the night-shift superintendent, reviewing a stuck valve on a water injection line. Outside, the dust had risen during sunset and left a film on the windows. The office smelled of printer heat, old coffee, and the faint sourness of sweat trapped in work shirts.
+
+He stepped into the corridor before replying.
+
+Clinic?
+
+No answer for six minutes.
+
+Then:
+
+Tomorrow.
+
+He typed:
+
+Today.
+
+The dots appeared, vanished, appeared again.
+
+It is Sunday.
+
+Private clinic emergency.
+
+Too expensive.
+
+He wrote:
+
+Go. I will send.
+
+The reply came fast.
+
+No.
+
+Then:
+
+If needed tomorrow.
+
+He looked through the corridor glass at the superintendent leaning over the valve report, red pen in hand. A problem waiting for a decision.
+
+Thomas typed:
+
+It is needed today.
+
+He sent an amount before she answered.
+
+The payment platform showed the fee, the exchange rate, the recipient name. He pressed confirm. The screen turned white, then returned with a reference number.
+
+He sent the screenshot.
+
+Clinic today.
+
+Olesya did not reply for twenty minutes.
+
+When she did, the message was only:
+
+We are going.
+
+The next morning, he woke before five to a dust storm.
+
+The world outside the sealed window had disappeared. The compound lights glowed in a brown fog. Fine grit hissed against the building. In the corridor, doors opened and closed as men checked convoy status on their phones.
+
+By six, all movement was suspended.
+
+The announcement came over the radio network and then through email. No road travel until visibility improved. Site teams to remain in accommodation blocks. Essential operations only by internal shuttle.
+
+Thomas dressed anyway.
+
+In the dining hall, the air-conditioning fought dust that came in on boots and shoulders. Men sat over eggs and tea, looking at the windows. Someone joked about being trapped in a snow globe built by a refinery.
+
+Thomas's phone rang at six forty-two.
+
+Olesya.
+
+He answered before the second vibration.
+
+'Tell me.'
+
+Her breath was in the phone first. Not crying. Not words. Air failing to become either.
+
+'Anya is worse.'
+
 'Where are you?'
-'Close.'
-'Are you coming?'
-'Maybe.'
-'When?'
-'Soon.'
-The line went dead.
-Thomas lowered the phone.
-Soon.
-The word hung in the air. A promise. A threat. A verdict.
-He looked around the flat.
-Shadows lengthened in the corners. The silence deepened, pressing against his eardrums.
-She was coming.
-Or she wasn't.
-It didn't matter. The anticipation was the torture. The waiting was the punishment. The uncertainty was the cage.
-He finished the wine. Poured another glass.
-Drank it.
-Lay down on the sofa.
-Closed his eyes.
-Waited.
-Sleep came eventually. Fitful. Dream-filled.
-He dreamt of doors. Thousands of them. Lining an endless corridor. White doors. Black doors. Wooden doors. Steel doors. He tried each handle. Locked. Locked. Locked.
-At the end of the corridor, one door was open. Light spilling out. Golden. Warm.
-He walked towards it. His feet heavy.
-Inside, a room. Empty. Except for a chair. And a phone. Ringing.
-He woke up gasping.
-Pitch black.
-Silence.
-He fumbled for the burner.
-No calls. No messages.
-Just the time. Ticking forward. Indifferent.
+
+'State hospital.'
+
+'Why state?'
+
+'The private clinic sent us. They said attack too strong. Need hospital.'
+
+The dining hall noise thinned around him.
+
+'Is she admitted?'
+
+'They put her in corridor. No beds.'
+
+Something clattered behind her. Wheels. Metal. A voice shouting numbers.
+
+'Can she breathe?'
+
+'They gave oxygen. It stops, then starts. Thomas, they say wait.'
+
+He stood. The chair legs scraped the floor.
+
+'Go back to the private clinic.'
+
+'They sent us away.'
+
+'Call them. Tell them I will pay for a room and respiratory doctor.'
+
+'They will not take her if hospital started.'
+
+'Then ask what deposit changes that.'
+
+She said something away from the phone. Russian, then Azeri, then Russian again. The languages crossed each other in the receiver.
+
+Thomas walked out of the dining hall and into the corridor. Dust had gathered along the bottom of the door in a thin brown line.
+
+'Olesya.'
+
+'They say maybe private hospital, not clinic.'
+
+'Name.'
+
+'Caspian Medical.'
+
+'Send address. Send billing contact. Send whatever they give you.'
+
+'I do not have paper.'
+
+'Then photograph the wall.'
+
+The line stayed open. He heard footsteps, a cough, the squeak of wheels, Anya's name once, spoken away from the phone.
+
+Then the call ended.
+
+Thomas stood in the corridor with the phone in his hand.
+
+At seven ten, Olesya sent three photographs.
+
+A hospital corridor with green walls and metal chairs.
+
+A signboard listing departments in Azeri, Russian, English.
+
+A handwritten number on the back of an old receipt.
+
+Below them:
+
+They say deposit first.
+
+He opened the payment platform. The amount she sent was not large by corporate standards. It was large in the way a door is large when it will not open.
+
+The platform rejected the transfer.
+
+Daily limit.
+
+He stared at the message. Then tried a lower amount.
+
+Rejected. Limit reached by previous transfer.
+
+He opened his bank. International transfer. New recipient: Caspian Medical Services. Country: Azerbaijan. Purpose: medical.
+
+The form asked for invoice number.
+
+He had none.
+
+He typed Anya Petrova deposit.
+
+The form asked for patient relationship.
+
+He sat still for one second too long.
+
+Other.
+
+The bank asked for supporting documentation.
+
+He uploaded the photograph of the signboard, then the handwritten number, then the corridor.
+
+The submit button stayed grey.
+
+Required document missing.
+
+He went to the operations office.
+
+The compound outside had become a moving wall of dust. Men crossed between buildings with scarves over their mouths. The office generator had kicked into a higher pitch. Inside, only half the desks were occupied. The night superintendent looked up from a radio log.
+
+'Roads are shut,' he said.
+
+'I need the satellite line.'
+
+'For work?'
+
+'Medical.'
+
+The man looked at him for one beat, then pointed to the small side office. 'Dial nine first.'
+
+Thomas closed the door.
+
+He called the number from the receipt.
+
+The first time, no one answered.
+
+The second time, a woman answered in Russian.
+
+'English,' Thomas said. 'Please. English.'
+
+The phone moved. Voices. A hand over the receiver. Then a man came on.
+
+'Caspian Medical.'
+
+'My name is Thomas Ward. I am calling about Anya Petrova. She is being transferred from the state hospital. I need to pay the deposit.'
+
+'Family?'
+
+'I am responsible for payment.'
+
+'Family?'
+
+The question returned with the same weight.
+
+'No.'
+
+'Then we need family.'
+
+'Her mother is there.'
+
+'Mother signs. Payment before admission.'
+
+'Send invoice.'
+
+'We cannot make invoice before admission.'
+
+'You cannot admit before payment.'
+
+'Correct.'
+
+Thomas pressed his free hand flat against the desk. Its surface was gritty.
+
+'Then give me bank details.'
+
+The man gave them slowly. Thomas wrote each line in block letters. Bank name. Account number. Tax number. Reference.
+
+'How fast can you see payment?'
+
+'When it arrives.'
+
+'I can send confirmation.'
+
+'Confirmation is not funds.'
+
+The same sentence as the landlord, dressed in another voice.
+
+'If I send confirmation, will you move her from the corridor?'
+
+The man covered the receiver again. Thomas heard the room on the other side, phones and voices and one long electronic beep.
+
+'Send confirmation to WhatsApp,' the man said. 'Doctor will decide.'
+
+Thomas took the number.
+
+He could not make the bank form accept the hospital without an invoice, so he used the payment platform in pieces. Three transfers. Different references. Medical deposit. Treatment. Oxygen. Each fee cut into the amount. Each confirmation arrived as its own PDF.
+
+He sent all three to the WhatsApp number.
+
+Then to Olesya.
+
+Then he called the hospital again.
+
+'Received confirmation,' the man said.
+
+'Move her.'
+
+'Doctor will decide.'
+
+'Get the doctor.'
+
+'Sir.'
+
+'Get the doctor.'
+
+The man's voice cooled. 'This is not England.'
+
+'No,' Thomas said. 'It is a hospital.'
+
+The line went quiet.
+
+When the man came back, he said, 'Mother is signing.'
+
+Thomas put the phone down carefully.
+
+His hands had left damp marks in the dust on the desk.
+
+For the next two hours, nothing worked except waiting.
+
+The dust storm held the compound closed. The operations team argued over pressure readings from a field they could not reach. The satellite internet flickered. Sarah sent a message from London.
+
+Housing confirmed Tuesday convoy if I come next month. Need your compound address exactly.
+
+Thomas copied the address from his induction pack and sent it.
+
+Sarah replied:
+
+That sounds like a prison pretending to be a hotel.
+
+He wrote:
+
+Accurate.
+
+Then the site manager came in looking for him.
+
+'Valve meeting. Five minutes.'
+
+'I need ten.'
+
+'The well does not.'
+
+Thomas looked at his phone. No message from Olesya. No change on the payment platform. No second call from the hospital.
+
+He followed the site manager to the conference room.
+
+The video link to the field team was poor. Dust turned every face into a brown smear. Men spoke over one another from three locations. The stuck valve had become a production issue, then a scheduling issue, then a cost issue. Someone in Dubai wanted a decision about whether to defer the line until visibility improved. Someone at the field wanted permission to send a mechanic before the dust settled.
+
+Thomas listened with his phone face down beside his notebook.
+
+'We wait,' he said.
+
+The Dubai manager frowned through the screen. 'That costs us twelve hours.'
+
+'Sending a mechanic blind costs us more.'
+
+'We have pressure margins.'
+
+'We also have people.'
+
+The room quietened for one beat.
+
+The site manager looked at him. 'So we hold?'
+
+'We hold until visibility is back above threshold. Then we inspect before restarting.'
+
+The decision moved into the minutes. Action assigned. Time stamped. Accepted.
+
+His phone vibrated.
+
+He did not touch it until the meeting ended.
+
+Olesya had sent:
+
+They ask previous medicine.
+
+Then a photograph of the inhaler box from the flat, taken at an angle in poor light. The label was visible. The dosage was not.
+
+He went back to his office and searched the O admin folder. Pharmacy receipt. Clinic note. Doctor note for school. Inhaler refill. Each photograph had been saved for accounting and now became medical history.
+
+He sent four images.
+
+Show doctor.
+
+She replied:
+
+He wants name.
+
+Thomas zoomed in until the prescription line became legible.
+
+Budesonide. Salbutamol.
+
+He typed both words slowly.
+
+Then:
+
+Tell him refill every month. Worse with dust and running.
+
+She did not answer.
+
+He looked out at the compound. Dust had sealed itself to the glass. Men moved outside as pale shapes. The lawn sprinklers had stopped.
+
+At ten thirty, the hospital number called.
+
+'Mr Thomas?'
+
+'Yes.'
+
+'Doctor wants to know if child has allergy.'
+
+'Ask her mother.'
+
+'Mother says no. We ask payer for file.'
+
+Payer.
+
+The word entered the room without knocking.
+
+'I do not have a full file.'
+
+'You sent medicines.'
+
+'Those are all I have.'
+
+'Okay.'
+
+'How is she?'
+
+'Doctor reviewing.'
+
+'Is she breathing better?'
+
+The line carried a pause, a hand covering the receiver, a question passed to someone else.
+
+'Oxygen continues.'
+
+'That is not an answer.'
+
+'It is answer now.'
+
+The line ended.
+
+Thomas wrote oxygen continues in the notebook under the valve decision. Then he drew a line through it. Then he wrote it again on a clean page.
+
+At eleven, Olesya sent a photograph of her hand holding a consent form. Only the lower part was visible. Her signature sat near the bottom in a script he had seen on courier books, salary forms, receipts, school slips. A same hand, moved through too many kinds of permission.
+
+He typed:
+
+What did you sign?
+
+Treatment.
+
+Which treatment?
+
+Nebuliser. Observation. Maybe injection.
+
+Ask name.
+
+I asked.
+
+And?
+
+She sent a photograph of a doctor's handwriting. Thomas could read none of it.
+
+He forwarded it to the compound clinic nurse.
+
+Can you read this?
+
+Her answer came five minutes later.
+
+Steroid. Bronchodilator. Standard for asthma. Why?
+
+He wrote:
+
+Friend's child.
+
+The nurse replied:
+
+Then tell friend child needs a doctor, not WhatsApp medicine.
+
 He put the phone down.
-Lay back.
-Tomorrow he would leave. Pack a bag. Go somewhere remote. No signal. No internet. Just woods and silence. He would do it. He had to.
-But tonight, he just lay there.
-In the dark.
-Listening to the silence.
-Wondering if she was outside the door. Hand on the handle. Waiting for him to sleep. Waiting for the lock to click.
-Wondering if he was safe. Or if safety was just a myth he had invented to get through the night.
-Just access.
-Under another name.
-The thought drifted through his mind. Unbidden. Unwanted. A refrain from a song he couldn't forget.
-He pushed it away. Tried to think of nothing. Failed.
-Sleep took him again. Deep. Dreamless. A mercy.
-When he woke, the sun was up. Bright. Harsh. Cutting through the curtains, illuminating the dust motes dancing in the air.
-The flat was still empty.
-The phone was silent.
-He got up. Showered. Dressed.
-Made coffee.
-Drank it standing up. The taste bitter.
-Looked at the nine stains on the floor. A galaxy of failure. The broken detector. The pile of electronics.
-Left them.
-Opened the door.
-Stepped out.
-Locked it behind him. The click final.
-Walked down the stairs.
-Into the day. Into the noise. Into the world that didn't care.
-Into the life that was no longer his own.
+
+By then, the conference-room valve decision had already become an email chain. Men copied him on objections, confirmations, modified schedules. The line could wait. It had pressure margins. It had procedures. It had people standing around it with radios and authority.
+
+In Baku, Olesya waited beside a bed that did not yet belong to Anya.
+
+Olesya sent:
+
+They moved her.
+
+Then:
+
+Room.
+
+Then a photograph.
+
+Anya lay in a narrow hospital bed with a white sheet pulled to her chest. A clear mask covered her nose and mouth. Her hair had been tied back, but strands stuck to her forehead. The wall behind her was clean, painted pale blue. A monitor stood beside the bed. On the small table, a bottle of water, a folded jumper, and Olesya's phone charger lay in a line.
+
+Thomas enlarged the photograph.
+
+Anya's eyes were closed.
+
+He looked at the oxygen tube. The clip on her finger. The clean sheet. The space around the bed where no one else waited on a chair.
+
+The system had produced a room.
+
+He saved the photograph, then immediately unsaved it, then saved it again under the hospital folder he had not meant to create.
+
+Olesya wrote:
+
+Doctor says night observation.
+
+He answered:
+
+Send invoice when they give it.
+
+The reply came after several minutes.
+
+Yes.
+
+Then:
+
+She is sleeping.
+
+He looked at the words.
+
+The dust scraped against the window.
+
+At lunch, the dining hall served rice, chicken, cucumber, and oranges cut into quarters. Thomas ate standing near the coffee machine, phone on the counter beside his tray. The superintendent came in, saw his face, and did not make the joke he had been forming.
+
+'Medical sorted?'
+
+'For now.'
+
+'Good.'
+
+The man poured coffee and left.
+
+For now. The only honest time period in the oil fields.
+
+By late afternoon the storm began to thin. The compound emerged in pieces: the fence, the gravel path, the clinic sign, a row of boots left outside the accommodation block. Vehicles remained grounded. Dust lay over the lawns and turned them the colour of old canvas.
+
+Sarah called at five.
+
+'I have ten minutes before a client dinner,' she said. 'Tell me whether I should pack anything civilised for Iraq.'
+
+'Define civilised.'
+
+'Shoes that are not trainers.'
+
+'Bring one pair.'
+
+'One pair. This really is prison.'
+
+'A prison with lawns.'
+
+'The worst kind.'
+
+She laughed. Behind her, he heard restaurant noise, cutlery, English voices, a door opening to traffic.
+
+'You sound tired,' she said.
+
+'Dust storm.'
+
+'Are you inside?'
+
+'Inside the wire.'
+
+'That is not the same answer.'
+
+'It is the answer I have.'
+
+There was a pause.
+
+'I sent the passport scan again,' she said. 'Housing says the Tuesday convoy is possible. I may arrive two days before your next field rotation.'
+
+'Send me the itinerary.'
+
+'Already did.'
+
+An email appeared while she spoke. Sarah Ward travel pack. Dubai to Basra. Convoy Tuesday. Accommodation request attached.
+
+'Got it.'
+
+'Efficient wife.'
+
+'Very.'
+
+She smiled at him through the screen. 'Do not sound so surprised.'
+
+'Never.'
+
+'I have to go. Eat something. You look like the air has been sandpapering you.'
+
+'Good dinner.'
+
+'Unlikely.'
+
+The call ended.
+
+Thomas opened Sarah's itinerary.
+
+Everything was present. Passport scan. Visa approval. Flight details. Company hotel in Dubai. Convoy number. Accommodation block request. Emergency contact. Dietary note, none. Her movement had formed itself into a packet the company could process without hesitation.
+
+He downloaded it and saved it under Sarah Iraq.
+
+Then he opened Olesya's thread.
+
+The invoice arrived at six twelve.
+
+The hospital had itemised the first night. Admission. Oxygen. Nebuliser. Medication. Respiratory consultation. Monitoring. Deposit applied. Balance due before discharge.
+
+At the bottom was a stamp.
+
+Blue.
+
+The balance was higher than the money already sent.
+
+Thomas opened the exchange-rate page.
+
+Manat to pound.
+
+Pound to manat.
+
+Fees.
+
+Same-day limits.
+
+He moved from Sarah's itinerary to the hospital invoice and back again, two documents open side by side on the compound desk. One brought his wife through official channels towards him. The other kept a child breathing in a room he had paid into existence.
+
+Outside, the last of the dust moved against the window in a thin brown veil.
+
+He entered the new amount into the spreadsheet.
+
+Hospital balance.
+
+Then he checked the exchange rate again.

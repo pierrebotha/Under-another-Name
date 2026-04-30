@@ -1,291 +1,961 @@
-Chapter 8
-The spreadsheet had become a living thing. It breathed on the screen, a grid of green and red cells that pulsed in time with Thomas’s heartbeat. He sat before it in the grey dawn light, his eyes gritty from lack of sleep. The laptop fan whirred softly, a mechanical wheeze in the silent flat.
-Row forty-two: Cloud Storage – Compromised.
-Row forty-three: Utility Provider – Secure (Maybe).
-Row forty-four: Online Banking – Secure (Theoretically).
-The qualifiers were the problem. Maybe. Theoretically. They were cracks in the foundation, tiny fissures where the doubt seeped in. He had spent the night adding rows, categorizing every digital touchpoint of his life. There were so many. He hadn’t realized how much of himself existed in the cloud until he tried to lock it all away. Photos, documents, backups, subscriptions. Each one a door. Each one a potential entry point for her.
-He typed: Delete Cloud Storage?
-The cursor blinked.
-Yes. No.
-If he deleted it, he lost everything. Ten years of photos. Scanned copies of his passport. The digitized tax returns. The scan of his mother’s will. Gone. Vaporized.
-But if he kept it, she was in there. Walking through his albums. Looking at pictures of him before he met her. Pictures of them together. Smiling. Happy. Lies captured in high resolution.
-He hovered over the delete key.
-His finger trembled.
-He couldn’t do it. Not yet.
-Instead, he changed the password again. Generated a new sixty-character string of random nonsense. Copied it. Pasted it. Saved it in a physical notebook this time. Pen on paper. Ink on fibre. Unhackable. Or so he hoped.
-He wrote the date next to it. 14th November. 06:42.
-He underlined it twice.
-The pen scratched against the paper, a harsh, dry sound. It felt primal. Analog. Safe.
-He closed the notebook. Hid it inside a hollowed-out book on the shelf. The History of the Decline and Fall of the Roman Empire. Fitting. Everything fell eventually. Empires. Relationships. Minds.
-He stood up. His back cracked, a series of small pops that echoed in the room. He walked to the kitchen. The stains on the floor seemed brighter in the morning light. Seven of them. A dark archipelago in the laminate sea. He navigated them carefully, step-step-hop. A dance of avoidance.
-He filled the kettle. Watched the water rise.
-Click.
-The red light glowed.
-He leaned against the counter, waiting. The silence of the flat pressed against his eardrums. It wasn’t empty silence anymore. It was heavy. Charged. Like the air before a thunderstorm. She was out there. In Istanbul. Or maybe not. Maybe she was closer. Maybe she was in the Wi-Fi signals passing through the walls. Maybe she was in the code of the kettle’s timer.
-Paranoia was a lens. Once you put it on, you couldn’t see anything else. Every object held a secret. Every shadow hid a watcher.
-The kettle clicked off.
-He made coffee. Instant. Black.
-Drank it standing up. Scalded his tongue. Didn’t care.
-The heat in his mouth was real. A sharp, physical sensation that grounded him. For a second, he wasn’t thinking about passwords or photos. He was just feeling the burn.
-Then the moment passed.
-He rinsed the mug. Left it on the draining board. Wet. Dripping. Another mark. Another trace.
-He should dry it.
-He didn’t.
-He went back to the laptop.
-Sat down.
-Opened the email client.
-The inbox was empty. No new messages from Unknown. No photos of Marrakesh. No taunts.
-Just silence.
-That was worse. The silence meant she was waiting. Planning. Watching him wait.
-He refreshed the page.
-Nothing.
-Refreshed again.
-Nothing.
-He stopped. Forced his hands to rest on the desk.
-Stop it, he thought. She’s not watching you refresh your email. She’s not sitting there laughing.
-But he couldn’t be sure. That was the point. Uncertainty was the weapon.
-He needed to work.
-He had taken three days off. Called in sick. Said he had a virus. Technically true. A digital virus. A psychological contagion.
-His manager, Janet, had sounded concerned. Take all the time you need, Tom. Health comes first.
-He wondered if she knew. If Olesya had called the office too. Hi, this is Tom’s partner. He’s going through a rough patch. Just checking he’s okay.
-The thought made his stomach turn.
-He opened the work portal. Logged in.
-The new password worked.
-He stared at the dashboard. Tasks. Projects. Deadlines.
-They looked like words from a foreign language. Q3 Report. Client Meeting. Budget Review.
-Meaningless.
-How could he care about a budget when his entire reality was fracturing?
-He clicked on Q3 Report.
-A spreadsheet opened. Numbers. Cells. Formulas.
-He started typing. Random data. Just to fill the space.
-100. 200. 300.
-It felt like playing house. Pretending to be a person who did things.
-His phone buzzed.
-He jumped. The chair scraped back.
-He stared at the device on the table.
-Unknown Number.
-He let it ring.
-Once. Twice. Three times.
-Four.
-Five.
-It stopped.
+Chapter 08
+
+For three weeks, he did not send money.
+
+The sentence existed nowhere except in Thomas's head. It had no line in the spreadsheet, no entry in the banking app, no message thread that could be shown to anyone. It was not a promise. It was not discipline. It was a space he left open after Olesya wrote, Do not send money for this, and after he answered, I understand, and after she replied, No.
+
+The no had stayed with him longer than the rest.
+
+He kept working.
+
+Basra preparations took the shape of forms. Medical clearance. Security briefing. Equipment manifest. Rotation schedule. Emergency contact. Indemnity. Travel insurance. Each document asked for the name of a wife, the address of a house, the telephone number of someone who would answer if the company called at night.
+
+Sarah's details filled the boxes easily.
+
+Sarah Louise Ward.
+
+Fulham address.
+
+Mobile number.
+
+Passport number.
+
+Relationship: spouse.
+
+The word looked clean on paper. It asked for nothing more than accuracy.
+
+In the evenings, Sarah came and went through London with the speed of a person whose life had many doors and no single threshold. Geneva became Lisbon. Lisbon became Berlin. Berlin became London for one night, then Edinburgh for a client who had chosen February for a workshop on renewal and resilience. Her suitcase lived near the stairs with its front pocket open and its tag still looped from the last airline.
+
+Thomas's own suitcase remained in the study.
+
+He packed for Basra in stages. Boots first. Field shirts. Lightweight trousers. Spare glasses. Yellow vaccination booklet. A hard drive. The blue folder from Baku stayed on the desk, not in the suitcase and not in a drawer.
+
+When he opened the study each morning, it was there.
+
+At first Olesya sent only receipts.
+
+School receipt Monday.
+
+Paid. Receipt attached.
+
+Medicine finished.
+
+Then:
+
+Anya's cough better.
+
+Then nothing for six days.
+
+The silence did not behave like absence. It behaved like a closed valve under pressure. Thomas checked the thread between meetings, while the kettle boiled, once in the corridor outside a training room where a man from security was explaining how to recognise improvised checkpoints. The last message remained Medicine finished. No question. No request. No opening.
+
+On the seventh day, Sarah came home from Berlin with a paper bag of pastries and a scarf she said she had bought in a railway station to punish herself for being early.
+
+'You are hovering again,' she said.
+
+Thomas looked up from the study desk.
+
+'Am I?'
+
+'Yes. You do that thing with your shoulders when you are pretending a screen has not offended you.'
+
+'Basra logistics.'
+
+'Naturally.'
+
+She dropped the pastry bag beside his laptop and leaned over his shoulder. He closed the spreadsheet without hurry. It was the Istanbul file, now renamed Travel admin and stripped of the hotel tabs. Only the columns remained: restriction, debt, unknowns.
+
+Sarah glanced at the file name.
+
+'More travel admin?'
+
+'Old notes.'
+
+'You should delete old notes. They breed.'
+
+'Noted.'
+
+She kissed the top of his head, tasted one pastry, made a face, and carried the bag downstairs.
+
+Thomas reopened the file after she left.
+
+The debt column remained blank.
+
+He did not enter ten thousand manat. It was not a number yet. It was a border.
+
+On the Friday before his final Basra briefing, Olesya wrote at 05:13 London time.
+
+Thomas.
+
+Nothing else.
+
+He woke to the message and sat up before he had decided to move. Sarah slept on her side of the bed with one arm outside the duvet, her fingers open on the sheet. Her phone lay face down on the bedside table, charging, ready for the morning flight to Edinburgh.
+
+Thomas took his phone into the bathroom and closed the door.
+
+What happened?
+
+The reply came while the extractor fan hummed above him.
+
+The landlord came.
+
 He waited.
-No voicemail.
-He exhaled. A long, shaky breath.
-Then it rang again.
-Same number.
-He picked it up. Didn’t speak. Just held it to his ear.
-Silence.
-Then, a click.
-‘Tom.’
-Her voice. Clear. Closer than before. As if she was in the room.
-‘I’m here,’ he said. His voice sounded dead. Flat.
-‘I know. I can see you.’
-‘Where?’
-‘On the screen.’
-Thomas looked around. The laptop. The tablet. The smart TV. All black. All dormant.
-‘Which screen?’
-‘Does it matter? They’re all windows, Tom. You just don’t know which ones are open.’
-‘Stop it.’
-‘I’m not doing anything. You’re the one staring at screens all day. Talking to them. Typing into them. I’m just… visiting.’
-‘What do you want?’
-‘I told you. The experiment.’
-‘It’s not an experiment. It’s torture.’
-‘Is there a difference? Both involve pressure. Both reveal what’s underneath.’
-‘There’s nothing underneath. You’ve scraped it all away.’
-‘I don’t believe that. I think there’s something core. Something hard. And I want to see if it breaks.’
-‘I’m breaking, Olesya. Are you happy?’
-‘Happy isn’t the goal. Truth is.’
-‘What truth?’
-‘That you were never safe. That none of us are. We just pretend. We build little fortresses of passwords and locks and routines, and we tell ourselves we’re secure. But it’s all paper. One wind, and it blows away.’
-Thomas gripped the phone. ‘Why me? Why now?’
-‘Because you were the most comfortable. The most asleep. You needed the wake-up call.’
-‘I needed peace.’
-‘Peace is stagnation. You were rotting, Tom. Slowly. Quietly. I just… accelerated the process.’
-‘You stole from me.’
-‘I liberated you.’
-‘You invaded my privacy.’
-‘I showed you that privacy is an illusion.’
-Thomas closed his eyes. ‘I hate you.’
-‘I know. But you’re talking to me. You’re engaging. Before, you were just… existing. Now you’re alive. Angry. Scared. Present.’
-‘I wish I was dead.’
-‘No, you don’t. You want to survive. You want to win.’
-‘There is no winning.’
-‘Maybe not. But there’s playing. And I’d rather play than sleep.’
-The line went quiet. Thomas heard the sound of traffic. Distant. Muffled.
-‘Where are you?’ he asked.
-‘Close.’
-‘In London?’
-‘Maybe.’
-‘Are you watching me?’
-‘Always.’
-‘Physically?’
-‘Does it matter?’
-‘Yes.’
-‘Why?’
-‘Because if you’re here, I can find you. I can stop you.’
-‘You can’t stop this, Tom. It’s inside you now. The doubt. The fear. It’s part of your operating system. Even if I disappear, it stays.’
-Thomas felt a cold wave wash over him. She was right. Even if she died tomorrow, the paranoia would remain. He would check his passwords forever. He would look over his shoulder in every street. He would suspect every silence.
-She had infected him.
-‘I’m coming to find you,’ he said.
-‘Try,’ she said. ‘But be careful. You might not like what you find.’
-‘What does that mean?’
-‘It means the experiment isn’t over. Phase Two starts now.’
-‘Phase Two?’
-‘Watch your email.’
-The line went dead.
-Thomas lowered the phone.
-Phase Two.
-What did that mean? What else could she do?
-He opened the laptop.
-Refreshed the email.
-One new message.
-Sender: Unknown.
-Subject: Phase Two.
-He opened it.
-No text.
-Just a link.
-A URL to a live video feed.
-He hesitated.
-His finger hovered over the trackpad.
-Don’t click. Don’t look.
-But he had to know.
-He clicked.
-The browser opened.
-A video player loaded.
-Black screen.
-Then, image.
-It was a view of a room.
-A kitchen.
-Laminate flooring.
-Seven dark stains.
-A laptop on a table.
-A man sitting in front of it.
-Pale. Haggard. Eyes wide with terror.
-It was him.
-The camera angle was from the corner of the ceiling. High up. Hidden.
-In his own flat.
-She wasn’t in Istanbul.
-She was here.
-Or she had been.
-The feed was live. He saw himself move. Saw his hand tremble as he reached for the mouse.
-He spun around. Looked at the ceiling.
-Nothing. Just the smoke detector. A small white disc.
-Was it inside that?
-He stood up. Knocked the chair over.
-Stared at the detector.
-‘Olesya!’ he shouted. ‘I know you’re watching!’
-Silence.
-Just the hum of the fridge. The tick of the heating.
-He ran to the window. Looked out.
-The opposite building. Rows of windows.
-Which one?
-Was she there? With a telescope? A camera?
-Or was the feed recorded? Looping?
-He looked back at the screen.
-The image on the screen showed him looking out the window.
-It was live.
-She was in the flat.
-Or she had installed a camera.
-When?
-How?
-He remembered the last time she was here. Packing. Rushing.
-Had she climbed on a chair? Slipped something into the detector?
-He couldn’t remember. Memory was a sieve.
-He grabbed a chair. Dragged it to the corner.
-Climbed up.
-Reached for the detector.
-Twisted it.
-Pulled it down.
-Wires dangled.
-He tore it open.
-Circuit board. Battery. Sensor.
-No camera.
-Just a standard smoke detector.
-He dropped it. It crashed to the floor. Plastic shattering.
-He looked around.
-Where else?
-The TV? The laptop webcam? The smart speaker?
-He unplugged everything. Yanked cords from sockets. Threw devices onto the sofa.
-The flat was a mess of wires and plastic.
-He stood in the centre. Breathing hard.
-Looked at the laptop screen.
-The feed was still running.
-He was still there. Standing in the room.
-But the angle hadn’t changed.
-If he had unplugged the camera, why was the feed still live?
-Unless…
-Unless it wasn’t a camera in the room.
-Unless it was a screen share.
-Unless she was controlling his laptop.
-He looked at the trackpad.
-Moved his hand.
-On the screen, his hand moved.
-Real time.
-She wasn’t watching through a hidden lens.
-She was watching through his own eyes. Through his own device.
-She had remote access.
-Full control.
-He slammed the laptop shut.
-The screen went black.
-But the feed… if she had root access, she could still see. Through the microphone. Through the keyboard strokes.
-He grabbed the laptop. Shoved it into a drawer. Slammed it shut.
-Locked the drawer.
-He stood there. Trembling.
-Nowhere was safe.
-His own tools were turned against him.
-He slid down the wall. Sat on the floor.
-Head in hands.
-Phase Two.
-Surveillance from the inside.
-He was living in a panopticon where the guard was a ghost and the walls were made of code.
-He stayed there for hours.
-The light faded. The room grew dark.
-He didn’t move.
-Didn’t eat.
-Didn’t drink.
-Just sat. Listening.
-Waiting for the next move.
-Sleep came eventually. Not because he wanted it, but because his body shut down.
-He dreamt of eyes. Thousands of them. Embedded in walls. In ceilings. In his own skin. Watching. Blinking. Recording.
-He dreamt of Olesya. Sitting at a desk. Typing. Controlling his limbs like a puppet master.
-He woke up gasping.
-Pitch black.
-Silence.
-He fumbled for his phone.
-It buzzed in his hand.
-Unknown Number.
-He answered.
-‘Hello?’
-Silence.
-Click.
-Silence.
-Recording ended.
-He put the phone down.
-Lay back on the floor. Curled up.
-Tomorrow he would burn the laptop. Smash the phone. Move out.
-But tonight, he just lay there.
-In the dark.
-Listening to the silence.
-Wondering if she was watching him right now. Through the darkness. Through the walls.
-Wondering if he was real. Or just a simulation in her game.
-Just access.
-Under another name.
-The thought drifted through his mind.
-He pushed it away.
-Sleep took him.
-When he woke, the sun was up.
-Bright. Harsh.
-The flat was still empty.
-The phone was silent.
-He got up.
-Showered. Dressed.
-Made coffee.
-Drank it standing up.
-Looked at the eight stains on the floor. The broken smoke detector. The pile of unplugged devices.
-Left them.
-Opened the door.
-Stepped out.
-Locked it behind him.
-Walked down the stairs.
-Into the day.
+
+Then:
+
+He says two months or leave.
+
+Thomas stood barefoot on the cold tile. The mirror above the sink showed his face in the dark glass, lit from below by the phone.
+
+How much?
+
+No answer.
+
+He typed again:
+
+Olesya. How much?
+
+She sent a photograph.
+
+It was not a formal notice. A sheet torn from a receipt pad, written in a thick blue pen. Figures. Dates. A name half legible. No official stamp. No signature that would survive a dispute. At the edge of the photograph, Thomas could see a strip of tablecloth, a cup, Anya's pencil case.
+
+Another message:
+
+School also. They say Monday.
+
+Then:
+
+I was not asking.
+
+He sat on the closed toilet lid and enlarged the photograph until the numbers blurred. Rent arrears. Current month. School balance. Late fee. There was no paper in the bathroom, so he wrote them on the back of a shaving-foam box.
+
+When he added them, the total surprised him by being possible.
+
+That was the first danger.
+
+He looked at the bathroom door. Behind it, the bedroom remained dark. Sarah would wake in twenty minutes, shower in twelve, dress in six, leave in eighteen. Her suitcase would click down the stairs. The house would hold her shape for an hour, then release it.
+
+Thomas typed:
+
+I can send this.
+
+The reply came at once.
+
+No.
+
+Then:
+
+I told you after you asked what happened.
+
+The extractor fan cut out. The silence filled the bathroom.
+
+He typed:
+
+If the landlord comes Monday, where do you go?
+
+No answer.
+
+Where does Anya go?
+
+The dots appeared, vanished, appeared again.
+
+School.
+
+Then:
+
+After school I do not know.
+
+Thomas set the phone on the edge of the sink and turned on the tap. Water hit porcelain, too loud in the small room. He cupped his hands beneath it and washed his face without soap. The cold made his teeth meet.
+
+When he looked again, Olesya had sent one more line.
+
+I am looking for work.
+
+He turned off the tap.
+
+By the time Sarah knocked on the bathroom door, he had opened the banking app.
+
+'You alive in there?'
+
+'Yes.'
+
+'You have gone very quiet.'
+
+'Email from Basra.'
+
+'Before six? Charming.'
+
+'Give me two minutes.'
+
+'You have one. I need the shower and a face that can convince Edinburgh I slept.'
+
+He closed the app, opened his work email, and unlocked the door.
+
+Sarah stood in the hall wearing his old university T-shirt and a pair of suit trousers. Her hair was pinned up with a pencil.
+
+'You look hunted,' she said.
+
+'Bad night.'
+
+'You slept.'
+
+'Badly.'
+
+She looked at him, then past him to the sink, where his phone lay face down beside the shaving foam.
+
+'Basra already doing this to you?'
+
+'Apparently.'
+
+'Say no to something today.'
+
+'I will.'
+
+She touched his cheek with two fingers as she passed. The gesture was warm, quick, already on its way to the next task.
+
+Downstairs, while Sarah made coffee in a travel mug and argued with a taxi driver over the phone, Thomas opened a bank transfer page on his laptop.
+
+International transfer.
+
+Recipient.
+
+He had not made Olesya a saved recipient. The fact appeared as a small ceremony of restraint. Every previous envelope, advance, and receipt had passed through office machinery or cash in hand. This would be different. A private line across banks, borders, and explanations.
+
+He typed her full name.
+
+Olesya Petrova.
+
+Country: Azerbaijan.
+
+Bank name.
+
+Account number.
+
+SWIFT code.
+
+He did not have the details.
+
+He messaged:
+
+Send your bank details.
+
+The reply came:
+
+No.
+
+He wrote:
+
+This is for rent and school. Not the debt.
+
+She did not answer.
+
+Sarah came into the study with her travel mug in one hand and her passport in the other.
+
+'Taxi is early. This is either a miracle or a trap.'
+
+'Safe trip.'
+
+'It is Edinburgh. I will survive by sarcasm and conference biscuits.'
+
+She stopped at the door.
+
+'Are you coming down?'
+
+'In a minute.'
+
+'Thomas.'
+
+He looked up.
+
+'If you are already at your desk before I leave, you owe the day something better than spreadsheets.'
+
+'I know.'
+
+'Do you?'
+
+'Sometimes.'
+
+She shook her head, not unkindly, and left.
+
+The front door closed. Her suitcase wheels crossed the threshold. The taxi door shut. The engine moved away.
+
+The house waited.
+
+Thomas looked at the blank recipient screen.
+
+At 07:12, Olesya sent a photograph of a bank card partly covered by her thumb. The account number was visible. Then another message:
+
+Only this. Not more.
+
+He entered the details.
+
+The bank asked for purpose.
+
+Family support.
+
+He changed it to:
+
+Personal support.
+
+Then:
+
+Education.
+
+The field rejected education without an institution name.
+
+He selected:
+
+Other.
+
+The next page asked for a reference. He typed Anya school and rent. It looked too naked. He deleted it.
+
+He typed:
+
+Support.
+
+Then deleted that too.
+
+In the end he wrote:
+
+February.
+
+The bank calculated fees, exchange rate, estimated delivery. Three working days. He paid extra for same-day processing. The fee was indecent and immediately acceptable. Money took a faster road when it was paid to hurry.
+
+Before he clicked submit, he sat with his hand on the trackpad.
+
+The amount on the screen was larger than any sum he had given Olesya before. Not impossible. Not reckless. Not clean.
+
+His phone lit.
+
+From Sarah:
+
+Boarding. Edinburgh has rain and moral superiority.
+
+He typed:
+
+Good luck.
+
+Then he moved his hand back to the laptop and clicked Transfer.
+
+The confirmation page appeared.
+
+Processing.
+
+He saved the PDF before the page could change. Then he printed it. The printer took the paper with a dry pull and released one white sheet bearing the bank's logo, Olesya's name, the amount, the exchange rate, and the reference February.
+
+There it was.
+
+The reply he had not written.
+
+He photographed the confirmation and sent it to Olesya.
+
+Sent. Same-day. Should arrive today.
+
+For nine minutes nothing happened.
+
+Then:
+
+Thomas.
+
+He waited.
+
+You should not.
+
+He typed:
+
+It is done.
+
+The next message took longer.
+
+I will pay back.
+
+He wrote:
+
+No rush.
+
+Then, seeing the softness of it, deleted it.
+
+Keep receipts.
+
+He sent that.
+
+No reply.
+
+At ten, he attended the Basra briefing. The conference room had a glass wall and a tray of untouched sandwiches curling at the corners. A security consultant with clipped hair spoke about movement protocols, convoy discipline, and the difference between routine and predictability.
+
+Thomas took notes in the margin of his printed transfer confirmation.
+
+Avoid fixed pattern.
+
+Carry cash.
+
+Document all expenditure.
+
+Do not improvise alone.
+
+He underlined the last one by accident.
+
+'Mr Ward?'
+
+He looked up.
+
+The consultant had paused at the screen. A map of southern Iraq glowed behind him, roads marked in red and yellow.
+
+'Your previous rotation was Azerbaijan?'
+
+'Yes.'
+
+'Then you know the principle. Local conditions decide what procedure cannot.'
+
+'Yes.'
+
+The man moved on.
+
+Thomas folded the transfer confirmation in half and put it inside his notebook.
+
+At eleven thirty, his phone rang with the bank's number.
+
+He left the conference room before answering. The corridor outside smelled of carpet glue and coffee. Someone had left a tray of used cups on the narrow table by the lifts. Brown rings had dried around the rims.
+
+'Mr Ward?'
+
+'Speaking.'
+
+'This is International Payments Verification. We are calling regarding a same-day transfer initiated this morning.'
+
+The woman on the line had a voice designed to remove weather from a room.
+
+'Yes.'
+
+'For security, I need to confirm the recipient name.'
+
+'Olesya Petrova.'
+
+'And the destination country?'
+
+'Azerbaijan.'
+
+'And your relationship to the recipient?'
+
+The corridor narrowed.
+
+In the conference room, through the glass, the consultant moved a red pointer along a convoy route. Men in chairs leaned over their papers. One of them reached for a sandwich and changed his mind.
+
+'Personal,' Thomas said.
+
+'I am sorry, sir, I need a little more detail.'
+
+'A friend.'
+
+The word was both too small and too large.
+
+'And the purpose of funds?'
+
+'Rent and school fees.'
+
+'For the recipient?'
+
+'For her household.'
+
+Keys clicked on the other end of the line.
+
+'Do you have documentation relating to the payment?'
+
+Thomas looked down at his notebook. The transfer confirmation was folded inside it. Beneath the cover, in his own hand: Avoid fixed pattern. Carry cash. Document all expenditure.
+
+'Receipts will follow.'
+
+'From the recipient?'
+
+'Yes.'
+
+'Please understand that payments to certain jurisdictions can be delayed by intermediary checks.'
+
+'It is marked same-day.'
+
+'Same-day means the instruction is prioritised. It does not guarantee settlement in the recipient account.'
+
+He had known that. He had paid the fee anyway.
+
+'Can you tell me if it will clear today?'
+
+'I cannot guarantee that.'
+
+'Can you tell me what is missing?'
+
+'At this stage, nothing is missing. The payment is under routine review.'
+
+Routine. The word stood up in the corridor with its clean shoes and empty hands.
+
+'There is time sensitivity.'
+
+'I will add a note to the file.'
+
+'What does that do?'
+
+The woman paused. Not long enough to be rude. Long enough to tell the truth by omission.
+
+'It records the information.'
+
+Thomas looked through the glass again. The map of Iraq glowed behind the consultant. Red roads. Yellow roads. Movement permitted, movement discouraged, movement at convoy discretion.
+
+'Please record that rent and school payment are due today.'
+
+'I will add that.'
+
+'And that delay creates risk.'
+
+'I can add that the payment is time-sensitive.'
+
+'Add risk.'
+
+Another pause.
+
+'I can add time-sensitive.'
+
+He closed his eyes for one breath.
+
+'Fine.'
+
+When the call ended, he stood in the corridor with the phone in his hand. The lifts opened. Two men came out laughing about something on a screen. One of them nodded at him. Thomas nodded back and returned to the briefing.
+
+On his notepad, beneath Do not improvise alone, he wrote:
+
+Routine review.
+
+Then:
+
+Time-sensitive.
+
+Then, after a moment:
+
+Risk.
+
+At lunch, Sarah sent a photograph of a conference table in Edinburgh. Lanyards. Coffee cups. A plate of biscuits with only the plain ones left.
+
+She wrote:
+
+Proof of hardship.
+
+He replied:
+
+Severe.
+
+She wrote:
+
+Send aid.
+
+He looked at the words until the screen dimmed.
+
+Then he put the phone away.
+
+Olesya did not message in the afternoon.
+
+Thomas checked the banking portal at one fifteen.
+
+Processing.
+
+At one forty-eight.
+
+Processing.
+
+At two ten, the status changed to additional checks.
+
+He copied the phrase into the spreadsheet and stared at it until the words separated from meaning. Additional checks. More glass. More rooms. More people behind counters deciding whether the shape of a need matched the shape of a field on a screen.
+
+He opened Olesya's message thread.
+
+Payment delayed by bank checks.
+
+He did not send it.
+
+He typed:
+
+Still processing.
+
+He did not send that either.
+
+If she was at home, the message would only give the room another sound. If she was out with the landlord, it would arrive as nothing useful. If she was at the school, it would become one more small paper held in her hand while someone waited.
+
+At two twenty-five, she wrote:
+
+Any news?
+
+He answered:
+
+Bank reviewing. I called. Still today.
+
+The lie was not in the words. It was in the certainty he placed between them.
+
+Her reply:
+
+Landlord comes at six.
+
+Then:
+
+School office closes five.
+
+Thomas looked at the clock above the conference-room door. The second hand moved with a small, mechanical tick, each tick making the same promise to everyone in the building.
+
+He wrote:
+
+I am watching it.
+
+The phrase was useless. It was also all he had.
+
+The transfer status changed from processing to released at two forty-three. He refreshed the page three times before leaving it alone. Released did not mean received. It meant his bank had let go. Somewhere between London and Baku, the money was travelling through correspondent accounts, currency exchanges, compliance checks, settlement windows, rooms full of servers no one had to see.
+
+It was easier to imagine a physical object.
+
+An envelope passing from hand to hand.
+
+At four, he walked home rather than taking the Underground. The air smelled of wet leaves and bus diesel. Schoolchildren moved in packs along the pavement, swinging bags, kicking at puddles, eating crisps from shared packets. Outside a florist, a man arranged tulips in buckets. Red, yellow, white. The stems were wrapped in brown paper near the base, all of them leaning towards the street.
+
+Thomas stopped at a cash machine and checked his balance.
+
+The transfer had already left.
+
+The number on the screen looked smaller, but not wounded. His life had absorbed the loss without visible damage. The mortgage would be paid. The bills would clear. Sarah's taxi from Edinburgh airport would charge to the joint card. Basra would pay hardship allowance from the day he entered country.
+
+In Baku, the same number would decide whether a child came home from school to a locked door.
+
+He took the printed balance slip and folded it into his pocket.
+
+At home, he placed the transfer confirmation on the study desk beside the Istanbul spreadsheet. He should have shredded the spreadsheet. He slid the confirmation on top of it. The new paper covered the old route.
+
+At five twelve, Olesya sent a photograph of the school office door.
+
+Closed.
+
+The word had been printed on a white sheet and taped to the glass from inside. Behind it, a corridor ran back into a building the colour of old chalk. A row of children's coats hung along one wall. The photograph was taken at an angle, quickly, before someone could ask why.
+
+Thomas called her.
+
+She did not answer.
+
+He typed:
+
+Tomorrow morning.
+
+No reply.
+
+At five thirty-nine, she sent:
+
+Landlord waiting.
+
+No punctuation. No photograph.
+
+He opened the banking portal again.
+
+Released.
+
+Still released.
+
+He called the bank and reached a different voice.
+
+'The funds have left us, Mr Ward.'
+
+'Where are they?'
+
+'With the correspondent bank or the recipient bank.'
+
+'Which?'
+
+'We do not have visibility at that stage.'
+
+A sound rose in his throat and stopped. Visibility. The money had become invisible at the exact moment he needed to see it.
+
+'Can you recall it?'
+
+'A recall may take several business days.'
+
+'I do not want to recall it.'
+
+'Then the payment is proceeding.'
+
+'It is not arriving.'
+
+'It may still arrive today.'
+
+May. Still. Today.
+
+He thanked her. Politeness ended the call more quickly than saying what the words were worth.
+
+At six, no message came.
+
+At six ten, Sarah sent:
+
+Dinner with client. Pray for me.
+
+He replied:
+
+Good luck.
+
+At six fourteen, Olesya wrote:
+
+He is in stair.
+
+Thomas stood from the desk. The chair rolled back and struck the wall. He picked up the phone, then put it down, then picked it up again.
+
+Tell him transfer is released.
+
+He sent the confirmation PDF again.
+
+Show him this.
+
+The ticks appeared. Delivered. Read.
+
+No reply.
+
+He stayed standing.
+
+The house had become too quiet for London. Even the buses seemed to pass at a distance.
+
+At six twenty-seven, she wrote:
+
+He says paper is not money.
+
+Thomas looked at the screen. In Baku, a man stood in a stairwell saying the one true thing about the system.
+
+He typed:
+
+I can speak to him.
+
+Her answer:
+
+No.
+
+Then:
+
+Anya home.
+
+Then nothing.
+
+For the next forty minutes he kept the banking portal open on the laptop and Olesya's thread open on the phone. He did not sit. He moved between desk and window, window and door, door and desk. Outside, people came home with shopping bags, gym bags, flowers, laptop cases. Lives returning to rooms that opened when keys turned.
+
+At seven oh nine, Olesya wrote:
+
+Received.
+
+One word.
+
+Then, ahead of his answer:
+
+Landlord paid.
+
+Then:
+
+School paid.
+
+A photograph arrived.
+
+Two receipts on her kitchen table. The landlord's slip was still informal, but this time it had a signature and a date. The school receipt bore a stamp in blue ink. Anya's exercise book sat beside it, closed. The pencil case lay straight along the edge of the table.
+
+Thomas enlarged the image.
+
+The school stamp had caught the paper unevenly. Half dark, half pale.
+
+Then another photograph.
+
+Anya in a school coat, standing by the flat door. The photograph was slightly blurred. She was looking away from the camera, one hand on the strap of her bag. Her hair was tied back better than before. On the wall behind her, the wallpaper had lifted again near the taped window.
+
+No caption.
+
+Thomas looked at the child's face for longer than the image needed.
+
+Then a message:
+
+She knows.
+
+He typed:
+
+Knows what?
+
+The answer came:
+
+That rent is paid.
+
+Thomas sat back.
+
+The house had gone dark without him noticing. The study window reflected the room: his face, the desk lamp, the paper stacks, the blue folder, the phone in his hand.
+
+He typed:
+
+Good.
+
+He deleted it.
+
+He typed:
+
+I am glad.
+
+He deleted that too.
+
+After a minute, he wrote:
+
+Keep both receipts.
+
+He sent it.
+
+The response came at once.
+
+I have.
+
+Then:
+
+Thank you.
+
+No name.
+
+No further line.
+
+Thomas printed the transfer confirmation again.
+
+He did not know why until the page was in his hand. One copy for records. One copy for the thing records did not hold. He placed the second copy in the blue folder from Baku, behind the phrase sheet, where Thank you and How much and Where is the receipt were written in Olesya's narrow hand.
+
+The folder no longer belonged to travel.
+
+At eight, Sarah called from Edinburgh.
+
+'I am in a hotel room with a view of an extractor vent,' she said.
+
+'Luxury.'
+
+'And a minibar that thinks almonds are jewellery.'
+
+'Do not eat the almonds.'
+
+'Too late.'
+
+He heard her shoes come off, one after the other, dropping onto carpet.
+
+'How was the Basra briefing?'
+
+'Predictable.'
+
+'That sounds comforting.'
+
+'They warned us not to become predictable.'
+
+'Then it was unpredictable advice about predictability.'
+
+'Something like that.'
+
+She laughed softly. The sound loosened something in the room, then left it looser than before.
+
+'You sound better,' she said.
+
+'Do I?'
+
+'Less like a spreadsheet with a pulse.'
+
+He looked at the blue folder.
+
+'Long day.'
+
+'Mine too. A man used the phrase cultural alignment six times before lunch. I counted for survival.'
+
+'Did it work?'
+
+'Barely.'
+
+She paused.
+
+'Come up this weekend if you want. Edinburgh is wet, but in a theatrical way.'
+
+'I have packing.'
+
+'For Iraq, or for some internal exile I have not been briefed on?'
+
+'Iraq.'
+
+'Good. Pack socks. You always forget socks.'
+
+'I do not.'
+
+'You always buy socks at airports. It is your most consistent travel behaviour.'
+
+They spoke for another seven minutes. Weather. A client dinner. Basra dates. Sarah's plan to come to the compound after her spring contracts, if the company housing was ready and the air route held. A visible future, provisional but named.
+
+When the call ended, Thomas remained seated with the phone in his hand.
+
+Olesya's message thread sat above Sarah's in the list.
+
+Received.
+
+Landlord paid.
+
+School paid.
+
+She knows.
+
+Keep both receipts.
+
+I have.
+
+Thank you.
+
+The sequence was cleaner than conversation. A problem had entered. A sum had moved. Paper had answered. The room in Baku had stayed available to the child who needed to sleep there.
+
+He read the lines again. His breathing slowed around the order of them.
+
+Problem. Sum. Receipt.
+
+The shape held.
+
+At midnight, he opened the spreadsheet.
+
+Restriction.
+
+Debt.
+
+Unknowns.
+
+He added another column.
+
+Transfers.
+
+Under it, he entered the date, the amount, the fee, the exchange rate, and the reference.
+
+February.
+
+Then he added notes.
+
+Rent two months. School balance. Same-day. Receipts received.
+
+He sat with the cursor blinking in the next empty row.
+
+The transfer had solved nothing about the passport. It had not moved Olesya one mile closer to Istanbul. It had not touched the old debt. It had not explained Sarah, Basra, marriage, or the distance between a wife with a passport in Edinburgh and a woman with a child in a flat in Baku.
+
+But the landlord had been paid.
+
+The school had been paid.
+
+Anya had gone home.
+
+He saved the spreadsheet.
+
+In Baku, Olesya opened the tin after Anya had fallen asleep. The new rent receipt went beneath the older one. The school receipt went into a separate clear sleeve, behind Anya's certificates and the first school photograph Thomas had never seen.
+
+The flat had settled into its night sounds. The small refrigerator clicked, stopped, clicked again. Water moved somewhere inside the wall. In the other room, Anya turned once under the blanket and coughed without waking. Olesya waited until the cough passed before moving the papers.
+
+The landlord's receipt had been written in the stairwell. His pen had pressed hard enough to bruise the paper. He had counted the cash twice, looked once at the confirmation on her phone, and then at Thomas's name. Not asked. Only looked. The school receipt was cleaner. Printed, stamped, signed by a woman who had not raised her eyes when Olesya paid the balance after office hours through the side door.
+
+Olesya flattened both receipts beneath her palm.
+
+The money had entered the day as delay, then paper, then cash, then stamps.
+
+Now it had to become something else.
+
+She smoothed the transfer confirmation on the table. He had sent it as an image, but she had printed it at a copy shop before paying the landlord. The paper had a faint vertical line where the printer toner had failed.
+
+She did not put it with the rent.
+
+She did not put it with the school.
+
+For a while it remained alone on the plastic tablecloth, bank logo at the top, his name in one box, hers in another, the amount between them.
+
+Then she folded it once and placed it behind the blue folder's fresh sleeve.
+
+Not proof of payment.
+
+Not exactly.
